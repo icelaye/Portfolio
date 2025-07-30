@@ -77,7 +77,7 @@
             align-items: center;
             justify-content: center;
             text-align: center;
-            color: 333;
+            color: #333;
             position: relative;
             overflow: hidden;
         }
@@ -389,30 +389,69 @@
         }
 
         /* Responsive */
-        @media (max-width: 768px) {
-            .nav-links {
-                display: none;
-            }
+@media (max-width: 1024px) {
+    .about-content {
+        grid-template-columns: 1fr;
+        text-align: center;
+        gap: 2rem;
+    }
+    
+    .portfolio-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+}
 
-            .hero h1 {
-                font-size: 2.5rem;
-            }
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
 
-            .about-content {
-                grid-template-columns: 1fr;
-                text-align: center;
-            }
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+    
+    .hero p {
+        font-size: 1rem;
+    }
 
-            .portfolio-grid {
-                grid-template-columns: 1fr;
-            }
+    .portfolio-grid {
+        grid-template-columns: 1fr;
+    }
 
-            section {
-                margin: 10px;
-                padding: 60px 20px;
-            }
-        }
+    section {
+        margin: 10px;
+        padding: 60px 20px;
+    }
+    
+    .section-title {
+        font-size: 2rem;
+    }
+    
+    .profile-image {
+        width: 200px;
+        height: 200px;
+        font-size: 3rem;
+    }
+}
 
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+    
+    .cta-button {
+        padding: 10px 25px;
+        font-size: 0.9rem;
+    }
+    
+    .project-card {
+        padding: 1.5rem;
+    }
+    
+    nav {
+        padding: 1rem;
+    }
+}
         /* Smooth scrolling */
         html {
             scroll-behavior: smooth;
@@ -434,7 +473,7 @@
 <body>
     <header>
         <nav>
-            <a href="#" class="logo">Ivan Celaye</a>
+            <a href="#" class="logo">Ivo Celaye</a>
             <ul class="nav-links">
                 <li><a href="#inicio">Inicio</a></li>
                 <li><a href="#sobre-mi">Sobre Mí</a></li>
@@ -528,11 +567,11 @@
     <footer>
         <div class="container">
             <div class="social-links">
-                <a href="#" title="LinkedIn">💼</a>
-                <a href="#" title="GitHub">💻</a>
-                <a href="#" title="Kaggle">🏆</a>
-                <a href="#" title="Email">📧</a>
-            </div>
+                <a href="https://www.linkedin.com/in/ivancelaye/" target="_blank" title="LinkedIn">💼</a>
+                <a href="https://x.com/iCelaye" target="_blank" title="Twitter/X">🐦</a>
+                <a href="https://github.com/icelaye" title="GitHub">💻</a>
+               <a href="mailto:icelaye363@gmail.com" title="Email">📧</a>
+</div>
             <p>&copy; 2025 Ivan Ignacio Celaye. Todos los derechos reservados.</p>
         </div>
     </footer>
