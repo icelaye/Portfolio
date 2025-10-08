@@ -4,6 +4,48 @@ import os
 import time
 import requests
 
+# ============================================================================
+# SISTEMA DE CONTROL DE DUPLICADOS
+# ============================================================================
+
+def cargar_papers_enviados():
+    """
+    Carga la lista de títulos de papers ya enviados
+    """
+    archivo = 'papers_enviados.txt'
+    if os.path.exists(archivo):
+        with open(archivo, 'r', encoding='utf-8') as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
+
+def guardar_paper_enviado(titulo):
+    """
+    Guarda el título de un paper como enviado
+    """
+    archivo = 'papers_enviados.txt'
+    with open(archivo, 'a', encoding='utf-8') as f:
+        f.write(f"{titulo}\n")
+
+def filtrar_papers_nuevos(papers, papers_enviados):
+    """
+    Filtra papers que no han sido enviados previamente
+    """
+    papers_nuevos = []
+    papers_duplicados = 0
+    
+    for paper in papers:
+        if paper['titulo'] not in papers_enviados:
+            papers_nuevos.append(paper)
+        else:
+            papers_duplicados += 1
+    
+    print(f"\n📊 Filtrado de duplicados:")
+    print(f"   Papers totales encontrados: {len(papers)}")
+    print(f"   Papers ya enviados (duplicados): {papers_duplicados}")
+    print(f"   Papers nuevos a enviar: {len(papers_nuevos)}")
+    
+    return papers_nuevos
+
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # Configuración
@@ -12,7 +54,7 @@ openai.api_key = OPENAI_API_KEY
 ENVIAR_EMAIL = True
 
 # CONFIGURACIÓN DE SEMANTIC SCHOLAR
-MIN_CITATIONS = 5
+MIN_CITATIONS = 4
 MAX_PAPERS_SEMANTIC = 50
 
 # ============================================================================
@@ -31,7 +73,7 @@ DESTINATARIOS = [
 ]
 
 GMAIL_REMITENTE = "icelaye363@gmail.com"
-GMAIL_PASSWORD = "wgfc doem nrvm dvcb"
+GMAIL_PASSWORD = os.environ.get('GMAIL_PASSWORD', 'wgfc doem nrvm dvcb')
 
 def enviar_email_gmail(archivo_html, destinatarios=None):
     """
@@ -453,17 +495,34 @@ if __name__ == "__main__":
     fecha_archivo = datetime.now().strftime('%Y-%m-%d')
     nombre_html = f'digesto_papers_{fecha_archivo}.html'
     
+    # Cargar papers ya enviados
+    papers_enviados = cargar_papers_enviados()
+    print(f"📚 Papers en historial: {len(papers_enviados)}")
+    
+    # Buscar nuevos papers
     papers = buscar_papers_dia_anterior()
     
     if papers:
-        print(f"\n📋 Total de papers encontrados: {len(papers)}")
+        # Filtrar duplicados
+        papers_nuevos = filtrar_papers_nuevos(papers, papers_enviados)
         
-        crear_reporte(papers)
-        guardar_reporte_html(papers, nombre_html)
-        
-        if ENVIAR_EMAIL:
-            enviar_email_gmail(nombre_html)
-        
-        print(f"\n✅ Proceso completado exitosamente!")
+        if papers_nuevos:
+            print(f"\n📋 Total de papers NUEVOS encontrados: {len(papers_nuevos)}")
+            
+            crear_reporte(papers_nuevos)
+            guardar_reporte_html(papers_nuevos, nombre_html)
+            
+            # Guardar los títulos de papers nuevos como enviados
+            for paper in papers_nuevos:
+                guardar_paper_enviado(paper['titulo'])
+            
+            if ENVIAR_EMAIL:
+                enviar_email_gmail(nombre_html)
+            
+            print(f"\n✅ Proceso completado exitosamente!")
+            print(f"📝 {len(papers_nuevos)} nuevos papers guardados en el historial")
+        else:
+            print("\n⚠️ No se encontraron papers nuevos (todos son duplicados)")
+            print("   No se enviará email")
     else:
         print("❌ No se encontraron papers en el período especificado.")

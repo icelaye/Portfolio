@@ -2,10 +2,9 @@ name: Daily Paper Digest
 
 on:
   schedule:
-    # Ejecuta todos los días a las 8:00 AM (hora UTC)
-    # Para Argentina (UTC-3), las 8 AM son las 11:00 UTC
+    # Ejecuta todos los días a las 8:00 AM Argentina (11:00 UTC)
     - cron: '0 11 * * *'
-  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+  workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
   run-digest:
@@ -32,3 +31,11 @@ jobs:
       run: |
         cd automations/digestio-scholar
         python DigestoDiarioScholar.py
+    
+    - name: Commit and push papers history
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add automations/digestio-scholar/papers_enviados.txt
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update papers history [skip ci]"
+        git push
