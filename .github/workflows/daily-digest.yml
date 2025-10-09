@@ -6,6 +6,9 @@ on:
     - cron: '0 11 * * *'
   workflow_dispatch: # Permite ejecutarlo manualmente
 
+permissions:
+  contents: write  # Permite hacer push al repositorio
+
 jobs:
   run-digest:
     runs-on: ubuntu-latest
@@ -13,6 +16,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -37,5 +42,4 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add automations/digestio-scholar/papers_enviados.txt
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update papers history [skip ci]"
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update papers history [skip ci]" && git push)
