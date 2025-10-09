@@ -54,7 +54,7 @@ openai.api_key = OPENAI_API_KEY
 ENVIAR_EMAIL = True
 
 # CONFIGURACIÓN DE SEMANTIC SCHOLAR
-MIN_CITATIONS = 4
+MIN_CITATIONS = 3
 MAX_PAPERS_SEMANTIC = 50
 
 # ============================================================================
@@ -69,7 +69,9 @@ from email import encoders
 
 # CONFIGURACIÓN DE EMAIL
 DESTINATARIOS = [
-    "icelaye363@gmail.com"
+    "icelaye363@gmail.com",
+    "marianoftaha@gmail.com",
+    "diegofloresv16@gmail.com"
 ]
 
 GMAIL_REMITENTE = "icelaye363@gmail.com"
