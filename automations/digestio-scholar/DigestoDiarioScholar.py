@@ -90,7 +90,7 @@ def enviar_email_gmail(archivo_html, destinatarios=None):
         msg = MIMEMultipart('alternative')
         msg['From'] = GMAIL_REMITENTE
         msg['To'] = ", ".join(destinatarios)
-        msg['Subject'] = f"📚 Digesto Semanal Data Science - {datetime.now().strftime('%d/%m/%Y')}"
+        msg['Subject'] = f"📚 Digesto Diario Data Science - {datetime.now().strftime('%d/%m/%Y')}"
         
         with open(archivo_html, 'r', encoding='utf-8') as f:
             html_content = f.read()
@@ -236,7 +236,6 @@ def buscar_papers_dia_anterior():
         'deep learning',
         'artificial intelligence',
         'natural language processing',
-        'reinforcement learning',
         'neural networks',
         'data science',
         'knowledge graphs',
@@ -245,8 +244,7 @@ def buscar_papers_dia_anterior():
         'econometrics',
         'chatgpt',
         'big data',
-        'mlops',
-        'causal inference'
+        'mlops'
     ]
     
     papers = buscar_papers_semantic_scholar(
