@@ -754,39 +754,6 @@
             submitBtn.textContent = 'Enviando...';
             submitBtn.disabled = true;
         });
-
-        const heroSubtitle = document.querySelector('.hero .subtitle');
-        const subtitles = [
-            'Data & Analytics Engineer',
-            'Pipelines de datos • Visualizaciones • Machine Learning',
-            'Transicionando hacia Data Science'
-        ];
-        let textIndex = 0;
-        let charIndex = 0;
-        let isDeleting = false;
-        
-        function typeWriter() {
-            const currentText = subtitles[textIndex];
-            
-            if (isDeleting) {
-                heroSubtitle.textContent = currentText.substring(0, charIndex - 1);
-                charIndex--;
-            } else {
-                heroSubtitle.textContent = currentText.substring(0, charIndex + 1);
-                charIndex++;
-            }
-            
-            if (!isDeleting && charIndex === currentText.length) {
-                setTimeout(() => isDeleting = true, 2000);
-            } else if (isDeleting && charIndex === 0) {
-                isDeleting = false;
-                textIndex = (textIndex + 1) % subtitles.length;
-            }
-            
-            setTimeout(typeWriter, isDeleting ? 50 : 100);
-        }
-        
-        setTimeout(typeWriter, 2000);
     </script>
 </body>
 </html>
