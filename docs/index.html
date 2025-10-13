@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Portafolio</title>
+    <title>Ivo Celaye | Data & Analytics Engineer</title>
     <style>
         * {
             margin: 0;
@@ -15,7 +15,7 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
             color: #333;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 50%, #7e22ce 100%);
             min-height: 100vh;
         }
 
@@ -49,6 +49,17 @@
             font-weight: bold;
             color: white;
             text-decoration: none;
+            font-family: 'Courier New', monospace;
+        }
+
+        .logo::before {
+            content: '< ';
+            color: #10b981;
+        }
+
+        .logo::after {
+            content: ' />';
+            color: #10b981;
         }
 
         .nav-links {
@@ -66,7 +77,7 @@
         }
 
         .nav-links a:hover {
-            background: rgba(255, 255, 255, 0.2);
+            background: rgba(16, 185, 129, 0.2);
             transform: translateY(-2px);
         }
 
@@ -77,7 +88,7 @@
             align-items: center;
             justify-content: center;
             text-align: center;
-            color: #333;
+            color: white;
             position: relative;
             overflow: hidden;
         }
@@ -93,6 +104,13 @@
             text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
 
+        .hero .subtitle {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+            color: #10b981;
+            font-weight: 600;
+        }
+
         .hero p {
             font-size: 1.2rem;
             margin-bottom: 2rem;
@@ -102,18 +120,18 @@
         .cta-button {
             display: inline-block;
             padding: 12px 30px;
-            background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+            background: linear-gradient(45deg, #10b981, #059669);
             color: white;
             text-decoration: none;
             border-radius: 50px;
             transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
             font-weight: 500;
         }
 
         .cta-button:hover {
             transform: translateY(-3px);
-            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+            box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
         }
 
         .floating-shapes {
@@ -125,7 +143,7 @@
 
         .shape {
             position: absolute;
-            background: rgba(255,255,255,0.1);
+            background: rgba(16, 185, 129, 0.1);
             border-radius: 50%;
             animation: float 6s ease-in-out infinite;
         }
@@ -167,7 +185,7 @@
             text-align: center;
             font-size: 2.5rem;
             margin-bottom: 3rem;
-            color: #333;
+            color: #1e3c72;
             position: relative;
         }
 
@@ -179,35 +197,15 @@
             transform: translateX(-50%);
             width: 50px;
             height: 3px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
+            background: linear-gradient(45deg, #10b981, #059669);
             border-radius: 2px;
         }
 
         /* About Section */
         .about-content {
-            display: grid;
-            grid-template-columns: 1fr 2fr;
-            gap: 3rem;
-            align-items: center;
-        }
-
-        .profile-image {
-            width: 250px;
-            height: 250px;
-            border-radius: 50%;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 4rem;
-            color: white;
+            max-width: 800px;
             margin: 0 auto;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-            transition: transform 0.3s ease;
-        }
-
-        .profile-image:hover {
-            transform: scale(1.05);
+            text-align: center;
         }
 
         .about-text {
@@ -216,22 +214,81 @@
             color: #666;
         }
 
+        .about-text strong {
+            color: #1e3c72;
+        }
+
+        .company-badge {
+            display: inline-block;
+            background: linear-gradient(45deg, #fff100, #ffed00);
+            color: #000;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-weight: bold;
+            font-size: 0.9rem;
+            margin: 0 4px;
+        }
+
+        /* Skills Section */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .skill-category {
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 15px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .skill-category:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+
+        .skill-category h3 {
+            color: #1e3c72;
+            margin-bottom: 1rem;
+            font-size: 1.1rem;
+        }
+
+        .skill-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            justify-content: center;
+        }
+
+        .skill-tag {
+            background: #e0f2fe;
+            color: #0369a1;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
         /* Portfolio Section */
         .portfolio-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
             gap: 2rem;
             margin-top: 3rem;
         }
 
         .project-card {
-            background: #f8f9fa;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
             border-radius: 15px;
             padding: 2rem;
             transition: all 0.3s ease;
             cursor: pointer;
             position: relative;
             overflow: hidden;
+            border: 2px solid transparent;
         }
 
         .project-card::before {
@@ -241,7 +298,7 @@
             left: -100%;
             width: 100%;
             height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+            background: linear-gradient(90deg, transparent, rgba(16, 185, 129, 0.1), transparent);
             transition: left 0.5s ease;
         }
 
@@ -251,13 +308,14 @@
 
         .project-card:hover {
             transform: translateY(-10px);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+            box-shadow: 0 15px 40px rgba(30, 60, 114, 0.2);
+            border-color: #10b981;
         }
 
         .project-icon {
             width: 60px;
             height: 60px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
+            background: linear-gradient(45deg, #1e3c72, #10b981);
             border-radius: 15px;
             display: flex;
             align-items: center;
@@ -270,12 +328,43 @@
         .project-card h3 {
             font-size: 1.3rem;
             margin-bottom: 1rem;
-            color: #333;
+            color: #1e3c72;
         }
 
         .project-card p {
             color: #666;
             line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+
+        .project-tech {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .tech-badge {
+            background: #10b981;
+            color: white;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .project-link {
+            display: inline-block;
+            margin-top: 1rem;
+            color: #10b981;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .project-link:hover {
+            color: #059669;
+            transform: translateX(5px);
         }
 
         /* Contact Section */
@@ -309,8 +398,8 @@
         .form-group input:focus,
         .form-group textarea:focus {
             outline: none;
-            border-color: #667eea;
-            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+            border-color: #10b981;
+            box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.1);
         }
 
         .form-group textarea {
@@ -319,7 +408,7 @@
         }
 
         .submit-btn {
-            background: linear-gradient(45deg, #667eea, #764ba2);
+            background: linear-gradient(45deg, #1e3c72, #10b981);
             color: white;
             border: none;
             padding: 15px 30px;
@@ -332,12 +421,12 @@
 
         .submit-btn:hover {
             transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+            box-shadow: 0 5px 15px rgba(16, 185, 129, 0.3);
         }
 
         /* Footer */
         footer {
-            background: #333;
+            background: #1a1a1a;
             color: white;
             text-align: center;
             padding: 2rem;
@@ -355,18 +444,19 @@
         .social-links a {
             width: 40px;
             height: 40px;
-            background: rgba(255,255,255,0.1);
+            background: rgba(16, 185, 129, 0.2);
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: white;
+            color: #10b981;
             text-decoration: none;
             transition: all 0.3s ease;
         }
 
         .social-links a:hover {
-            background: rgba(255,255,255,0.2);
+            background: #10b981;
+            color: white;
             transform: translateY(-2px);
         }
 
@@ -389,75 +479,76 @@
         }
 
         /* Responsive */
-@media (max-width: 1024px) {
-    .about-content {
-        grid-template-columns: 1fr;
-        text-align: center;
-        gap: 2rem;
-    }
-    
-    .portfolio-grid {
-        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    }
-}
+        @media (max-width: 1024px) {
+            .skills-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .portfolio-grid {
+                grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            }
+        }
 
-@media (max-width: 768px) {
-    .nav-links {
-        display: none;
-    }
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
 
-    .hero h1 {
-        font-size: 2.5rem;
-    }
-    
-    .hero p {
-        font-size: 1rem;
-    }
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+            
+            .hero .subtitle {
+                font-size: 1.2rem;
+            }
 
-    .portfolio-grid {
-        grid-template-columns: 1fr;
-    }
+            .hero p {
+                font-size: 1rem;
+            }
 
-    section {
-        margin: 10px;
-        padding: 60px 20px;
-    }
-    
-    .section-title {
-        font-size: 2rem;
-    }
-    
-    .profile-image {
-        width: 200px;
-        height: 200px;
-        font-size: 3rem;
-    }
-}
+            .portfolio-grid {
+                grid-template-columns: 1fr;
+            }
 
-@media (max-width: 480px) {
-    .hero h1 {
-        font-size: 2rem;
-    }
-    
-    .cta-button {
-        padding: 10px 25px;
-        font-size: 0.9rem;
-    }
-    
-    .project-card {
-        padding: 1.5rem;
-    }
-    
-    nav {
-        padding: 1rem;
-    }
-}
-        /* Smooth scrolling */
+            section {
+                margin: 10px;
+                padding: 60px 20px;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+            }
+            
+            .profile-image {
+                width: 200px;
+                height: 200px;
+                font-size: 3rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+            
+            .cta-button {
+                padding: 10px 25px;
+                font-size: 0.9rem;
+            }
+            
+            .project-card {
+                padding: 1.5rem;
+            }
+            
+            nav {
+                padding: 1rem;
+            }
+        }
+
         html {
             scroll-behavior: smooth;
         }
 
-        /* Section reveal animation */
         .reveal {
             opacity: 0;
             transform: translateY(50px);
@@ -477,6 +568,7 @@
             <ul class="nav-links">
                 <li><a href="#inicio">Inicio</a></li>
                 <li><a href="#sobre-mi">Sobre Mí</a></li>
+                <li><a href="#skills">Skills</a></li>
                 <li><a href="#proyectos">Proyectos</a></li>
                 <li><a href="#contacto">Contacto</a></li>
             </ul>
@@ -491,8 +583,9 @@
         </div>
         <div class="hero-content">
             <h1>¡Hola! Soy Ivo Celaye</h1>
-            <p>Data Scientist | Análisis de Datos | Machine Learning</p>
-            <a href="#proyectos" class="cta-button">Ver Mi Trabajo</a>
+            <p class="subtitle">Data & Analytics Engineer @ MercadoLibre</p>
+            <p>Transformando datos en insights accionables | ML | ETL | Visualización</p>
+            <a href="#proyectos" class="cta-button">Ver Mis Proyectos</a>
         </div>
     </section>
 
@@ -500,13 +593,46 @@
         <div class="container">
             <h2 class="section-title">Sobre Mí</h2>
             <div class="about-content">
-                <div class="profile-image">
-                    📊
-                </div>
                 <div class="about-text">
-                    <p>Soy un Data Scientist apasionado por extraer insights valiosos de los datos y transformarlos en soluciones que generen impacto real. Actualmente curso mi maestría en Austral, profundizando mis conocimientos en análisis avanzado y machine learning.</p>
-                    <p>Mi experiencia abarca desde análisis exploratorio de datos hasta implementación de modelos predictivos, siempre buscando contar historias convincentes a través de visualizaciones claras y análisis rigurosos.</p>
-                    <p>Me especializo en Python, R, SQL y herramientas de visualización como Tableau y Power BI, con un enfoque particular en resolver problemas de negocio mediante metodologías basadas en datos.</p>
+                    <p>Soy <strong>Data & Analytics Engineer</strong> en <span class="company-badge">MercadoLibre</span>, donde construyo pipelines de datos y análisis que impulsan decisiones estratégicas a escala.</p>
+                    
+                    <p>Mi pasión está en <strong>extraer valor de los datos</strong>: desde el diseño de arquitecturas ETL hasta la implementación de modelos de ML que resuelven problemas reales de negocio.</p>
+                    
+                    <p>Actualmente curso mi <strong>Maestría en Ciencia de Datos en la Universidad Austral</strong>, profundizando en técnicas avanzadas de análisis y optimización de sistemas de datos.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="reveal">
+        <div class="container">
+            <h2 class="section-title">Stack Tecnológico</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>🐍 Lenguajes & Tools</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">SQL</span>
+                        <span class="skill-tag">R</span>
+                        <span class="skill-tag">Git</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>📊 Visualización</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Tableau</span>
+                        <span class="skill-tag">Power BI</span>
+                        <span class="skill-tag">Looker</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>🤖 Agentes & AI</h3>
+                    <div class="skill-tags">
+                        <span class="skill-tag">OpenAI API</span>
+                        <span class="skill-tag">LangChain</span>
+                        <span class="skill-tag">Claude</span>
+                        <span class="skill-tag">Automation</span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -514,27 +640,33 @@
 
     <section id="proyectos" class="reveal">
         <div class="container">
-            <h2 class="section-title">Mis Proyectos</h2>
+            <h2 class="section-title">Proyectos Destacados</h2>
             <div class="portfolio-grid">
                 <div class="project-card">
-                    <div class="project-icon">📊</div>
-                    <h3>Análisis Predictivo de Ventas</h3>
-                    <p>Desarrollo de modelo de machine learning para predecir ventas trimestrales usando datos históricos, con precisión del 92% y visualizaciones interactivas en Tableau.</p>
+                    <div class="project-icon">📚</div>
+                    <h3>Digesto Scholar Automatizado</h3>
+                    <p>Sistema automatizado de curación y síntesis de papers científicos usando Semantic Scholar API y GPT-4. Genera digestos académicos diarios en español con filtrado inteligente de duplicados y métricas de relevancia.</p>
+                    <p><strong>Características:</strong> Búsqueda multi-criterio, sistema de reintentos con backoff exponencial, generación de reportes HTML responsivos, envío automático por email.</p>
+                    <div class="project-tech">
+                        <span class="tech-badge">Python</span>
+                        <span class="tech-badge">OpenAI API</span>
+                        <span class="tech-badge">Semantic Scholar</span>
+                        <span class="tech-badge">GitHub Actions</span>
+                    </div>
+                    <a href="https://github.com/icelaye/Portfolio/tree/main/automations/digestio-scholar" class="project-link" target="_blank">Ver Código →</a>
                 </div>
+
                 <div class="project-card">
-                    <div class="project-icon">🔍</div>
-                    <h3>Segmentación de Clientes</h3>
-                    <p>Implementación de algoritmos de clustering (K-means) para identificar patrones de comportamiento y optimizar estrategias de marketing personalizado.</p>
-                </div>
-                <div class="project-card">
-                    <div class="project-icon">📈</div>
-                    <h3>Dashboard de KPIs</h3>
-                    <p>Creación de dashboard ejecutivo en Power BI con métricas clave de negocio, automatización de reportes y alertas en tiempo real.</p>
-                </div>
-                <div class="project-card">
-                    <div class="project-icon">🤖</div>
-                    <h3>Sistema de Recomendación</h3>
-                    <p>Desarrollo de motor de recomendaciones usando collaborative filtering y análisis de comportamiento de usuarios para e-commerce.</p>
+                    <div class="project-icon">🏢</div>
+                    <h3>ETL & Analytics - KYC Empresarial</h3>
+                    <p>Pipeline completo de extracción, transformación y carga de datos para flujos de Know Your Customer (KYC) de empresas. Incluye validación de datos, normalización de información empresarial y dashboard analítico para monitoreo de métricas clave.</p>
+                    <p><strong>Impacto:</strong> Automatización del 80% del proceso manual, reducción de tiempo de validación y visualizaciones en tiempo real para compliance.</p>
+                    <div class="project-tech">
+                        <span class="tech-badge">Python</span>
+                        <span class="tech-badge">SQL</span>
+                        <span class="tech-badge">Pandas</span>
+                        <span class="tech-badge">Tableau</span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -542,9 +674,9 @@
 
     <section id="contacto" class="reveal">
         <div class="container">
-            <h2 class="section-title">Contacto</h2>
+            <h2 class="section-title">Conectemos</h2>
             <div class="contact-content">
-                <p>¿Tienes un proyecto en mente? ¡Me encantaría escuchar sobre él! Contacta conmigo y hagamos realidad tus ideas.</p>
+                <p>¿Tienes un proyecto de datos en mente? ¿Quieres colaborar o simplemente charlar sobre Data Science? ¡Me encantaría conectar contigo!</p>
                 <form class="contact-form">
                     <div class="form-group">
                         <input type="text" placeholder="Tu nombre" required>
@@ -569,15 +701,15 @@
             <div class="social-links">
                 <a href="https://www.linkedin.com/in/ivancelaye/" target="_blank" title="LinkedIn">💼</a>
                 <a href="https://x.com/iCelaye" target="_blank" title="Twitter/X">🐦</a>
-                <a href="https://github.com/icelaye" title="GitHub">💻</a>
-               <a href="mailto:icelaye363@gmail.com" title="Email">📧</a>
-</div>
-            <p>&copy; 2025 Ivan Ignacio Celaye. Todos los derechos reservados.</p>
+                <a href="https://github.com/icelaye" target="_blank" title="GitHub">💻</a>
+                <a href="mailto:icelaye363@gmail.com" title="Email">📧</a>
+            </div>
+            <p>&copy; 2025 Ivo Celaye | Data & Analytics Engineer</p>
         </div>
     </footer>
 
     <script>
-        // Smooth scrolling for navigation links
+        // Smooth scrolling
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
                 e.preventDefault();
@@ -598,15 +730,11 @@
             const navLinks = document.querySelectorAll('.nav-links a');
             
             if (window.scrollY > 100) {
-                header.style.background = 'rgba(255, 255, 255, 0.95)';
-                header.style.boxShadow = '0 2px 20px rgba(0,0,0,0.1)';
-                logo.style.color = '#333';
-                navLinks.forEach(link => link.style.color = '#333');
+                header.style.background = 'rgba(30, 60, 114, 0.95)';
+                header.style.boxShadow = '0 2px 20px rgba(0,0,0,0.2)';
             } else {
                 header.style.background = 'rgba(255, 255, 255, 0.1)';
                 header.style.boxShadow = 'none';
-                logo.style.color = 'white';
-                navLinks.forEach(link => link.style.color = 'white');
             }
         });
 
@@ -624,7 +752,7 @@
         };
 
         window.addEventListener('scroll', revealOnScroll);
-        revealOnScroll(); // Check on load
+        revealOnScroll();
 
         // Form submission
         document.querySelector('.contact-form').addEventListener('submit', function(e) {
@@ -633,34 +761,25 @@
             this.reset();
         });
 
-        // Project cards interaction
-        document.querySelectorAll('.project-card').forEach(card => {
-            card.addEventListener('click', function() {
-                // Aquí puedes agregar lógica para mostrar más detalles del proyecto
-                const projectTitle = this.querySelector('h3').textContent;
-                alert(`Más información sobre: ${projectTitle}`);
-            });
-        });
-
-        // Dynamic typing effect for hero text (optional enhancement)
-        const heroText = document.querySelector('.hero p');
-        const texts = [
-            'Data Scientist | Análisis de Datos | Machine Learning',
-            'Transformando Datos en Insights Valiosos',
-            'Maestría en Austral - Ciencia de Datos'
+        // Dynamic typing effect
+        const heroSubtitle = document.querySelector('.hero .subtitle');
+        const subtitles = [
+            'Data & Analytics Engineer @ MercadoLibre',
+            'Building Data Pipelines at Scale',
+            'ML • ETL • Analytics • Visualization'
         ];
         let textIndex = 0;
         let charIndex = 0;
         let isDeleting = false;
         
         function typeWriter() {
-            const currentText = texts[textIndex];
+            const currentText = subtitles[textIndex];
             
             if (isDeleting) {
-                heroText.textContent = currentText.substring(0, charIndex - 1);
+                heroSubtitle.textContent = currentText.substring(0, charIndex - 1);
                 charIndex--;
             } else {
-                heroText.textContent = currentText.substring(0, charIndex + 1);
+                heroSubtitle.textContent = currentText.substring(0, charIndex + 1);
                 charIndex++;
             }
             
@@ -668,13 +787,12 @@
                 setTimeout(() => isDeleting = true, 2000);
             } else if (isDeleting && charIndex === 0) {
                 isDeleting = false;
-                textIndex = (textIndex + 1) % texts.length;
+                textIndex = (textIndex + 1) % subtitles.length;
             }
             
             setTimeout(typeWriter, isDeleting ? 50 : 100);
         }
         
-        // Start typing effect after page load
         setTimeout(typeWriter, 2000);
     </script>
 </body>
