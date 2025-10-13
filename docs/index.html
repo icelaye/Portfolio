@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ivo Celaye | Data & Analytics Engineer</title>
+    <title>Ivo Celaye | Data & Analytics Engineer → Data Scientist</title>
     <style>
         * {
             margin: 0;
@@ -232,7 +232,7 @@
         /* Skills Section */
         .skills-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             gap: 2rem;
             margin-top: 2rem;
         }
@@ -481,7 +481,7 @@
         /* Responsive */
         @media (max-width: 1024px) {
             .skills-grid {
-                grid-template-columns: 1fr;
+                grid-template-columns: repeat(2, 1fr);
             }
             
             .portfolio-grid {
@@ -519,10 +519,8 @@
                 font-size: 2rem;
             }
             
-            .profile-image {
-                width: 200px;
-                height: 200px;
-                font-size: 3rem;
+            .skills-grid {
+                grid-template-columns: 1fr;
             }
         }
 
@@ -583,8 +581,8 @@
         </div>
         <div class="hero-content">
             <h1>¡Hola! Soy Ivo Celaye</h1>
-            <p class="subtitle">Data & Analytics Engineer @ MercadoLibre</p>
-            <p>Transformando datos en insights accionables | ML | ETL | Visualización</p>
+            <p class="subtitle">Data & Analytics Engineer | DS Enthusiast</p>
+            <p>ETL • Analytics • Machine Learning • Automation</p>
             <a href="#proyectos" class="cta-button">Ver Mis Proyectos</a>
         </div>
     </section>
@@ -594,11 +592,13 @@
             <h2 class="section-title">Sobre Mí</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p>Soy <strong>Data & Analytics Engineer</strong> en <span class="company-badge">MercadoLibre</span>, donde construyo pipelines de datos y análisis que impulsan decisiones estratégicas a escala.</p>
+                    <p>Soy <strong>Data & Analytics Engineer</strong> en <span class="company-badge">MercadoLibre</span>, donde construyo pipelines de datos y sistemas analíticos que impulsan decisiones estratégicas a escala.</p>
                     
-                    <p>Mi pasión está en <strong>extraer valor de los datos</strong>: desde el diseño de arquitecturas ETL hasta la implementación de modelos de ML que resuelven problemas reales de negocio.</p>
+                    <p>Mi día a día incluye diseñar arquitecturas ETL robustas, optimizar flujos de datos y crear dashboards analíticos. Pero mi <strong>verdadera pasión está en el Machine Learning</strong>: desarrollar modelos predictivos que extraigan valor real de los datos y resuelvan problemas complejos de negocio.</p>
                     
-                    <p>Actualmente curso mi <strong>Maestría en Ciencia de Datos en la Universidad Austral</strong>, profundizando en técnicas avanzadas de análisis y optimización de sistemas de datos.</p>
+                    <p>Actualmente curso mi <strong>Maestría en Ciencia de Datos en la Universidad Austral</strong>, donde estoy profundizando en técnicas avanzadas de ML, modelado estadístico y análisis predictivo. A través de proyectos académicos y personales, estoy construyendo un portfolio sólido en Data Science con el objetivo de <strong>transicionar profesionalmente a este rol</strong>.</p>
+                    
+                    <p><em>Busco oportunidades para aplicar Machine Learning en contextos reales y seguir creciendo como Data Scientist.</em></p>
                 </div>
             </div>
         </div>
@@ -676,7 +676,7 @@
         <div class="container">
             <h2 class="section-title">Conectemos</h2>
             <div class="contact-content">
-                <p>¿Tienes un proyecto de datos en mente? ¿Quieres colaborar o simplemente charlar sobre Data Science? ¡Me encantaría conectar contigo!</p>
+                <p>¿Tienes un proyecto de Data Science? ¿Buscas alguien con sólida base en ingeniería de datos y creciente expertise en ML? ¡Conversemos!</p>
                 <form class="contact-form" action="https://formspree.io/f/manpleoy" method="POST">
                     <div class="form-group">
                         <input type="text" name="name" placeholder="Tu nombre" required>
@@ -704,12 +704,11 @@
                 <a href="https://github.com/icelaye" target="_blank" title="GitHub">💻</a>
                 <a href="mailto:icelaye363@gmail.com" title="Email">📧</a>
             </div>
-            <p>&copy; 2025 Ivo Celaye | Data & Analytics Engineer</p>
+            <p>&copy; 2025 Ivo Celaye | Data & Analytics Engineer transitioning to Data Science</p>
         </div>
     </footer>
 
     <script>
-        // Smooth scrolling
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
                 e.preventDefault();
@@ -723,11 +722,8 @@
             });
         });
 
-        // Header background on scroll
         window.addEventListener('scroll', () => {
             const header = document.querySelector('header');
-            const logo = document.querySelector('.logo');
-            const navLinks = document.querySelectorAll('.nav-links a');
             
             if (window.scrollY > 100) {
                 header.style.background = 'rgba(30, 60, 114, 0.95)';
@@ -738,7 +734,6 @@
             }
         });
 
-        // Reveal sections on scroll
         const revealElements = document.querySelectorAll('.reveal');
         const revealOnScroll = () => {
             revealElements.forEach(element => {
@@ -754,19 +749,17 @@
         window.addEventListener('scroll', revealOnScroll);
         revealOnScroll();
 
-        // Form submission
         document.querySelector('.contact-form').addEventListener('submit', function(e) {
-            e.preventDefault();
-            alert('¡Gracias por tu mensaje! Te responderé pronto.');
-            this.reset();
+            const submitBtn = this.querySelector('.submit-btn');
+            submitBtn.textContent = 'Enviando...';
+            submitBtn.disabled = true;
         });
 
-        // Dynamic typing effect
         const heroSubtitle = document.querySelector('.hero .subtitle');
         const subtitles = [
-            'Data & Analytics Engineer @ MercadoLibre',
-            'Building Data Pipelines at Scale',
-            'ML • ETL • Analytics • Visualization'
+            'Data & Analytics Engineer → Data Scientist',
+            'Pipelines de datos • Machine Learning',
+            'Transicionando hacia Data Science'
         ];
         let textIndex = 0;
         let charIndex = 0;
