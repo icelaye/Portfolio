@@ -1,0 +1,8 @@
+# docs/_config.yml
+title: Portfolio - Data Scientist
+description: Portfolio profesional de Data Science
+theme: jekyll-theme-minimal
+
+# Excluir archivos innecesarios
+exclude:
+  - README.md
