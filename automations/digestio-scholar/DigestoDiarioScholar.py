@@ -49,7 +49,7 @@ def filtrar_papers_nuevos(papers, papers_enviados):
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # Configuración
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', 'tu-api-key-local')
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 openai.api_key = OPENAI_API_KEY
 ENVIAR_EMAIL = True
 
@@ -75,7 +75,7 @@ DESTINATARIOS = [
 ]
 
 GMAIL_REMITENTE = "icelaye363@gmail.com"
-GMAIL_PASSWORD = os.environ.get('GMAIL_PASSWORD', 'wgfc doem nrvm dvcb')
+GMAIL_PASSWORD = os.environ.get('GMAIL_PASSWORD')
 
 def enviar_email_gmail(archivo_html, destinatarios=None):
     """
