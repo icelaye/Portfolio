@@ -27,3 +27,7 @@ Characteristics and outcomes in outpatients with heart failure in Russia: result
 smash v1.0: a differentiable and regionalizable high-resolution hydrological modeling and data assimilation framework
 Complete and Continuous Invariants of 1-Periodic Sequences in Polynomial Time
 Slow-moving rock glaciers in marginal periglacial environment of Southern Carpathians
+Evaluation Of The Implementation Of The Independent Curriculum
+Black Hole in the Quantum Oppenheimer–Snyder Model: Long Lived Modes and the Overtones' Behavior
+AI as Legal Persons: Past, Patterns, and Prospects
+DarkHash: A Data-Free Backdoor Attack Against Deep Hashing
