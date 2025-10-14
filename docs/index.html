@@ -353,9 +353,14 @@
             font-weight: 500;
         }
 
+        .project-links {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
         .project-link {
             display: inline-block;
-            margin-top: 1rem;
             color: #10b981;
             text-decoration: none;
             font-weight: 600;
@@ -365,6 +370,23 @@
         .project-link:hover {
             color: #059669;
             transform: translateX(5px);
+        }
+
+        .demo-badge {
+            background: linear-gradient(45deg, #10b981, #059669);
+            color: white;
+            padding: 6px 12px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+
+        .demo-badge:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
         }
 
         /* Contact Section */
@@ -640,6 +662,25 @@
         <div class="container">
             <h2 class="section-title">Proyectos Destacados</h2>
             <div class="portfolio-grid">
+                
+                <div class="project-card">
+                    <div class="project-icon">🎓</div>
+                    <h3>Chatbot Asistente - UNLaM Económicas</h3>
+                    <p>Chatbot inteligente con RAG (Retrieval-Augmented Generation) para asesorar sobre carreras del Departamento de Ciencias Económicas de la Universidad Nacional de La Matanza. Sistema con memoria contextual que mantiene coherencia en conversaciones largas.</p>
+                    <p><strong>Características:</strong> Búsqueda semántica con embeddings de OpenAI, información detallada de carga horaria por materia, fallback a web scraping, integración con Streamlit Cloud.</p>
+                    <div class="project-tech">
+                        <span class="tech-badge">Python</span>
+                        <span class="tech-badge">OpenAI API</span>
+                        <span class="tech-badge">Streamlit</span>
+                        <span class="tech-badge">RAG</span>
+                        <span class="tech-badge">NLP</span>
+                    </div>
+                    <div class="project-links">
+                        <a href="https://chatbotunlameconomicas.streamlit.app/" class="demo-badge" target="_blank">🚀 Ver Demo</a>
+                        <a href="https://github.com/icelaye/Portfolio/tree/main/ChatbotUNLaM" class="project-link" target="_blank">Ver Código →</a>
+                    </div>
+                </div>
+
                 <div class="project-card">
                     <div class="project-icon">📚</div>
                     <h3>Digesto Scholar Automatizado</h3>
