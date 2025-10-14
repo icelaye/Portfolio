@@ -30,7 +30,7 @@ Chatbot inteligente con RAG (Retrieval-Augmented Generation) para asesorar sobre
 ### 1. Clonar o descargar el repositorio
 
 ```bash
-git clone [url-del-repositorio]
+git clone https://github.com/icelaye/Portfolio/tree/main/ChatbotUNLaM
 cd chatbot-unlam
 ```
 
