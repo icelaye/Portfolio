@@ -31,3 +31,6 @@ Evaluation Of The Implementation Of The Independent Curriculum
 Black Hole in the Quantum Oppenheimer–Snyder Model: Long Lived Modes and the Overtones' Behavior
 AI as Legal Persons: Past, Patterns, and Prospects
 DarkHash: A Data-Free Backdoor Attack Against Deep Hashing
+LLM-Friendly Knowledge Representation for Customer Support
+Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts
+Analytical Survey of Learning with Low-Resource Data: From Analysis to Investigation
