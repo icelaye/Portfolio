@@ -51,3 +51,5 @@ A metatheory of classical and modern connectionism.
 The gender gap in the care economy is larger in highly developed countries: Sociocultural explanations for paradoxical findings.
 Exploring biases related to the use of large language models in a multilingual depression corpus
 Theological Response to the Ecological Crisis:
+Expediting Reinforcement Learning by Incorporating Knowledge About Temporal Causality in the Environment
+Ambusher: Exploring the Security of Distributed SDN Controllers Through Protocol State Fuzzing
