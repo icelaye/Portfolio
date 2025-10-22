@@ -236,13 +236,11 @@ def buscar_papers_dia_anterior():
         'deep learning',
         'artificial intelligence',
         'natural language processing',
-        'neural networks',
+        'neural network',
         'data science',
         'knowledge graphs',
-        'language models',
+        'llm',
         'transformers',
-        'econometrics',
-        'chatgpt',
         'big data',
         'mlops'
     ]
