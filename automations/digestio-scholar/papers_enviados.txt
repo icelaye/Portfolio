@@ -63,3 +63,10 @@ Use of Influenza Antivirals to Prevent Transmission.
 Host Immunomodulatory Interventions in Severe Influenza.
 Handy numerals: compositional elements in body-based numeration systems
 Influenza Antivirals for Prevention and Treatment in Immunocompromised People.
+A Novel Approach for Developing Intrusion Detection Systems in Mobile Social Networks
+The cognitive processing of numerical bases: a review of empirical evidence
+A machine learning approach to automation and uncertainty evaluation for self-validating thermocouples
+Prediction/Assessment of CO2 EOR and Storage Efficiency in Residual Oil Zones Using Machine Learning Techniques
+Thames Tideway Tunnel: design responsibilities, phases and system-wide design challenges
+Bases, positions and computations
+On the grammar of restricted-range numeral systems
