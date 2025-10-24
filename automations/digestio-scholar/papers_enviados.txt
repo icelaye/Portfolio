@@ -70,3 +70,9 @@ Prediction/Assessment of CO2 EOR and Storage Efficiency in Residual Oil Zones Us
 Thames Tideway Tunnel: design responsibilities, phases and system-wide design challenges
 Bases, positions and computations
 On the grammar of restricted-range numeral systems
+Spatio-temporal Sign Language Representation and Translation
+Sign Language Translation with Sentence Embedding Supervision
+A matter of size: Comparing IV and OLS estimates
+A Novel Approach to Breast Cancer Segmentation Using U-Net Model with Attention Mechanisms and FedProx
+UrbanTALES: A Large-Eddy Simulation Dataset for Urban Canopy Layer Turbulence and Parameterization
+Contextual Augmentation for Entity Linking using Large Language Models
