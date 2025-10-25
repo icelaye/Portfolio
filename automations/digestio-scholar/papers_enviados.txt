@@ -76,3 +76,6 @@ A matter of size: Comparing IV and OLS estimates
 A Novel Approach to Breast Cancer Segmentation Using U-Net Model with Attention Mechanisms and FedProx
 UrbanTALES: A Large-Eddy Simulation Dataset for Urban Canopy Layer Turbulence and Parameterization
 Contextual Augmentation for Entity Linking using Large Language Models
+Federated Learning via Meta-Variational Dropout
+Neurocomputational basis of learning when choices simultaneously affect both oneself and others
+Neural Variational Dropout Processes
