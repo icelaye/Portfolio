@@ -88,3 +88,10 @@ The East India Company and the Politics of Knowledge
 Blockchain Signatures to Ensure Information Integrity and Non-Repudiation in the Digital Era: A comprehensive study
 If You Want to Be Robust, Be Wary of Initialization
 Iteratively Refined Early Interaction Alignment for Subgraph Matching based Graph Retrieval
+DESIGN OF LOW POWER SRAM IN 45nm CMOS TECHNOLOGY
+Visual Context Window Extension: A New Perspective for Long Video Understanding
+EmoSym: A Symbiotic Framework for Unified Emotional Understanding and Generation via Latent Reasoning
+Urban Area Observing System (UAOS) simulation experiment using DQ-1 total column concentration observations
+How many vector charmonium(-like) states sit in the energy range from 4.2 to 4.35 GeV?
+AIQAM'25: The 2nd ACM Workshop on AI-powered Question Answering Systems for Multimedia
+The 2025 Grand Challenge on Multimedia Verification: Foundations and Overview
