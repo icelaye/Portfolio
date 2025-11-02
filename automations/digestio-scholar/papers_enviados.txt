@@ -95,3 +95,19 @@ Urban Area Observing System (UAOS) simulation experiment using DQ-1 total column
 How many vector charmonium(-like) states sit in the energy range from 4.2 to 4.35 GeV?
 AIQAM'25: The 2nd ACM Workshop on AI-powered Question Answering Systems for Multimedia
 The 2025 Grand Challenge on Multimedia Verification: Foundations and Overview
+Designing Collaborative Intelligence Systems for Employee-AI Service Co-Production
+Re-GAN: Data-Efficient GANs Training via Architectural Reconfiguration
+Embodied AI-Enhanced Vehicular Networks: An Integrated Vision Language Models and Reinforcement Learning Method
+Financial Constraints and the Racial Housing Gap
+Semi-Supervised Adaptive Symmetric Nonnegative Matrix Factorization for Multi-View Clustering
+Adaptive Linear Time-Varying Parameter-Varying Modeling of Lithium-Ion Batteries Considering Aging Phenomenon
+Knowledge-Empowered Distributed Learning Platform in Internet of Unmanned Aerial Agents to Support NR-V2X Communication
+LSNN Model: A Lightweight Spiking Neural Network-Based Depression Classification Model for Wearable EEG Sensors
+Charging Pricing in Power-Traffic Systems With Price-Elastic Demand: A Quasi-Variational Inequality Approach
+Federated Reinforcement Learning for Intelligent Route Planning in Aerial-Terrestrial Network
+Spike Memory Transformer: An Energy-Efficient Model in Distributed Learning Framework for Autonomous Depression Detection
+A Method for Detecting and Localizing Open-Circuit Switch Faults in MMCs Using Separable Conv2D Neural Networks
+Knowledge-Integrated GAN Model for Stochastic Time-Series Simulation of Year-Round Weather for Photovoltaic Integration Analysis
+Robust Fuzzy Control of Network-Type Re-Entrant Manufacturing Systems With Communication Delays
+Multiple Access for Holographic Reconfigurable Intelligent Surface (HRIS)-Aided Near-Field Communications
+A DSO-Driven Privacy-Preserving Mechanism for Managing Power Exchanges in Australian Networks
