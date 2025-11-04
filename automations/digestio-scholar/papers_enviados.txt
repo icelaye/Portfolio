@@ -111,3 +111,5 @@ Knowledge-Integrated GAN Model for Stochastic Time-Series Simulation of Year-Rou
 Robust Fuzzy Control of Network-Type Re-Entrant Manufacturing Systems With Communication Delays
 Multiple Access for Holographic Reconfigurable Intelligent Surface (HRIS)-Aided Near-Field Communications
 A DSO-Driven Privacy-Preserving Mechanism for Managing Power Exchanges in Australian Networks
+Scheduling Data-Intensive Workloads in Large-Scale Distributed Systems: Trends and Challenges
+DreamArrangement: Learning Language-Conditioned Robotic Rearrangement of Objects via Denoising Diffusion and VLM Planner
