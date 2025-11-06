@@ -113,3 +113,5 @@ Multiple Access for Holographic Reconfigurable Intelligent Surface (HRIS)-Aided 
 A DSO-Driven Privacy-Preserving Mechanism for Managing Power Exchanges in Australian Networks
 Scheduling Data-Intensive Workloads in Large-Scale Distributed Systems: Trends and Challenges
 DreamArrangement: Learning Language-Conditioned Robotic Rearrangement of Objects via Denoising Diffusion and VLM Planner
+FastPrEP: a protocol to evaluate uptake, coverage, and effectiveness of a youth-focused, decentralised and differentiated district-wide HIV pre-exposure prophylaxis program
+EdgeAIBus: AI-Driven Joint Container Management and Model Selection Framework for Heterogeneous Edge Computing
