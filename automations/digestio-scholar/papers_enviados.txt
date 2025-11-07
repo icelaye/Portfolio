@@ -115,3 +115,31 @@ Scheduling Data-Intensive Workloads in Large-Scale Distributed Systems: Trends a
 DreamArrangement: Learning Language-Conditioned Robotic Rearrangement of Objects via Denoising Diffusion and VLM Planner
 FastPrEP: a protocol to evaluate uptake, coverage, and effectiveness of a youth-focused, decentralised and differentiated district-wide HIV pre-exposure prophylaxis program
 EdgeAIBus: AI-Driven Joint Container Management and Model Selection Framework for Heterogeneous Edge Computing
+Default Options and Retirement Saving Dynamics
+IOT Based Energy Meter Reading
+Robust Real-Time Audio–Visual Speech Enhancement Based on DNN and GAN
+From Routine to Reflection: Pruning Neural Networks in Communication-Efficient Federated Learning
+Classification of Induction Motor Fault and Imbalance Based on Vibration Signal Using Single Antenna’s Reactive Near Field
+Classification of Lower Limb Activities Based on Discrete Wavelet Transform Using On-Body Creeping Wave Propagation
+Impact and Relevance of Cognition Journal in the Field of Cognitive Science: An Evaluation
+Inferring Fine‐Scale Mutation and Recombination Rate Maps in Aye‐Ayes (Daubentonia madagascariensis)
+U.S. Immigration Policy
+Sparse Model Inversion: Efficient Inversion of Vision Transformers for Data-Free Applications
+Parameter Interpolation Adversarial Training for Robust Image Classification
+AI and Digital Twin for Consumer Electronics in Smart Cities
+Primary care and primary healthcare in obesity management
+Neurodiversity at Work: Challenges and Opportunities for Human Resource Management
+Library and Culture: A Scientometric Analysis and Visualization of Research Trends
+Unveiling the limits of deep learning models in hydrological extrapolation tasks
+Learning for Visible Light Communications: Potential Scenarios and Applications
+Exploiting Gaussian Noise Variance for Dynamic Differential Poisoning in Federated Learning
+Incomplete Multiview Clustering Using Discriminative Feature Recovery and Tensorized Matrix Factorization
+Bidirectional-Modulation Frequency-Heterogeneous Network for Remote Sensing Image Dehazing
+Decoding the Intellectual Landscape and Evolving Research Paradigm of Artificial Intelligence in Environmental Sustainability
+A Systematic Review of Effectiveness of Digital Tools to Improve Writing Skills of ESL Students
+Thames Tideway Tunnel: purpose, overview, delivery model and financing
+Applying Large Language Models to Sponsored Search Advertising
+A Novel Formation Control Strategy for USVs With Improved DDPG: Simulation and Field Test
+GAANet: Graph Aggregation Alignment Feature Fusion for Multispectral Object Detection
+Ethical Challenges of Artificial Intelligence in Education
+Enhanced Photovoltaic Defect Detection Using Perceptual Loss in DCGAN and VGG16-Integrated Models on Electroluminescence Images
