@@ -143,3 +143,10 @@ A Novel Formation Control Strategy for USVs With Improved DDPG: Simulation and F
 GAANet: Graph Aggregation Alignment Feature Fusion for Multispectral Object Detection
 Ethical Challenges of Artificial Intelligence in Education
 Enhanced Photovoltaic Defect Detection Using Perceptual Loss in DCGAN and VGG16-Integrated Models on Electroluminescence Images
+MaDiNet: Mamba Diffusion Network for SAR Target Detection
+Holding Platforms Liable
+Supply Chain Disruptions, the Structure of Production Networks, and the Impact of Globalization
+An Information-Theoretic Framework for Out-of-Distribution Generalization With Applications to Stochastic Gradient Langevin Dynamics
+Design and Evaluation of Dual Excitation Permanent Magnet Linear Machine With Optimal Utilization of Extended Working Harmonics
+Multi-model approach to understand and predict past and future dengue epidemic dynamics
+Comprehensive Analysis of Solar Irradiance and Photovoltaic Power Generation: Case Studies in Wuhan and Zhangbei, China
