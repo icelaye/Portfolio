@@ -150,3 +150,9 @@ An Information-Theoretic Framework for Out-of-Distribution Generalization With A
 Design and Evaluation of Dual Excitation Permanent Magnet Linear Machine With Optimal Utilization of Extended Working Harmonics
 Multi-model approach to understand and predict past and future dengue epidemic dynamics
 Comprehensive Analysis of Solar Irradiance and Photovoltaic Power Generation: Case Studies in Wuhan and Zhangbei, China
+Fleet Management System
+Antitrust Platform Regulation and Entrepreneurship: Evidence from China
+MEDICINE RECOMMENDATION SYSTEM
+Building-resolving simulations of anthropogenic and biospheric CO
+ 2
+ in the city of Zurich with GRAMM/GRAL
