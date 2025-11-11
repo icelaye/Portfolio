@@ -156,3 +156,8 @@ MEDICINE RECOMMENDATION SYSTEM
 Building-resolving simulations of anthropogenic and biospheric CO
  2
  in the city of Zurich with GRAMM/GRAL
+Monod: model-based discovery and integration through fitting stochastic transcriptional dynamics to single-cell sequencing data
+Estimation of Generalized Tail Distortion Risk Measures with Applications in Reinsurance
+Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations
+ReGen: Generative Robot Simulation via Inverse Design
+Extreme warming of Amazon waters in a changing climate.
