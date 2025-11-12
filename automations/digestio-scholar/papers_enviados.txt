@@ -161,3 +161,6 @@ Estimation of Generalized Tail Distortion Risk Measures with Applications in Rei
 Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations
 ReGen: Generative Robot Simulation via Inverse Design
 Extreme warming of Amazon waters in a changing climate.
+Informational Entropy-Based Value Formation: A New Paradigm for a Deeper Understanding of Value.
+Gender diversity in bank boardrooms and green lending: Evidence from euro area credit register data
+Nonbank Lending and the Transmission of Monetary Policy
