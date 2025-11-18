@@ -182,3 +182,6 @@ IoT-Driven Facial Expression Recognition for Personalized Healthcare in Industry
 The exploration of consciousness in insects
 HAKIKAT MANUSIA DALAM PANDANGAN ISLAM
 A History of Mathematics
+Automatic Fruit Sorting Machine Based on Weight
+Voice Controlled Home Automation Using ESP32 and IoT-Based Cloud Integration
+A Comprehensive Review of Real-Time Feeder Monitoring and Auditing Systems: Architectures, Technologies, and Analytics for the Smart Grid
