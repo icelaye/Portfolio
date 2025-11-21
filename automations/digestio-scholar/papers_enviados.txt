@@ -186,3 +186,7 @@ Automatic Fruit Sorting Machine Based on Weight
 Voice Controlled Home Automation Using ESP32 and IoT-Based Cloud Integration
 A Comprehensive Review of Real-Time Feeder Monitoring and Auditing Systems: Architectures, Technologies, and Analytics for the Smart Grid
 Ice Giants Pre-Decadal Survey Mission Study Report
+Unveiling proteomic and peptide-level modifications in cerebrospinal fluid and plasma in normal cognitive aging
+DNALONGBENCH: a benchmark suite for long-range DNA prediction tasks
+AllergenAI: a deep learning model predicting allergenicity based on protein sequence
+Discoverability of African Journals by Google Scholar and Inclusion in Scopus
