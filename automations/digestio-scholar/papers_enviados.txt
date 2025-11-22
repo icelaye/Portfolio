@@ -190,3 +190,12 @@ Unveiling proteomic and peptide-level modifications in cerebrospinal fluid and p
 DNALONGBENCH: a benchmark suite for long-range DNA prediction tasks
 AllergenAI: a deep learning model predicting allergenicity based on protein sequence
 Discoverability of African Journals by Google Scholar and Inclusion in Scopus
+Surveying the State and Local Government Public Health Workforce: The Design and Evolution of PH WINS 2024
+Non-Clairvoyant Makespan Minimization Scheduling with Predictions
+Pain and opioids after surgery (PANDOS)
+A Pathogen Selection Tool for Surveillance of Acute Febrile Illness in Nigeria
+HGCN2SP: Hierarchical Graph Convolutional Network for Two-Stage Stochastic Programming
+Pennsieve: A Collaborative Platform for Translational Neuroscience and Beyond
+Measurement of the ice-nucleating particle concentration with the Portable Ice Nucleation Experiment during the Pallas Cloud Experiment 2022
+The TropoPause Composition TOwed Sensor Shuttle (TPC-TOSS): a new airborne dual platform approach for atmospheric composition measurements at the tropopause
+Design and Implementation of a One Health Framework for Evaluating the Transmission Potential of Pathogens of Public Health Interest for Surveillance Studies
