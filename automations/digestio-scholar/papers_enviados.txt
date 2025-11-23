@@ -199,3 +199,7 @@ Pennsieve: A Collaborative Platform for Translational Neuroscience and Beyond
 Measurement of the ice-nucleating particle concentration with the Portable Ice Nucleation Experiment during the Pallas Cloud Experiment 2022
 The TropoPause Composition TOwed Sensor Shuttle (TPC-TOSS): a new airborne dual platform approach for atmospheric composition measurements at the tropopause
 Design and Implementation of a One Health Framework for Evaluating the Transmission Potential of Pathogens of Public Health Interest for Surveillance Studies
+The Intellectual Basis of Family Practice
+Effects of Humic Acids on the Phytoextraction Efficiency of Sludge Applied Soil
+Body mass and trophic level variations in relation to habitat disturbance in a set of mammal species
+Gamification in Education: A Systematic Review of the Literature
