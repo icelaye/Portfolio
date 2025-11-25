@@ -205,3 +205,9 @@ Body mass and trophic level variations in relation to habitat disturbance in a s
 Gamification in Education: A Systematic Review of the Literature
 Autonomous AI Agents Discover Aging Interventions from Millions of Molecular Profiles
 Full-scale representation guided network for retinal vessel segmentation
+THOR: Secure Transformer Inference with Homomorphic Encryption
+The MATS satellite: limb image data processing and calibration
+H
+ eracles
+ : Chosen Plaintext Attack on AMD SEV-SNP
+Fast amortized bootstrapping with small keys and polynomial noise overhead
