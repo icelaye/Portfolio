@@ -211,3 +211,7 @@ H
  eracles
  : Chosen Plaintext Attack on AMD SEV-SNP
 Fast amortized bootstrapping with small keys and polynomial noise overhead
+Privacy Preserving Machine Learning With Federated Personalized Learning in Artificially Generated Environment
+H
+ eracles
+ : Chosen Plaintext Attack on AMD SEV-SNP
