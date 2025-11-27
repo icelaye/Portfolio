@@ -215,3 +215,4 @@ Privacy Preserving Machine Learning With Federated Personalized Learning in Arti
 H
  eracles
  : Chosen Plaintext Attack on AMD SEV-SNP
+Evaluating cell AI foundation models in kidney pathology with human-in-the-loop enrichment
