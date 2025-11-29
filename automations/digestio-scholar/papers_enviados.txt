@@ -217,3 +217,9 @@ H
  : Chosen Plaintext Attack on AMD SEV-SNP
 Evaluating cell AI foundation models in kidney pathology with human-in-the-loop enrichment
 Efficient Isolation of Perfect Matching in O(log n) Genus Bipartite Graphs
+The Music Industry
+Disseminating the Risk Factors With Enhancement in Precision Medicine Using Comparative Machine Learning Models for Healthcare Data
+Dynamics, predictability, impacts and climate change considerations of the catastrophic Mediterranean Storm Daniel (2023)
+Review of Literary Theory for Robots: How Computers Learned to Write
+NeverLagging: Enhancing Virtual Reality Finger Tracking with a Physics-Inspired Time-Agnostic Graph Neural Network
+Trends and Directions of Extended Reality Research in HCI: A Co-Word Analysis
