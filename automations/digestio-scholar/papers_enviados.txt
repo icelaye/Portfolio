@@ -228,3 +228,17 @@ Elemental Composition and Isochemical Characteristics of the Clay‐Sulfate Tran
 Can Social Media Inform Corporate Decisions? Evidence from Merger Withdrawals
 Enlightenment Ideals and Belief in Progress in the Run-Up to the Industrial Revolution: A Textual Analysis
 The Effects of Teacher-Student Demographic Matching on Social-Emotional Learning
+Bursting Firings in Memristive Hopfield Neural Network With Image Encryption and Hardware Implementation
+Generative Agents in Agent-Based Modeling: Overview, Validation, and Emerging Challenges
+High Data-Rate OESCLU-Band Transmission
+Memristor-Based Brain Emotional Learning Neural Network With Attention Mechanism and Its Application
+Generalized Koopman Neural Operator for Data-Driven Modeling of Electric Railway Pantograph–Catenary Systems
+Knowledge Aggregation Transformer Network for Multivariate Time Series Classification
+A Self-Supervised Evaluation Approach of Insulation Condition for Vehicle Cable Terminals Using Hypergraph Neural Network With Dynamic Features
+A Digital Battery Energy Storage System Based on Dynamic Reconfigurable Network: A Real Case Study
+Scheduling With Lightweight Predictions in Power-Constrained HPC Platforms
+Multimodal Semantic Communication: Research Progress, Key Challenges, and Future Trends
+Robust Low-Rank Tensor Constrained Orthogonal Symmetric Non-Negative Matrix Factorization for Multi-Layer Networks Community Detection
+A Novel YJQR-LSTM Model for Nonparametric Probabilistic Sustainable Agriculture Wind Power Forecasting Based on Intelligent IoT
+From compliance to impact: Tracing the transformation of an organisational security awareness programme
+Lightweight Vision Transformer With Lite-AVPSO Hyperparameter Optimization for Agricultural Disease Recognition
