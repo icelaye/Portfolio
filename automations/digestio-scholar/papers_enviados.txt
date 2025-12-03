@@ -242,3 +242,4 @@ Robust Low-Rank Tensor Constrained Orthogonal Symmetric Non-Negative Matrix Fact
 A Novel YJQR-LSTM Model for Nonparametric Probabilistic Sustainable Agriculture Wind Power Forecasting Based on Intelligent IoT
 From compliance to impact: Tracing the transformation of an organisational security awareness programme
 Lightweight Vision Transformer With Lite-AVPSO Hyperparameter Optimization for Agricultural Disease Recognition
+LGCOAMix: Local and Global Context-and-Object-Part-Aware Superpixel-Based Data Augmentation for Deep Visual Recognition
