@@ -243,3 +243,4 @@ A Novel YJQR-LSTM Model for Nonparametric Probabilistic Sustainable Agriculture 
 From compliance to impact: Tracing the transformation of an organisational security awareness programme
 Lightweight Vision Transformer With Lite-AVPSO Hyperparameter Optimization for Agricultural Disease Recognition
 LGCOAMix: Local and Global Context-and-Object-Part-Aware Superpixel-Based Data Augmentation for Deep Visual Recognition
+Elevated synaptic PKA activity and abnormal striatal dopamine signaling in Akap11 mutant mice, a genetic model of schizophrenia and bipolar disorder
