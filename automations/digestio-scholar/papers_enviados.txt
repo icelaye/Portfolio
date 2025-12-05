@@ -244,3 +244,39 @@ From compliance to impact: Tracing the transformation of an organisational secur
 Lightweight Vision Transformer With Lite-AVPSO Hyperparameter Optimization for Agricultural Disease Recognition
 LGCOAMix: Local and Global Context-and-Object-Part-Aware Superpixel-Based Data Augmentation for Deep Visual Recognition
 Elevated synaptic PKA activity and abnormal striatal dopamine signaling in Akap11 mutant mice, a genetic model of schizophrenia and bipolar disorder
+An Evolutionary Multitasking Memetic Algorithm for Multiobjective Distributed Heterogeneous Welding Flow Shop Scheduling
+The Beautiful Dataset
+Effective Patient-Physician Communication.
+Facilitating URLLC vis-á-vis UAV-Enabled Relaying for MEC Systems in 6-G Networks
+Intervening in Negative Emotion Contagion on Social Networks Using Reinforcement Learning
+Bayesian-Driven Optimization of MDCNN-LSTM-RSA: A New Model for Predicting Aeroengine RUL
+History-Assisted Two-State Auxiliary Task Collaboration Approach for Dynamic Constrained Multiobjective Optimization
+An Evolutionary Algorithm for Solving Large-Scale Robust Multiobjective Optimization Problems
+Designing for change
+A Hybrid Framework Integrating LLM and ANFIS for Explainable Fact-Checking
+Generational effects in self-reported age of onset for youth suicidal ideation, self-harm and attempted suicide: A retrospective analysis using data from the Australian National Study of Mental Health and Wellbeing, 2020-2022.
+Assessment in the age of AI
+Neural Network-Based Dimensionality Reduction for Large-Scale Binary Optimization With Millions of Variables
+Hydranet: A Neural Network for the Estimation of Multi-Valued Treatment Effects
+Distilling Ensemble Surrogates for Federated Data-Driven Many-Task Optimization
+Aerial ISAC: A HAPS-Assisted Integrated Sensing, Communications and Computing Framework for Enhanced Coverage and Security
+Multitask Multiscale Feature Selection for Point Cloud Registration
+An Evolutionary Multiobjective Neural Architecture Search Approach to Advancing Cognitive Diagnosis in Intelligent Education
+AutoLife: Automatic Life Journaling with Smartphones and LLMs
+STANDARDS of PRACTICE for LIFE CARE PLANNERS
+Multilevel and Multisegment Learning Multitask Optimization via a Niching Method
+MMKT: Multimodal Knowledge Tracing in Personalized E-Learning Systems for Supporting Lifelong Learning
+SCB-DETR: Multiscale Deformable Transformers for Occlusion-Resilient Student Learning Behavior Detection in Smart Classroom
+Fitness Landscape Optimization Makes Stochastic Symbolic Search by Genetic Programming Easier
+DP-FSAEA: Differential Privacy for Federated Surrogate-Assisted Evolutionary Algorithms
+Interactive Cost-Based Reliability Consensus Reaching Models for Multisource Imprecise Information Calibration of Multistate Systems
+Rate-Splitting Multiple Access Enabled Green Probabilistic Semantic Communication Over Wireless Networks
+A Tree-Based Multiobjective Evolutionary Algorithm for Energy-Efficient Hybrid Flow-Shop Scheduling
+Wireless Communications for Concentrated Solar Power Fields
+Understanding Economic Behavior Using Open-Ended Survey Data
+Evolutionary Multitasking With Adaptive Knowledge Transfer for Expensive Multiobjective Optimization
+High-resolution snow water equivalent estimation: a data-driven method for localized downscaling of climate data
+Multiagent Evolution Strategy With Cooperative and Cumulative Step Adaptation for Black-Box Distributed Optimization
+Evaluating and Improving Adversarial Robustness of Deep Learning Models for Intelligent Vehicle Safety
+Heterogeneous Graph Structure Learning for Experts Selection in Academic Evaluation
+Efficient Deep Reinforcement Learning-Based Resource Allocation for Cloud Native Wireless Network
