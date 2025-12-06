@@ -280,3 +280,8 @@ Multiagent Evolution Strategy With Cooperative and Cumulative Step Adaptation fo
 Evaluating and Improving Adversarial Robustness of Deep Learning Models for Intelligent Vehicle Safety
 Heterogeneous Graph Structure Learning for Experts Selection in Academic Evaluation
 Efficient Deep Reinforcement Learning-Based Resource Allocation for Cloud Native Wireless Network
+The Life Care Planner, the Judge and Mr. Daubert
+Consensus Among Life Care Planners Regarding Activities to Consider When Recommending Personal Attendant Care Services for Individuals With Spinal Cord Injury: A Delphi Study
+2006 Life Care Planning Summit Proceedings
+Life Care Plan Survey 2009: Process, Methods and Protocols
+PPFedGNN: An Efficient Privacy-Preserving Federated Graph Neural Network Method for Social Network Analysis
