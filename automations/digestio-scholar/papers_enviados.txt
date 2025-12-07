@@ -285,3 +285,15 @@ Consensus Among Life Care Planners Regarding Activities to Consider When Recomme
 2006 Life Care Planning Summit Proceedings
 Life Care Plan Survey 2009: Process, Methods and Protocols
 PPFedGNN: An Efficient Privacy-Preserving Federated Graph Neural Network Method for Social Network Analysis
+Rollout, Policy Iteration, and Distributed Reinforcement Learning [Book Review]
+A Momentum Recurrent Neural Network for Sparse Motion Planning of Redundant Manipulators With Majorization-Minimization
+Lightweight Image Super-Resolution With Pyramid Clustering Transformer
+Singular Pooling: A Spectral Pooling Paradigm for Second-Trimester Prenatal Level II Ultrasound Standard Fetal Plane Identification
+Collisions-Free Distributed Cooperative Tracking Control for Nonlinear MASs With Limited Data Rate
+Learning Multi-View Stereo With Geometry-Aware Prior
+Cross-Domain Few-Shot Learning Method Based on Fractional Domain Information for Hyperspectral Image Multi-Class Change Detection
+SLFusion: A Structure-Aware Infrared and Visible Image Fusion Network for Low-Light Scenes
+A Self-Packaged Flyback Converter With an Embedded Magnetic Core Toroidal Transformer in a Multilayer PCB
+You Are the Best Reviewer of Your Own Papers: The Isotonic Mechanism
+Global agricultural value chains and food prices
+Harmonic Current Suppression for PMSM Drives via Time-Shifting Harmonic Extraction
