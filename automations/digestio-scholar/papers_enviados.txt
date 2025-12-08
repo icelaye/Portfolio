@@ -297,3 +297,9 @@ A Self-Packaged Flyback Converter With an Embedded Magnetic Core Toroidal Transf
 You Are the Best Reviewer of Your Own Papers: The Isotonic Mechanism
 Global agricultural value chains and food prices
 Harmonic Current Suppression for PMSM Drives via Time-Shifting Harmonic Extraction
+Learning Sign Language as a Second Language
+Developing a Framework for Auditing Large Language Models using Human-in-the-loop
+Mathematically and biologically consistent framework for presence–absence pairwise indices
+The educator’s information and digital competence as a foundation for professional success in the context of the information and educational environment
+The levers of political persuasion with conversational artificial intelligence.
+Channel Independence Bidirectional Gated Mamba With Interactive Recurrent Mechanism for Time Series Forecasting
