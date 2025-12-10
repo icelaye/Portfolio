@@ -308,3 +308,4 @@ PENINGKATAN LITERASI NUMERASI SISWA SEKOLAH DASAR MELALUI PROBLEM-BASED LEARNING
 Cultural transmission and market participation in a Congo Basin village
 TRANSDERMAL DRUG DELIVERY SYSTEM: A REVIEW
 The ICON-based Earth System Model for climate predictions and projections (ICON XPP v1.0)
+Equivariant Diffusion for Crystal Structure Prediction
