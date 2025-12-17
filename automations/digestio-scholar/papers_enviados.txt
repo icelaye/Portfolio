@@ -324,3 +324,5 @@ Predicting landscape disturbance using adult Trichoptera: one (caddis) metric to
 Conformal Selection for Efficient and Accurate Compound Screening in Drug Discovery.
 Dynamic Portfolio Choice with Intertemporal Hedging and Transaction Costs
 Funnel-Based Optimized Formation Control for MIMO Multiagent Systems Under DoS Attacks: A DETM Quantized Method
+Machine Learning Architectures for the Estimation of Predicted Occupancy Grids in Road Traffic
+Deep Learning and ITS Applications
