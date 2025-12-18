@@ -326,3 +326,4 @@ Dynamic Portfolio Choice with Intertemporal Hedging and Transaction Costs
 Funnel-Based Optimized Formation Control for MIMO Multiagent Systems Under DoS Attacks: A DETM Quantized Method
 Machine Learning Architectures for the Estimation of Predicted Occupancy Grids in Road Traffic
 Deep Learning and ITS Applications
+Joint Dynamics For The Underlying Asset and Its Implied Volatility Surface: A New Methodology For Option Risk Management
