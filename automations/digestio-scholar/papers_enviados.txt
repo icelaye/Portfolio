@@ -348,3 +348,4 @@ DK-STN: A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Foreca
 On the Repeated Evolution of Parthenogenesis in Stick Insects.
 Identifying climate‐change refugia for species management and conservation in the Pacific Northwest
 A climate‐adapted refugia framework for enhancing ecosystem resilience: Actionable science for forest management in southern California
+Implementasi Teknologi IOT Untuk Pengontrolan Peralatan Elektronik Rumah Tangga Berbasis Android
