@@ -365,3 +365,4 @@ Pengembangan Nilai Moral dan Agama Anak Usia Dini Melalui Kegiatan Festival Anak
 Are Managers More Machiavellian than Other Employees?
 Dataset Pruning Using Early Exit Networks
 TEORIA SOCIAL E RELAÇÕES RACIAIS NO BRASIL CONTEMPORÂNEO
+Predictive Maintenance of Electric Vehicle Components Using IoT Sensors
