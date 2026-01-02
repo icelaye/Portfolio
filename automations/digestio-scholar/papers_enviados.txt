@@ -366,3 +366,17 @@ Are Managers More Machiavellian than Other Employees?
 Dataset Pruning Using Early Exit Networks
 TEORIA SOCIAL E RELAÇÕES RACIAIS NO BRASIL CONTEMPORÂNEO
 Predictive Maintenance of Electric Vehicle Components Using IoT Sensors
+A systematic review of computer-mediated communications in Chinese as a foreign language from 2008 to 2022: Research contexts, theoretical foundations and methodology, affordances and limitations
+Generative Classifiers Avoid Shortcut Solutions
+Asymptotical Fault-Tolerant Time-Varying Tracking Control of Networked Mobile Flexible Manipulators Under Prescribed Performances and DoS Attacks
+Nature's nanofactories: biogenic synthesis of metal nanoparticles for sustainable technologies
+EDT-SaFL: Semi-Asynchronous Federated Learning for Edge Digital Twin in Industrial Internet-of-Things
+Accounting for Wealth Concentration in the United States
+Building middle leading practice through pedagogy-focused professional development
+Coordinated Scheduling of EV Charging Service and Energy Arbitrage for Truck Mobile Charging Stations
+Finite Block-Length Covert Communication in Space–Air–Ground Integrated Networks
+Neutrophil-based delivery platforms: from natural mechanisms to engineered therapeutics
+Latency Minimization for Movable Relay-Aided D2D-MEC Communication Systems
+Lightweight and Fast Authentication Protocol for Digital Healthcare Services
+Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems
+Reliability-Oriented Routing of Internal Current Stress in the Two-Stage SST Submodule
