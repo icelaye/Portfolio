@@ -380,3 +380,4 @@ Latency Minimization for Movable Relay-Aided D2D-MEC Communication Systems
 Lightweight and Fast Authentication Protocol for Digital Healthcare Services
 Enhancing Stability and Resource Efficiency in LLM Training for Edge-Assisted Mobile Systems
 Reliability-Oriented Routing of Internal Current Stress in the Two-Stage SST Submodule
+Range-Aided LiDAR-Inertial Multi-Vehicle Localization and Mapping in Degenerate Environments
