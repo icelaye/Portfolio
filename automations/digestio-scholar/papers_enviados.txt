@@ -395,3 +395,4 @@ All Crises are Unhappy in Their Own Way: The Role of Societal Instability in Sha
 Perspectives on Systematic Cloud Microphysics Scheme Development With Machine Learning
 The Role of Artificial Intelligence in Early Diagnosis and Management of Cardiovascular Diseases
 Little Scientists & Social Apprentices: Active Word Learning in Dynamic Social Contexts Using a Transparent Dyadic Interaction Platform
+Responsible Research Assessment I: Implementing DORA and CoARA for hiring and promotion in psychology
