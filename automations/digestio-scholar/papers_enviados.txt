@@ -405,3 +405,4 @@ Management of diabetes during pregnancy
 Upscaling Models for the Large‐Scale Assessment of Soil Functions
 Lifelong Learning of Large Language Model based Agents: A Roadmap.
 A framework for assuring the accuracy and fidelity of an AI-enabled Digital Twin of en route UK airspace
+Is this real? Susceptibility to deepfakes in machines and humans
