@@ -420,3 +420,12 @@ A Conceptual Framework for Education Research in Conflict and Protracted Crisis 
 Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions
 Global perspectives on nitrate aerosol dynamics: a comprehensive sensitivity analysis
 Anticipating CRISTAL: an exploration of multi-frequency satellite altimeter snow depth estimates over Arctic sea ice, 2018–2023
+A Machine Learning Approach for Face Mask Detection System with AdamW Optimizer
+Salary Prediction in Data Science Field Using Specialized Skills and Job Benefits – A Literature Review
+Institutional Investor Attention
+Facial Recognition Authentication Adds an Extra Layer of Security to Mobile Banking Systems
+Use of network and cyber security tools to counter the security obstacles
+Don't be mean: Reducing Approximation Noise in TFHE through Mean Compensation
+Integrating digital cultural detective games with social emotional learning to foster cultural sensitivity and intercultural empathy among kindergarten teachers: a mixed-methods study
+The Implementation of Analog-to-Digital Records Management in Government Institutions to Support the Adoption of an Electronic-Based Government System (A Study at the Office of the Trade Order Supervision Center (BPTN) Surabaya, Ministry of Trade of the Republic of Indonesia)
+Konsep Dasar Penelitian Kuantitatif
