@@ -440,3 +440,6 @@ Fitting the Gravity Model When Zero Trade Flows are Frequent: A Comparison of Es
 Food Donation Application to Improve the Distribution and Verification Process Within Selangor: Feedback
 PENDIDIKAN ISLAM
 Econometric modelling for estimating direct flood damage to firms: a micro-scale approach using post-event records in Italy
+MNIST handwritten digit recognition with different CNN architectures
+Impact of Covid-19 and the importance of seamless integration of information technology in tourism industrial business processes in Sri Lanka
+Personality prediction using machine learning classifiers
