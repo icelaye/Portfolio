@@ -443,3 +443,29 @@ Econometric modelling for estimating direct flood damage to firms: a micro-scale
 MNIST handwritten digit recognition with different CNN architectures
 Impact of Covid-19 and the importance of seamless integration of information technology in tourism industrial business processes in Sri Lanka
 Personality prediction using machine learning classifiers
+A Contribution to the Critique of the Political Economy of Google
+Using Sociometry to Predict Team Performance in the Work Place
+A Research Agenda for Social Media Surveillance
+Manhole cover monitoring system over IOT
+The Effects of Being the Protagonist in Psychodrama
+A Survey of Clinical Reports on the Application of Psychodrama
+Crop Plantation Recommendation using Feature Extraction and Machine Learning Techniques
+Sentiment Analysis in E-Commerce: A Review on The Techniques and Algorithms
+Media Spectacle and the "Massacre at Virginia Tech"
+Wearable IOT based Malaysian sign language recognition and text translation system
+Understanding how noise affects the accuracy of CNN image classification
+Combining Schema-Focused Cognitive Therapy and Psychodrama: A Model for Treating Clients With Personality Disorders
+The Betrayal Bond: Breaking Free of Exploitive Relationships
+A universal of human social cognition: Children from 17 communities process gaze in similar ways.
+Dengue disease prediction using machine learning algorithms: a review
+Without safeguards, AI-Biology integration risks accelerating future pandemics
+Investigating parameters of genetic algorithm and neural network on classic snake game
+Mediated Ritual on Academic Ground
+Blockchain-Enabled Election Voting System
+Mycorrhizal fungal associations of the fringed orchids (Platanthera) in the US, inter- and intra-species variation
+Performance Evaluation of Wireless Routing Protocols: RIP and OSPF in WLAN
+Pengaruh Strategi Digital Marketing terhadap Keputusan Pembelian pada Coffee and Eatery di Mediasi Customer Trust di Kota Pontianak
+Applying Blockchain Technology to Secure Dataset Used for Data Analytics
+Predictive maintenance on an elevator system using machine learning
+Detecting faulty lithium-ion cells in large-scale parallel battery packs using current distributions
+Effects of targeted perceptual training on L2 suprasegmental weighting strategies
