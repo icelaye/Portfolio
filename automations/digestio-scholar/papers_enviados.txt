@@ -469,3 +469,6 @@ Applying Blockchain Technology to Secure Dataset Used for Data Analytics
 Predictive maintenance on an elevator system using machine learning
 Detecting faulty lithium-ion cells in large-scale parallel battery packs using current distributions
 Effects of targeted perceptual training on L2 suprasegmental weighting strategies
+A Study on Authentication Factors in Electronic Health Records
+A Process for Psychodrama Training:The Hollander Psychodrama Curve
+Monitoring morphometric drift in lifelong learning segmentation of the spinal cord
