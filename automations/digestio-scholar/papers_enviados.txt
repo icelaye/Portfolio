@@ -495,3 +495,32 @@ A Review on Social Media Issues and Security Awareness among the users
 Determinants of financial literacy: a quantitative study among young students in Tashkent, Uzbekistan
 Creativity and AI
 A comprehensive tandem repeat catalog of the human genome
+Konsep Pendidikan Agama Islam Perspektif Imam Al- Ghazali
+Niching Genetic Programming to Learn Actions for Deep Reinforcement Learning in Dynamic Flexible Scheduling
+Beyond Dystopian Education in a Neoliberal Society
+Imitation Learning-Assisted Evolutionary Algorithm for Energy-Efficient Flexible Job Shop Scheduling Problem With Automated Guided Vehicles
+Data-Driven Evolutionary Algorithm Based on Inductive Graph Neural Networks for Multimodal Multiobjective Optimization
+Time for a Digital Detox? From Information Obesity to Digital Dieting
+An HCAI Methodological Framework: Putting it Into Action to Enable Human-Centered AI
+Learning to Preselection: A Filter-Based Performance Predictor for Multiobjective Feature Selection in Classification
+AnaCraft: Duel-Play Probabilistic-Model-Based Reinforcement Learning for Sample-Efficient PVT-Robust Analog Circuit Sizing Optimization
+Few-Shot Cross-Domain Fault Diagnosis of Transportation Motor Bearings Using MAML-GA
+Zero-Trust-Based Privacy-Preserving Distributed Localization for Mobile Robot Networks
+Chiplever: A Hardware–Software Co-Design Framework Toward Extension of Chiplet System for Fully Homomorphic Encryption
+Peran Manajemen Perubahan dalam Menghadapi Tantangan dan Mengoptimalkan Peluang di Era Digital (2023-07-03)
+The Necropolitics of Austerity: Discursive Constructions and Material Consequences in the Greek Context
+Optimal Transport Barycentric Aggregation for Byzantine-Resilient Federated Learning
+Parallel Perception of Autonomous Vehicle in Degraded Coal Mines
+MuGNet-CMI: Multi-Head Hybrid Graph Neural Network for Predicting circRNA-miRNA Interactions With Global High-Order and Local Low-Order Information
+Critical Internet Privacy Studies
+First Order Logic and Twin-Width in Tournaments and Dense Oriented Graphs
+Multiagent Reinforcement Learning for Optimal Resource Allocation in Space–Air–Ground Integrated Networks
+PPBR: Privacy-Preserving and Byzantine-Robust Edge-Assisted Hierarchical Federated Learning in Mobile Networks
+Configurable Hardware Acceleration for Hyperdimensional Computing Extension on RISC-V
+A Fast and Compact Threshold Switch-Based Cellular Nonlinear Network Cell
+Resilient and Robust Voltage Regulation in Shipboard DC Microgrids With ZIP Loads Under Actuator and Parameter Uncertainties
+A Multi-Band 5.3–18 GHz LNA for FR3 Bands Using Hybrid Switching With Sub-2 dB NF in FDSOI
+A Player’s Web of Significance: A Narrative of a Finnish Online Poker Semi-Professional
+Author Disclosure of Use of AI in Submissions to 13 JAMA Network Journals.
+Self-Disclosed Use of AI in Research Submissions to BMJ Journals.
+Against Speed Cosmopolitanism Towards the Slow University
