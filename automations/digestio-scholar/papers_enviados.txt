@@ -545,3 +545,12 @@ A Cosmic Miracle: A Remarkably Luminous Galaxy at
  spec
  = 14.44 Confirmed with JWST
 Characterizing Dependence of Samples Along the Langevin Dynamics and Algorithms via Contraction of Φ-Mutual Information
+Identification of Thermal Fault States in Cable Insulation Sheaths Based on Gas Sensor Arrays
+Tensor-Based Lyapunov Deep Neural Networks Offloading Control Strategy With Cloud–Fog–Edge Orchestration
+Recursive Identification With Multiple Forgetting Factors for Time-Varying Wireless Power Transfer Systems
+Stacking Deep Scalogram Features With the Enhanced GAN for Defect Recognition in Power Transformers With Highly Imbalanced Partial Discharge Signals
+Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM
+A Cosmic Miracle: A Remarkably Luminous Galaxy at
+ z
+ spec
+ = 14.44 Confirmed with JWST
