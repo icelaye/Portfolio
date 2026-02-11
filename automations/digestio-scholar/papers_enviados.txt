@@ -566,3 +566,6 @@ Automatic learning mechanisms for flexible human locomotion
 Neonatal auditory input affects vocal development in harbour seals.
 Gaze crossing: a new paradigm to assess social contingency and word learning during real-time infant-adult interactions.
 Pengukuran Kinerja Keuangan Menggunakan Analisis Rasio
+Localized low muscle mass is associated with hand dysfunction beyond inflammation in rheumatoid arthritis: a cross-sectional study
+COMBOOD: A Semiparametric Approach for Detecting Out-of-distribution Data for Image Classification
+The impact of artificial intelligence applications on the quality of digital transformation practices: A case study of the Saudi Data and Artificial Intelligence Authority (SDAIA)
