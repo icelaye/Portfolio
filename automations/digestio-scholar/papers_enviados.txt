@@ -580,3 +580,6 @@ Subterranean environments contribute to three-quarters of classified ecosystem s
 Rigidity of non-negligible objects of moderate growth in braided categories
 Identification of a type 1 diabetes–associated T cell receptor repertoire signature from the human peripheral blood
 A Systematic Review and Taxonomy of Neuroticism Interventions for the General Public
+Wideband Pixel-Based Fluid Antenna System: An Antenna Design for Smart City
+A Hierarchical Conflict Resolution Framework With Graph Transformer-Based Reinforcement Learning for Heterogeneous UAV Networks
+Satellite-Assisted UAV Control: Sensing and Communication Scheduling for Energy-Efficient Data Collection
