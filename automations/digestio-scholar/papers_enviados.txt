@@ -583,3 +583,8 @@ A Systematic Review and Taxonomy of Neuroticism Interventions for the General Pu
 Wideband Pixel-Based Fluid Antenna System: An Antenna Design for Smart City
 A Hierarchical Conflict Resolution Framework With Graph Transformer-Based Reinforcement Learning for Heterogeneous UAV Networks
 Satellite-Assisted UAV Control: Sensing and Communication Scheduling for Energy-Efficient Data Collection
+Impact of Celebrity Endorsement on Consumer Buying Behaviour
+The Application of Eye-Tracking in Consumer Behaviour
+(Remembering) Vector Coding of Boundaries and Objects in the Subiculum
+An Improved Variational Autoencoder and Graph Attention Network Method for Wear Prediction of Aerospace Self-Lubricating Bearing Using Acoustic Emission Signal
+Penerapan Slow Deep Breathing terhadap Tekanan Darah pada Pasien Hipertensi di Ruang Kenanga RSUD Limpung Kab Batang
