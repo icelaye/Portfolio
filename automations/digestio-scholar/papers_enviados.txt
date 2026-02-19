@@ -588,3 +588,4 @@ The Application of Eye-Tracking in Consumer Behaviour
 (Remembering) Vector Coding of Boundaries and Objects in the Subiculum
 An Improved Variational Autoencoder and Graph Attention Network Method for Wear Prediction of Aerospace Self-Lubricating Bearing Using Acoustic Emission Signal
 Penerapan Slow Deep Breathing terhadap Tekanan Darah pada Pasien Hipertensi di Ruang Kenanga RSUD Limpung Kab Batang
+Risk factors for thoracic-osteoporotic thoracic vertebral compression fractures during the normalized prevention and control period of COVID-19
