@@ -590,3 +590,4 @@ An Improved Variational Autoencoder and Graph Attention Network Method for Wear 
 Penerapan Slow Deep Breathing terhadap Tekanan Darah pada Pasien Hipertensi di Ruang Kenanga RSUD Limpung Kab Batang
 Risk factors for thoracic-osteoporotic thoracic vertebral compression fractures during the normalized prevention and control period of COVID-19
 Achieving Low-Latency Graph-Based Vector Search via Aligning Best-First Search Algorithm with SSD
+Determining sources of groundwater salinity in the multi-layered aquifer system of the bengal delta, Bangladesh
