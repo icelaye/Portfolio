@@ -621,3 +621,21 @@ Predicting Tennis Serve Directions with Machine Learning
 Case studies from Germany and Scotland indicate climate change mitigation potential of riverine and coastal wetlands
 Disparate Pathways: Understanding Racial Disparities in Teaching
 “Why our voices don’t count”: The employment experiences of neurodivergent employees through a double empathy lens
+Explainable and Trust-Aware AI-Driven Network Slicing Framework for 6G IoT Using Deep Learning
+A Conditional Invertible Neural Network-Based Fault Detection
+An Intelligent Softwarized Resource Management and Allocation Framework for Services With Personalized Intentions in 6G-Enabled IoT Networks
+Nonbinary and Transgender Identities and Earnings: Evidence from a National Census
+Federated Learning and Resource-Aware Graph Neural Network for Intrusion Detection in 6G-IoT Driven Healthcare System
+Enhancing 6G-IoT Network Security: A Trustworthy and Responsible AI-Driven Stacked-Hybrid Model for Attack Detection
+Enhanced Transformer-BiLSTM Deep Learning Framework for Day-Ahead Energy Price Forecasting
+Computational hermeneutics: evaluating generative AI as a cultural technology
+Advances and challenges in digitally connected point-of-care biosensing
+Attention-Based Traffic Flow Forecasting Model as a Service of Intelligent Transportation System
+Optimized Residual Action for Interaction Control With Learned Environments
+Secure UAV-RIS-Enabled IoT Systems: Federated DDPG With Attention Mechanism for Adversarial Attack Mitigation
+An Entropy-Based Privacy-Preserving Federated Deep Reinforcement Learning Framework for Task Offloading in Vehicular Edge Computing Networks
+Point-KAN: Leveraging Trustworthy AI for Reliable 3-D Point Cloud Completion With Kolmogorov-Arnold Networks for 6G-IoT Applications
+PACE: A Multi-Round Cell-Enhanced Prefetching Strategy in Volumetric Video Streaming
+GRWS: A Deep Reinforcement Learning Method With Graph Attention Networks for Flexible Workflow Scheduling in Industrial Manufacturing Scenarios
+PointVLA: Injecting the 3D World Into Vision-Language-Action Models
+The global need for paediatric palliative care: the evolution of serious health-related suffering in children aged 0-19 years from 1990 to 2023.
