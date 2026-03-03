@@ -639,3 +639,7 @@ PACE: A Multi-Round Cell-Enhanced Prefetching Strategy in Volumetric Video Strea
 GRWS: A Deep Reinforcement Learning Method With Graph Attention Networks for Flexible Workflow Scheduling in Industrial Manufacturing Scenarios
 PointVLA: Injecting the 3D World Into Vision-Language-Action Models
 The global need for paediatric palliative care: the evolution of serious health-related suffering in children aged 0-19 years from 1990 to 2023.
+The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers
+The land use-climate change-biodiversity nexus in the perceptions of European islands stakeholders
+A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data.
+Efficient Electromagnetic-Field and Electric-Circuit Coupled Time-Stepping Finite Element Analysis for Modeling of Solid-Rotor Induction Machines
