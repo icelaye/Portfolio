@@ -643,3 +643,5 @@ The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Exp
 The land use-climate change-biodiversity nexus in the perceptions of European islands stakeholders
 A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data.
 Efficient Electromagnetic-Field and Electric-Circuit Coupled Time-Stepping Finite Element Analysis for Modeling of Solid-Rotor Induction Machines
+Implementing FFTs in Practice
+Cryptocurrency Price Prediction using Sentiment Analysis of Social Media
