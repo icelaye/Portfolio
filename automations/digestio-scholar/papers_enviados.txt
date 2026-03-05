@@ -645,3 +645,5 @@ A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data
 Efficient Electromagnetic-Field and Electric-Circuit Coupled Time-Stepping Finite Element Analysis for Modeling of Solid-Rotor Induction Machines
 Implementing FFTs in Practice
 Cryptocurrency Price Prediction using Sentiment Analysis of Social Media
+Effective Bug Detection in Graph Database Engines: An LLM-Based Approach
+cPNN: Continuous Progressive Neural Networks for Evolving Streaming Time Series
