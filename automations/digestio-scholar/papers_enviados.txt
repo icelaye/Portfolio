@@ -668,3 +668,15 @@ Bangla-specific study of English Monophthongs
 Code and Data Repository for Cone product reformulation for global optimization
 Mapping Conscience: Network Analysis Into the Differences in Maturation of Offending and Non-Offending Adolescents
 Contrail formation for aircraft with hydrogen combustion – Part 1: A systematic microphysical investigation
+RCNet: Dual-Network Resonance Collaboration via Mutual Learning for RGB-D Road Defect Detection
+Aerial 6D Movable Antenna-Enabled Cell-Free Networks
+Deep Inductive and Scalable Subspace Clustering via Nonlocal Contrastive Self-Distillation
+Image Quality Assessment: Exploring the Similarity of Deep Features via Covariance-Constrained Spectra
+Exploring Self-Image and Cross-Image Consistency Learning for Remote Sensing Burned Area Segmentation
+Efficient Fault Diagnosis in Industrial Systems Using Enhanced PolyKAN Techniques
+Dynamic Confidence Variance for Generalized Coreset in Active Learning
+Real-World Nighttime Dehazing via Score-Guided Multi-Scale Fusion and Dual-Channel Enhancement
+A Combined Service-Based Architecture-Virtualized/Open RAN Approach for Increased Service Performance in HetNets
+LLM-Based Task Offloading and Resource Allocation in Satellite Edge Computing Networks
+Dual UAV-Assisted Secure IoT Networks: Resource Allocation and 3D Trajectory Design
+Securing IoT in the Post-Quantum Era: Implementation, Challenges, and Future Directions
