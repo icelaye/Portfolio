@@ -680,3 +680,4 @@ A Combined Service-Based Architecture-Virtualized/Open RAN Approach for Increase
 LLM-Based Task Offloading and Resource Allocation in Satellite Edge Computing Networks
 Dual UAV-Assisted Secure IoT Networks: Resource Allocation and 3D Trajectory Design
 Securing IoT in the Post-Quantum Era: Implementation, Challenges, and Future Directions
+Does Education Shape Support for Democracy in Pakistan: Evidence from the World Values Survey Wave 7 (2017–2022)
