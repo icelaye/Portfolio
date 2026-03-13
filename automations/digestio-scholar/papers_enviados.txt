@@ -684,3 +684,6 @@ Does Education Shape Support for Democracy in Pakistan: Evidence from the World 
 Gradually Excavating External Knowledge for Implicit Complex Question Answering
 The Impact Hazard Assessment for Near-Earth Asteroid 2024 YR4
 Brace for the wave: planning for and responding to marine disease emergencies.
+Biased AI writing assistants shift users’ attitudes on societal issues
+AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Models with Psychometric Validities
+A PUF-Based Approach for Copy Protection of Intellectual Property in Neural Network Models
