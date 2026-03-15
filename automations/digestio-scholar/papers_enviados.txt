@@ -689,3 +689,4 @@ AI Psychometrics: Evaluating the Psychological Reasoning of Large Language Model
 A PUF-Based Approach for Copy Protection of Intellectual Property in Neural Network Models
 Edge-Assisted Multi-Robot Visual-Inertial SLAM With Efficient Communication
 Characterizing Fractional Degree Stochastic Dominance by Invariance Laws
+The Other Side of the Table.
