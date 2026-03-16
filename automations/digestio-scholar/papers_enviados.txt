@@ -690,3 +690,4 @@ A PUF-Based Approach for Copy Protection of Intellectual Property in Neural Netw
 Edge-Assisted Multi-Robot Visual-Inertial SLAM With Efficient Communication
 Characterizing Fractional Degree Stochastic Dominance by Invariance Laws
 The Other Side of the Table.
+Navigating Embodied Intelligence: Enabling Technologies, Security and Privacy, and Emerging Trends
