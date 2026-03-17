@@ -691,3 +691,7 @@ Edge-Assisted Multi-Robot Visual-Inertial SLAM With Efficient Communication
 Characterizing Fractional Degree Stochastic Dominance by Invariance Laws
 The Other Side of the Table.
 Navigating Embodied Intelligence: Enabling Technologies, Security and Privacy, and Emerging Trends
+INTELIGÊNCIA ARTIFICIAL NA EDUCAÇÃO: NOVAS DIRETRIZES DO CONSELHO NACIONAL DE EDUCAÇÃO (CNE) COM CONTRIBUIÇÃO DA ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A EDUCAÇÃO, A CIÊNCIA E A CULTURA (UNESCO)
+Breaking interprovincial data silos: how federated learning can unlock Canada's public health potential
+Designing Care-fully: Robots for Acute Cancer Care
+Swiftness and Delay of Punishment
