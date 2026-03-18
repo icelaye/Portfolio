@@ -695,3 +695,5 @@ INTELIGÊNCIA ARTIFICIAL NA EDUCAÇÃO: NOVAS DIRETRIZES DO CONSELHO NACIONAL DE
 Breaking interprovincial data silos: how federated learning can unlock Canada's public health potential
 Designing Care-fully: Robots for Acute Cancer Care
 Swiftness and Delay of Punishment
+Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling
+Evidential Domain Adaptation for Remaining Useful Life Prediction With Incomplete Degradation
