@@ -699,3 +699,6 @@ Faster Inference of Flow-Based Generative Models via Improved Data-Noise Couplin
 Evidential Domain Adaptation for Remaining Useful Life Prediction With Incomplete Degradation
 The Politics of Inflation
 Gendered Spheres of Learning and Household Decision-Making over Fertility
+SynQ: Accurate Zero-shot Quantization by Synthesis-aware Fine-tuning
+TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation.
+Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security
