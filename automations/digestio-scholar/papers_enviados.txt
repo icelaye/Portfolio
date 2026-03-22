@@ -703,3 +703,6 @@ SynQ: Accurate Zero-shot Quantization by Synthesis-aware Fine-tuning
 TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation.
 Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security
 LaTeX2Layout: High-Fidelity, Scalable Document Layout Annotation Pipeline for Layout Detection
+Reinforcement Learning for Jump‐Diffusions, With Financial Applications
+UN secretary-general visits and human rights diplomacy
+Dissecting the population structure, diversity and genetic architecture of rust resistance in wild emmer wheat (Triticum turgidum subsp. dicoccoides)
