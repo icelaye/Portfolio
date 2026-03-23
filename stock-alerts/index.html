@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Stock Alerts</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;600&display=swap" rel="stylesheet"/>
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #111118;
+    --border: #1e1e2e;
+    --accent: #00ff88;
+    --accent-dim: #00ff8822;
+    --red: #ff4466;
+    --red-dim: #ff446622;
+    --yellow: #ffcc00;
+    --text: #e0e0f0;
+    --text-dim: #666680;
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'IBM Plex Sans', sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    min-height: 100vh;
+    padding: 0;
+  }
+
+  /* ── Header ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+  }
+
+  .logo {
+    font-family: var(--mono);
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--accent);
+    letter-spacing: -0.5px;
+  }
+
+  .logo span { color: var(--text-dim); }
+
+  .status-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    display: inline-block;
+    margin-right: 8px;
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+
+  .status-label {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    color: var(--text-dim);
+  }
+
+  /* ── Auth gate ── */
+  #auth-gate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+    gap: 16px;
+  }
+
+  #auth-gate h2 {
+    font-family: var(--mono);
+    font-size: 1rem;
+    color: var(--text-dim);
+    font-weight: 400;
+  }
+
+  .auth-row {
+    display: flex;
+    gap: 8px;
+    width: 360px;
+  }
+
+  /* ── Main layout ── */
+  #app { display: none; padding: 40px; max-width: 960px; margin: 0 auto; }
+
+  /* ── Section titles ── */
+  .section-title {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--text-dim);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ── Add form ── */
+  .add-form {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 24px;
+    margin-bottom: 40px;
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr auto;
+    gap: 12px;
+    align-items: end;
+  }
+
+  .field label {
+    display: block;
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    color: var(--text-dim);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  input[type="text"], input[type="number"], input[type="password"] {
+    width: 100%;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 10px 12px;
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  input:focus { border-color: var(--accent); }
+  input::placeholder { color: var(--text-dim); }
+
+  /* ── Buttons ── */
+  .btn {
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+    letter-spacing: 0.5px;
+  }
+
+  .btn-primary {
+    background: var(--accent);
+    color: #000;
+  }
+  .btn-primary:hover { background: #00ffaa; transform: translateY(-1px); }
+
+  .btn-ghost {
+    background: transparent;
+    color: var(--text-dim);
+    border: 1px solid var(--border);
+  }
+  .btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
+
+  .btn-danger {
+    background: transparent;
+    color: var(--red);
+    border: 1px solid transparent;
+    padding: 6px 10px;
+    font-size: 0.75rem;
+  }
+  .btn-danger:hover { background: var(--red-dim); border-color: var(--red); }
+
+  .btn-activate {
+    background: transparent;
+    color: var(--accent);
+    border: 1px solid transparent;
+    padding: 6px 10px;
+    font-size: 0.75rem;
+  }
+  .btn-activate:hover { background: var(--accent-dim); border-color: var(--accent); }
+
+  /* ── Ticker table ── */
+  .ticker-grid {
+    display: grid;
+    gap: 8px;
+    margin-bottom: 40px;
+  }
+
+  .ticker-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px 20px;
+    display: grid;
+    grid-template-columns: 1.2fr 1fr 1fr 1fr auto auto;
+    align-items: center;
+    gap: 12px;
+    transition: border-color 0.2s;
+  }
+
+  .ticker-card:hover { border-color: #2e2e44; }
+
+  .ticker-card.inactive { opacity: 0.45; }
+
+  .ticker-symbol {
+    font-family: var(--mono);
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text);
+  }
+
+  .ticker-price {
+    font-family: var(--mono);
+    font-size: 0.9rem;
+    color: var(--yellow);
+  }
+
+  .limit-value {
+    font-family: var(--mono);
+    font-size: 0.8rem;
+  }
+
+  .limit-upper { color: var(--red); }
+  .limit-lower { color: var(--accent); }
+  .limit-none  { color: var(--text-dim); }
+
+  .badge {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    padding: 3px 8px;
+    border-radius: 20px;
+    letter-spacing: 0.5px;
+  }
+
+  .badge-active   { background: var(--accent-dim); color: var(--accent); border: 1px solid var(--accent); }
+  .badge-inactive { background: #1a1a2e; color: var(--text-dim); border: 1px solid var(--border); }
+
+  /* ── Alerts log ── */
+  .alerts-grid { display: grid; gap: 6px; }
+
+  .alert-row {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--red);
+    border-radius: 4px;
+    padding: 12px 16px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1.5fr;
+    gap: 8px;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+  }
+
+  .alert-row.lower { border-left-color: var(--accent); }
+
+  .alert-label { color: var(--text-dim); font-size: 0.65rem; margin-bottom: 2px; }
+  .alert-val   { color: var(--text); }
+
+  /* ── Empty state ── */
+  .empty {
+    text-align: center;
+    padding: 48px;
+    color: var(--text-dim);
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    border: 1px dashed var(--border);
+    border-radius: 6px;
+  }
+
+  /* ── Toast ── */
+  #toast {
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    background: var(--surface);
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    padding: 12px 20px;
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    pointer-events: none;
+    z-index: 100;
+  }
+  #toast.show { opacity: 1; }
+  #toast.error { border-color: var(--red); color: var(--red); }
+
+  @media (max-width: 700px) {
+    header { padding: 16px 20px; }
+    #app { padding: 20px; }
+    .add-form { grid-template-columns: 1fr 1fr; }
+    .ticker-card { grid-template-columns: 1fr 1fr; }
+    .alert-row { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">// <span>stock</span>alerts</div>
+  <div>
+    <span class="status-dot"></span>
+    <span class="status-label">monitoring active</span>
+  </div>
+</header>
+
+<!-- Auth gate -->
+<div id="auth-gate">
+  <h2>// enter api key</h2>
+  <div class="auth-row">
+    <input type="password" id="key-input" placeholder="X-API-Key" onkeydown="if(event.key==='Enter')login()"/>
+    <button class="btn btn-primary" onclick="login()">Enter</button>
+  </div>
+</div>
+
+<!-- Main app -->
+<div id="app">
+
+  <!-- Add ticker -->
+  <div class="section-title">// agregar ticker</div>
+  <div class="add-form">
+    <div class="field">
+      <label>Símbolo</label>
+      <input type="text" id="new-symbol" placeholder="AAPL, GGAL.BA, BTC-USD"/>
+    </div>
+    <div class="field">
+      <label>Límite Superior ↑</label>
+      <input type="number" id="new-upper" placeholder="opcional" step="0.01"/>
+    </div>
+    <div class="field">
+      <label>Límite Inferior ↓</label>
+      <input type="number" id="new-lower" placeholder="opcional" step="0.01"/>
+    </div>
+    <div class="field">
+      <button class="btn btn-primary" onclick="addTicker()" style="width:100%">+ Agregar</button>
+    </div>
+  </div>
+
+  <!-- Tickers list -->
+  <div class="section-title">// tickers monitoreados</div>
+  <div class="ticker-grid" id="tickers-list">
+    <div class="empty">Cargando...</div>
+  </div>
+
+  <!-- Alerts log -->
+  <div class="section-title">// alertas disparadas (últimas 50)</div>
+  <div class="alerts-grid" id="alerts-list">
+    <div class="empty">Cargando...</div>
+  </div>
+
+</div>
+
+<div id="toast"></div>
+
+<script>
+  let API_KEY = '';
+
+  function login() {
+    const key = document.getElementById('key-input').value.trim();
+    if (!key) return;
+    API_KEY = key;
+    document.getElementById('auth-gate').style.display = 'none';
+    document.getElementById('app').style.display = 'block';
+    loadAll();
+    setInterval(loadAll, 60000); // auto-refresh every 60s
+  }
+
+  async function apiFetch(path, opts = {}) {
+    const res = await fetch(path, {
+      ...opts,
+      headers: {
+        'X-API-Key': API_KEY,
+        'Content-Type': 'application/json',
+        ...(opts.headers || {})
+      }
+    });
+    if (!res.ok) throw new Error(await res.text());
+    return res.json();
+  }
+
+  function toast(msg, error = false) {
+    const el = document.getElementById('toast');
+    el.textContent = msg;
+    el.className = 'show' + (error ? ' error' : '');
+    setTimeout(() => el.className = '', 3000);
+  }
+
+  async function loadAll() {
+    await Promise.all([loadTickers(), loadAlerts()]);
+  }
+
+  async function loadTickers() {
+    try {
+      const data = await apiFetch('/api/tickers');
+      const el = document.getElementById('tickers-list');
+      if (!data.length) {
+        el.innerHTML = '<div class="empty">No hay tickers. Agregá uno arriba.</div>';
+        return;
+      }
+      el.innerHTML = data.map(t => `
+        <div class="ticker-card ${t.is_active ? '' : 'inactive'}">
+          <div class="ticker-symbol">${t.symbol}</div>
+          <div class="${t.upper_limit ? 'limit-value limit-upper' : 'limit-value limit-none'}">
+            ↑ ${t.upper_limit != null ? '$' + Number(t.upper_limit).toLocaleString('es-AR', {minimumFractionDigits:2}) : '—'}
+          </div>
+          <div class="${t.lower_limit ? 'limit-value limit-lower' : 'limit-value limit-none'}">
+            ↓ ${t.lower_limit != null ? '$' + Number(t.lower_limit).toLocaleString('es-AR', {minimumFractionDigits:2}) : '—'}
+          </div>
+          <span class="badge ${t.is_active ? 'badge-active' : 'badge-inactive'}">
+            ${t.is_active ? 'activa' : 'inactiva'}
+          </span>
+          ${!t.is_active ? `<button class="btn btn-activate" onclick="reactivate('${t.id}')">↺ Reactivar</button>` : '<div></div>'}
+          <button class="btn btn-danger" onclick="deleteTicker('${t.id}', '${t.symbol}')">✕</button>
+        </div>
+      `).join('');
+    } catch(e) {
+      toast('Error cargando tickers', true);
+    }
+  }
+
+  async function loadAlerts() {
+    try {
+      const data = await apiFetch('/api/alerts');
+      const el = document.getElementById('alerts-list');
+      if (!data.length) {
+        el.innerHTML = '<div class="empty">No hay alertas disparadas aún.</div>';
+        return;
+      }
+      el.innerHTML = data.map(a => `
+        <div class="alert-row ${a.limit_type === 'lower' ? 'lower' : ''}">
+          <div>
+            <div class="alert-label">TICKER</div>
+            <div class="alert-val">${a.symbol}</div>
+          </div>
+          <div>
+            <div class="alert-label">PRECIO</div>
+            <div class="alert-val">$${Number(a.price).toFixed(2)}</div>
+          </div>
+          <div>
+            <div class="alert-label">LÍMITE ${a.limit_type === 'upper' ? '↑' : '↓'}</div>
+            <div class="alert-val">$${Number(a.limit_value).toFixed(2)}</div>
+          </div>
+          <div>
+            <div class="alert-label">FECHA</div>
+            <div class="alert-val">${new Date(a.triggered_at).toLocaleString('es-AR')}</div>
+          </div>
+        </div>
+      `).join('');
+    } catch(e) {
+      toast('Error cargando alertas', true);
+    }
+  }
+
+  async function addTicker() {
+    const symbol = document.getElementById('new-symbol').value.trim();
+    const upper  = document.getElementById('new-upper').value;
+    const lower  = document.getElementById('new-lower').value;
+
+    if (!symbol) return toast('Ingresá un símbolo', true);
+    if (!upper && !lower) return toast('Ingresá al menos un límite', true);
+
+    try {
+      await apiFetch('/api/tickers', {
+        method: 'POST',
+        body: JSON.stringify({
+          symbol,
+          upper_limit: upper ? parseFloat(upper) : null,
+          lower_limit: lower ? parseFloat(lower) : null
+        })
+      });
+      document.getElementById('new-symbol').value = '';
+      document.getElementById('new-upper').value  = '';
+      document.getElementById('new-lower').value  = '';
+      toast(`✓ ${symbol.toUpperCase()} agregado`);
+      await loadTickers();
+    } catch(e) {
+      toast('Error: ' + e.message, true);
+    }
+  }
+
+  async function reactivate(id) {
+    try {
+      await apiFetch(`/api/tickers/${id}`, {
+        method: 'PATCH',
+        body: JSON.stringify({ is_active: true })
+      });
+      toast('✓ Alerta reactivada');
+      await loadTickers();
+    } catch(e) {
+      toast('Error reactivando', true);
+    }
+  }
+
+  async function deleteTicker(id, symbol) {
+    if (!confirm(`¿Eliminar ${symbol}?`)) return;
+    try {
+      await apiFetch(`/api/tickers/${id}`, { method: 'DELETE' });
+      toast(`✓ ${symbol} eliminado`);
+      await loadTickers();
+    } catch(e) {
+      toast('Error eliminando', true);
+    }
+  }
+</script>
+</body>
+</html>
