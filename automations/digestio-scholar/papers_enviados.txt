@@ -706,3 +706,10 @@ LaTeX2Layout: High-Fidelity, Scalable Document Layout Annotation Pipeline for La
 Reinforcement Learning for Jump‐Diffusions, With Financial Applications
 UN secretary-general visits and human rights diplomacy
 Dissecting the population structure, diversity and genetic architecture of rust resistance in wild emmer wheat (Triticum turgidum subsp. dicoccoides)
+Formulation and Evaluation of Oro Dispersible Tablets of Ondansetron Hydrochloride by Direct Compression using Superdisintegrants
+Bullet: Boosting GPU Utilization for LLM Serving via Dynamic Spatial-Temporal Orchestration
+Renewable energy MicroGrid power forecasting: AI techniques with environmental perspective
+Open and Sustainable AI: challenges, opportunities and the road ahead in the life sciences
+OntoScope: Using a Divergent-Convergent Interaction Framework to Support LLM-based Ontology Scoping
+Technological Progress, Occupational Structure and Gender Gaps in the German Labour Market
+sedExnerFoam 2412: a 3D Exner-based sediment transport and morphodynamics model
