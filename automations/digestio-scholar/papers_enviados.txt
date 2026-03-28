@@ -715,3 +715,8 @@ Technological Progress, Occupational Structure and Gender Gaps in the German Lab
 sedExnerFoam 2412: a 3D Exner-based sediment transport and morphodynamics model
 CodeWars
 Dual Contrastive Network for Few-Shot Remote Sensing Image Scene Classification
+The Impact of Work Environment on Employees' Performance
+New deep-sea Amphipoda from the Clarion-Clipperton Zone: 24 new species described under the Sustainable Seabed Knowledge Initiative: One Thousand Reasons campaign
+Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs
+The prevalence, prevention, and treatment of cardiovascular diseases in Twelve African Countries (2014–2019): An analysis of the World Health Organisation STEPwise approach to chronic disease risk factor surveillance
+Observational Learning and Information Disclosure in Search Markets
