@@ -732,3 +732,31 @@ New global mean dynamic topography CNES-CLS-22 combining drifters, hydrography p
 Psilocin fosters neuroplasticity in iPSC-derived human cortical neurons
 Hypergraphs with arbitrarily small codegree Turán density
 Book Review: Purpose-Driven Learning: Unlocking and Empowering Our Students’ Innate Passion for Learning
+International Handbook of Research on Teachers' Beliefs
+R&D and Firm Resilience During Bad Times
+Dynamic Simulation and Parameter Calibration-Based Experimental Digital Twin Platform for Heat-Electric Coupled System
+Multiresource-Constrained Flexible Job Shop Scheduling With Fixture Pallets and Setup Stations Under Pallet Automation Systems
+A Secure-Sustainable-Fast Charging Strategy for Lithium-Ion Batteries Based on a Random Forest-Enhanced Electro-Thermal-Degradation Model
+Disagreement about Monetary Policy
+Land Concentration and Long-Run Development in the Frontier United States
+Banking Networks and Economic Growth: From Idiosyncratic Shocks to Aggregate Fluctuations
+Physics-Informed Neural Network-Enhanced Model Predictive Temperature Balancing Control for Li-Ion Battery Modules
+Skin disease detection using machine learning
+Generative AI Empowered Covert Communications: Autonomy, Efficiency, and Suitability
+Lightweight Scope Integration Network for Rail Surface Defect Detection
+Hierarchical Aggregation-Embedded Emergency Scheduling of Coupled Electricity-Watershed Networks With Heterogeneous Flexibility Resources Under Extreme Drought Events
+Toward Authenticated Encrypted Search With Constant Trapdoor for Mobile Cloud Systems
+An Integrated Probabilistic Forecasting and Robust Optimization Method for AC-OPF Under High-Penetration Renewable Energy
+SpectrumLLM: Large Language Models for Next-Generation Spectrum Prediction
+Sustainable MXene-based wearable sensor reinforced with microcrystalline cellulose for human motion monitoring in subzero environments with integrated machine learning.
+Coordination of Power and Transportation Networks With Integrated Electricity-Hydrogen Stations: A Reinforcement Learning Approach Considering Delayed Reward
+Construction of elastic superhydrophobic multiscale cellulose fiber aerogels with tunable pore size for efficient separation of oil-water mixtures.
+Semantic Communication-Enabled Multi-Access Edge Computing Network Resource Optimization in the 6G Era
+Molecular mechanism and structure-activity relationships of natural source polysaccharides in intervening type 2 diabetes mellitus through antioxidant effects: A systematic review.
+A Noninvasive Neural Network-Based Online Parameter Identification Method Under Fractional-Order Second Harmonic Current Suppressing
+When Knowledge Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study
+SMNet: A Novel Compositional Generalization Model for Industrial Robot Multijoint Fault Diagnosis
+Optimal Planning of Integrated Energy Systems Considering Multi-Day Low-Output Events and Efficiency Degradation of Electrolyzer
+Data Stream Driven Dynamic Multiobjective Optimization Using Surrogate Transfer
+Hybrid Tri-Level Optimal Sizing of Hydrogen Storage for Addressing Long-Term Seasonal Fluctuation of RES
+Financing the state: Government tax revenue from 1800 to 2012
