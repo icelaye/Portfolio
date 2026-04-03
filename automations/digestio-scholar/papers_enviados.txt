@@ -760,3 +760,13 @@ Optimal Planning of Integrated Energy Systems Considering Multi-Day Low-Output E
 Data Stream Driven Dynamic Multiobjective Optimization Using Surrogate Transfer
 Hybrid Tri-Level Optimal Sizing of Hydrogen Storage for Addressing Long-Term Seasonal Fluctuation of RES
 Financing the state: Government tax revenue from 1800 to 2012
+Competitive advantage
+Multiagent Fuzzy Reinforcement Learning With LLM for Cooperative Navigation of Endovascular Robotics
+Measuring Household Food Security in Rural of Communities of Bamyan, Afghanistan: An Application of the Household Food Security Survey Module (HFSSM)
+CWPFormer: Toward High-Performance Visual Place Recognition for Robot With Cross-Weight Attention Learning
+Adaptive Similarity Feature Construction for Ontology Matching via Multilayer Hybrid Genetic Programming
+Label Shift Estimation With Incremental Prior Update
+Allocative efficiency and the productivity slowdown
+A Two-Stage Cooperative Discrete Differential Evolution With Q-Learning for Multiobjective Energy-Efficient Distributed Blocking Flow-Shop Scheduling
+Incorporating Large Vision Model Distillation and Fuzzy Perception for Improving Disease Diagnosis
+Trending Applications of Large Language Models: A User Perspective Survey
