@@ -778,3 +778,6 @@ A Three-Way Incremental Granular-Ball Classifier Using Shadowed Set
 A Hierarchical Federated Learning Approach for Internet of Things
 From Freshness to Effectiveness: Goal-Oriented Sampling for Remote Decision Making
 The Impact of Digital Marketing on Consumer Behavior in the Modern Era
+Transformer self-attention encoder–decoder with multimodal deep learning for response time series forecasting and digital twin support in wind structural health monitoring
+A Scalable Multichannel Sentiment Analysis Model With Enhanced Semantic Understanding and Redundancy Reduction
+Role of Techno-pedagogical Skills for Enhancing Teaching and Learning
