@@ -785,3 +785,4 @@ High Quality Intelligent Database Driven Microcontroller Based Heartbeat Monitor
 Denoising of Satellite Images Using Hybrid Filtering and Convolutional Neural Network
 Optimalisasi Peran Badan Usaha Milik Desa
 Pengaruh Brand Familiarity terhadap Brand Credibility Produk Minuman Kemasan
+Generative AI in Financial Reporting
