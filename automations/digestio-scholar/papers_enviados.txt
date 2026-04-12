@@ -786,3 +786,6 @@ Denoising of Satellite Images Using Hybrid Filtering and Convolutional Neural Ne
 Optimalisasi Peran Badan Usaha Milik Desa
 Pengaruh Brand Familiarity terhadap Brand Credibility Produk Minuman Kemasan
 Generative AI in Financial Reporting
+Dollar Dominance in FX Trading
+REVISE: A Framework for Revising OCRed text in Practical Information Systems with Data Contamination Strategy
+Distributed Attack Detection For Wireless Sensor Networks
