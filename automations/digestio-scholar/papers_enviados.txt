@@ -789,3 +789,8 @@ Generative AI in Financial Reporting
 Dollar Dominance in FX Trading
 REVISE: A Framework for Revising OCRed text in Practical Information Systems with Data Contamination Strategy
 Distributed Attack Detection For Wireless Sensor Networks
+Self-Balancing Robot
+The AI Supply Chain
+Neal-Schuman Library Technology Companion: A Basic Guide for Library Staff, Seventh
+Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication
+Revisiting long-term time series forecasting: an investigation on affine mapping
