@@ -794,3 +794,10 @@ The AI Supply Chain
 Neal-Schuman Library Technology Companion: A Basic Guide for Library Staff, Seventh
 Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication
 Revisiting long-term time series forecasting: an investigation on affine mapping
+Privilege Escalation Attack Detection and Mitigation in Cloud Using Machine Learning
+HOW IS MOBILE-ASSISTED LANGUAGE LEARNING (MALL) IMPLEMENTED BY SENIOR HIGH SCHOOL ENGLISH TEACHERS?
+NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: AI Flash Portrait (Track 3)
+FOSTERING STUDENTS' WRITING ABILITY THROUGH PROJECT BASED LEARNING APPROACH
+The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results
+TECHNOLOGY BASED LEARNING IN EFL SPEAKING CLASS
+SPIRITUALITY-BASED CHARACTER EDUCATION STRATEGIC MANAGEMENT
