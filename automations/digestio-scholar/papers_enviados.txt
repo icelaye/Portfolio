@@ -819,3 +819,11 @@ The Effect of Intellectual Capital on Knowledge Management with the Mediating Ro
 The Community Empowerment through Social and Educational Institutions
 Underreporting of AI Use: The Role of Social Desirability Bias
 Simple changes to content curation algorithms affect the beliefs people form in a collaborative filtering experiment
+Churn prediction
+Performance evaluation measurement of image steganography techniques with analysis of LSB based on variation image formats
+Data sources and ingestion big data layers: meta-modeling of key concepts and features
+Wireless body area network revisited
+Robust multichannel EEG signals compression model based on hybridization technique
+Improving Reasoning Capabilities in Small Models through Mixture-of-layers Distillation with Stepwise Attention on Key Information
+Introduction of the virtual center of wind pressure for correlating large-scale turbulent structures and wind turbine loads
+Inverse majority vertex covering number of a graph
