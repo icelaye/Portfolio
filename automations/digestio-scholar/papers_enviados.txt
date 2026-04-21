@@ -827,3 +827,18 @@ Robust multichannel EEG signals compression model based on hybridization techniq
 Improving Reasoning Capabilities in Small Models through Mixture-of-layers Distillation with Stepwise Attention on Key Information
 Introduction of the virtual center of wind pressure for correlating large-scale turbulent structures and wind turbine loads
 Inverse majority vertex covering number of a graph
+Implementasi Pendidikan Karakter dalam Pembelajaran di Sekolah Dasar
+Warga Negara dan Ekologi: Studi Kasus Pengembangan Warga Negara Peduli Lingkungan Dalam Komunitas Bandung Berkebun
+Sample Complexity Bounds for Stochastic Shortest Path with a Generative Model
+Fake News Detection Using NLP
+Hedges and Boosters in Undergraduate Students’ Research Articles
+Cloud Computing in Big Data Analytics
+Pengaruh Strategi Pembelajaran terhadap Kemampuan Berpikir Tingkat Tinggi
+Winners and Losers from the Protestant Reformation: An Analysis of the Network of European Universities
+Paddy crop and weed classification using color features for computer vision based precision agriculture
+Micro aneurysms detection using artificial neural networks
+Budaya Organisasi Sekolah dalam Meningkatkan Kinerja Guru
+Social structure as a form of collective intelligence: a new framework
+Influence of Co-Curricular Activities on Senior Secondary School Students’ Academic Achievement in English Language in Nigeria
+Individual versus collective associative learning in ants
+Chimpanzees spontaneously prepare for mutually exclusive possibilities, and collective context strengthens this behaviour
