@@ -842,3 +842,12 @@ Social structure as a form of collective intelligence: a new framework
 Influence of Co-Curricular Activities on Senior Secondary School Students’ Academic Achievement in English Language in Nigeria
 Individual versus collective associative learning in ants
 Chimpanzees spontaneously prepare for mutually exclusive possibilities, and collective context strengthens this behaviour
+Technological factors and e-commerce adoption among small medium enterprises in Kurdistan, Iraq
+An Ensemble approach to identifying the student gender towards information and communication technology awareness in European schools using machine learning
+Pengaruh Kompetensi Pedagogik dan Kompetensi Profesional Guru Terhadap Economic Literacy Melalui Prestasi Belajar Siswa Kelas XII IPS Di Sma Kota Malang
+Energy Efficient LSTM Accelerators for Embedded FPGAs Through Parameterised Architecture Design
+Multilevel hiding text security using hybrid technique steganography and cryptography
+Low Light Image Enhancement Challenge at NTIRE 2026
+NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results
+The First Challenge on Mobile Real-World Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview
+Self-introduction
