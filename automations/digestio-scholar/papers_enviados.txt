@@ -851,3 +851,7 @@ Low Light Image Enhancement Challenge at NTIRE 2026
 NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results
 The First Challenge on Mobile Real-World Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview
 Self-introduction
+An Enhanced Data Integrity Technique for Cloud Storage with Integrated Archive Using PDP
+What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences†
+A systematic review of machine learning on clinical MALDI-TOF MS
+IoT Data based Predictive Modeling for Energy Usage of Appliances in Smart Home
