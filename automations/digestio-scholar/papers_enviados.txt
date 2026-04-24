@@ -855,3 +855,7 @@ An Enhanced Data Integrity Technique for Cloud Storage with Integrated Archive U
 What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences†
 A systematic review of machine learning on clinical MALDI-TOF MS
 IoT Data based Predictive Modeling for Energy Usage of Appliances in Smart Home
+Smart traffic management system with real time analysis
+The First Challenge on Remote Sensing Infrared Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview
+Preference Elicitation Methods and Equivalent Income: An Overview
+Low Power Bus Encoding Schemes to Minimization of Crosstalk in Vlsi Interconnects
