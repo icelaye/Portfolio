@@ -859,3 +859,8 @@ Smart traffic management system with real time analysis
 The First Challenge on Remote Sensing Infrared Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview
 Preference Elicitation Methods and Equivalent Income: An Overview
 Low Power Bus Encoding Schemes to Minimization of Crosstalk in Vlsi Interconnects
+Relapse and Addictive Behaviour
+Investing in Lending Technology: IT Spending in Banking
+Polarization and Frequency Reconfigurable Antenna for Dual Band ISM Medical and Wi-Fi Applications
+CMIP7 data request: land and land ice priorities and opportunities
+Short-lived High-volume Bandits
