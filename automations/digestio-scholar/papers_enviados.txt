@@ -867,3 +867,4 @@ Short-lived High-volume Bandits
 Beyond Automation
 “IA para o bem de todos”?
 Unbecoming
+Generating Synthetic Malware Samples Using Generative AI
