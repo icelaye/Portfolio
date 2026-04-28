@@ -868,3 +868,4 @@ Beyond Automation
 “IA para o bem de todos”?
 Unbecoming
 Generating Synthetic Malware Samples Using Generative AI
+Mapping the dynamics of idiographic network models to the network theory of psychopathology
