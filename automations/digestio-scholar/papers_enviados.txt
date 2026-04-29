@@ -869,3 +869,17 @@ Beyond Automation
 Unbecoming
 Generating Synthetic Malware Samples Using Generative AI
 Mapping the dynamics of idiographic network models to the network theory of psychopathology
+Data Transmission Using Multiple Medium Concurrently
+Coal Mine Workers Safety Helmet in Li-Fi Data Stored in Cloud
+Digital transformation in higher education: challenges and opportunities
+Critical Thinking Dispositions among Polytechnic Students: Why Does it Matter?
+Causal Representation Learning from General Environments under Nonparametric Mixing
+Identifying Success Factors of Mamak Restaurants in Malaysia
+Taking time seriously: Predicting conflict fatalities using temporal fusion transformers
+IOT NETWORK SECURITY IN SMART HOMES
+An Exploration of Effective Onboarding on Employee Engagement and Retention in Work Organizations
+Financial Behavior and Problems Among College Student in Indonesia: the Role of Financial Knowledge
+Molecular deep learning at the edge of chemical space
+Robust Deepfake Detection, NTIRE 2026 Challenge: Report
+When AI reviews science: Can we trust the referee?
+In-Production Characterization of an Open Source Serverless Platform and New Scaling Strategies
