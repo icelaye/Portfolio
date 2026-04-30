@@ -883,3 +883,9 @@ Molecular deep learning at the edge of chemical space
 Robust Deepfake Detection, NTIRE 2026 Challenge: Report
 When AI reviews science: Can we trust the referee?
 In-Production Characterization of an Open Source Serverless Platform and New Scaling Strategies
+Alternative Approaches to Second Language Acquisition
+KOMBO: Korean Character Representations Based on the Combination Rules of Subcharacters
+Stagnation points at grain contacts generate an elastic flow instability in 3-D porous media
+Effect of Sheet Thickness during Superplastic Forming of AZ31B Alloy into a Hemispherical Die
+A Systematic Review of Methodologies for Assessing the Impact of Human and Organizational Factors on Safety Barrier Performance in Process Industries
+Human Resource Management Practices and Turnover Intention: the Mediating Role of Perceived Organizational Support in Tertiary Institutions in Nigeria
