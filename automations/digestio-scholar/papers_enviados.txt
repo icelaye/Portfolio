@@ -889,3 +889,7 @@ Stagnation points at grain contacts generate an elastic flow instability in 3-D 
 Effect of Sheet Thickness during Superplastic Forming of AZ31B Alloy into a Hemispherical Die
 A Systematic Review of Methodologies for Assessing the Impact of Human and Organizational Factors on Safety Barrier Performance in Process Industries
 Human Resource Management Practices and Turnover Intention: the Mediating Role of Perceived Organizational Support in Tertiary Institutions in Nigeria
+Evolutionary Feature Selection for Spiking Neural Network Pattern Classifiers
+Advanced Sensors for Real-Time Monitoring Applications
+Political Science under Pressure: Competition and Collaboration in a Growing Discipline, 2003–23
+Epigenetic adaptation of beta cells across lifespan and disease
