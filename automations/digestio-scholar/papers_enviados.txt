@@ -893,3 +893,13 @@ Evolutionary Feature Selection for Spiking Neural Network Pattern Classifiers
 Advanced Sensors for Real-Time Monitoring Applications
 Political Science under Pressure: Competition and Collaboration in a Growing Discipline, 2003–23
 Epigenetic adaptation of beta cells across lifespan and disease
+Bayesian Policy Gradient and Actor-Critic Algorithms
+Fiscal Consequences of Corporate Tax Avoidance
+Consistent Identification for FIR Systems With Multilevel Quantized Observations Subjected to Data Tampering Attacks: A Joint Estimation Approach
+A Carrier Phase Recovery Loop for a 3.2-pJ/b, 24-Gb/s QPSK Coherent Optical Receiver
+An Intelligent Intent-Aware System for DDoS Attacks Detection and Mitigation in IoT Networks
+Toward Intent-Based Network Management: Intent-Optimized Cross-Shard Transactions and Malicious Node Detection in Blockchain System
+From novelty to necessity: Understanding CRM-driven service robot adoption in Iraqi restaurants through UTAUT3
+HATS: An Open Data Set Integrating Human Perception Applied to the Evaluation of Automatic Speech Recognition Metrics
+PRO EDI—A Tool to Help Systematic Reviewers Make Equity, Diversity, and Inclusion Assessments
+School Health Governance and Educational Development in Nigeria: Addressing the Burden of Microbial Infections in Schools
