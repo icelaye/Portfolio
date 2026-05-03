@@ -903,3 +903,7 @@ From novelty to necessity: Understanding CRM-driven service robot adoption in Ir
 HATS: An Open Data Set Integrating Human Perception Applied to the Evaluation of Automatic Speech Recognition Metrics
 PRO EDI—A Tool to Help Systematic Reviewers Make Equity, Diversity, and Inclusion Assessments
 School Health Governance and Educational Development in Nigeria: Addressing the Burden of Microbial Infections in Schools
+AI Hallucinations as a Form of Harm: An Analysis under WHO Guidance on Ethics and Governance of Artificial Intelligence for Health
+Toward a Unified Framework for Consistency Generative Modeling
+Distributed Model Predictive Control Strategy for Multi-Energy Virtual Power Plant Based on Digital Twin
+A Hierarchical-Hybrid Floating-Point Compute-in-Memory Macro Using FP-DAC and FP-ADC for Edge-AI Devices
