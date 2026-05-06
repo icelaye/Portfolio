@@ -910,3 +910,5 @@ A Hierarchical-Hybrid Floating-Point Compute-in-Memory Macro Using FP-DAC and FP
 Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness
 Acceptance and Engagement in Artificial Intelligence–Supported Reading Among Primary School Learners of English as a Foreign Language
 Strategic Evidence Disclosure in Networks and Equilibrium Discrimination
+Resilience and sense of belonging among medical students in a Malaysian public university
+Leveraging teaching on demand: Approaching HPC to undergrads
