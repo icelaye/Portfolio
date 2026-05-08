@@ -915,3 +915,12 @@ Leveraging teaching on demand: Approaching HPC to undergrads
 Flight Delay Prediction Using Machine Learning
 Cynical Theories: How Activist Scholarship Made Everything About Race, Gender, and Identity—and Why This Harms Everybody
 Enhanced 3D brain tumor segmentation using assortedprecision training
+Feature importance analysis for patient management decisions
+Weather Monitoring System
+Performance Guaranteed MPC Policy Approximation via Cost Guided Learning
+BEMN: Balanced Bias Enhanced Multi-Branch Network for Cross-View Geo-Localization
+Integrated Sensing, Communication, and Computation for Low-Altitude Networks Towards Seamless Connectivity and Connected Intelligence
+Adaptive Model Predictive Control of Four-Wheel Drive Intelligent Electric Vehicles Based on Stability Probability Under Extreme Braking Conditions
+The Acoustic Signal Denoising Method for Rotating Machinery via the Virtual Sample Based DpConformer
+Remaining Useful Life Prediction Based on Interpretable Serialized Variational Autoencoder: A Drift-Diffusion Stochastic Equation Perspective
+SKADI: A 28-nm Complete K-SAT Solver Featuring Bidirectional In-Memory Deduction and Incremental Updating
