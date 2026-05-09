@@ -924,3 +924,7 @@ Adaptive Model Predictive Control of Four-Wheel Drive Intelligent Electric Vehic
 The Acoustic Signal Denoising Method for Rotating Machinery via the Virtual Sample Based DpConformer
 Remaining Useful Life Prediction Based on Interpretable Serialized Variational Autoencoder: A Drift-Diffusion Stochastic Equation Perspective
 SKADI: A 28-nm Complete K-SAT Solver Featuring Bidirectional In-Memory Deduction and Incremental Updating
+Internet based remote desktop using INDY and socket component
+Market Power in Artificial Intelligence
+Voice Controlled Smart Home System
+Artificial Intelligence in Digital Media: Opportunities, Challenges, and Future Directions
