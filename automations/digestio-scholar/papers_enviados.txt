@@ -928,3 +928,4 @@ Internet based remote desktop using INDY and socket component
 Market Power in Artificial Intelligence
 Voice Controlled Smart Home System
 Artificial Intelligence in Digital Media: Opportunities, Challenges, and Future Directions
+Composite performance index as decision support method for multi case problem
