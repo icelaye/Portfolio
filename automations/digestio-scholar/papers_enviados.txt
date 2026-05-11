@@ -929,3 +929,7 @@ Market Power in Artificial Intelligence
 Voice Controlled Smart Home System
 Artificial Intelligence in Digital Media: Opportunities, Challenges, and Future Directions
 Composite performance index as decision support method for multi case problem
+Do Remote Workers Deter Neighborhood Crime? Evidence from the Rise of Working from Home
+Plug-and-play sanitization for TFHE
+From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms
+An analysis of functional relationships between systemic conditions and unethical behavior in German academia
