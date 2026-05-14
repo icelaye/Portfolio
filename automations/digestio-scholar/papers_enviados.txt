@@ -935,3 +935,10 @@ From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechan
 An analysis of functional relationships between systemic conditions and unethical behavior in German academia
 Caution Ahead: Numerical Reasoning and Look‐Ahead Bias in AI Models
 Unraveling Generative AI from a Human Intelligence Perspective: A Battery of Experiments
+The Design of Flexible Telemedicine Framework for Healthcare Big Data
+Counterfactual Analysis for Structural Dynamic Discrete Choice Models
+Signatures of quasi-Dirac neutrinos in diffuse high-energy astrophysical neutrino data
+Drivers in the Implementation of Sustainable Construction Management among Main Contractors
+One stage process removal of filter cake using micro emulsion
+Time is Money: The Social Benefits of Time-of-Use Tariffs
+Linking surface coverage with surfactant activity to refine the role of surfactants for air-sea gas exchange
