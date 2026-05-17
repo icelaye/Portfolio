@@ -947,3 +947,4 @@ TinyLSN: A Lightweight Network for Real-Time Marine Pipeline Leakage Detection i
 Edge-Enabled Human Activity Recognition Using Hybrid Deep Learning and Multisensor Wi-Fi CSI Arrays
 Machine Learning Techniques for Wi-Fi CSI-Based Recognition and Sensing: A Comprehensive Review
 Adaptive Federated Learning for Future IoV-Oriented IoT End-to-End Network Planning
+IoT Service Orchestration in Edge–Cloud Continuum With 6G: A Review
