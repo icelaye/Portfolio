@@ -949,3 +949,5 @@ Machine Learning Techniques for Wi-Fi CSI-Based Recognition and Sensing: A Compr
 Adaptive Federated Learning for Future IoV-Oriented IoT End-to-End Network Planning
 IoT Service Orchestration in Edge–Cloud Continuum With 6G: A Review
 Geographic Bias Analysis and Cross-Domain Generalization in Deep Learning-Based Building Damage Assessment
+HR-GCN: 2-D-3-D Whole-Body Pose Estimation With High-Resolution Graph Convolutional Network From a Monocular Camera
+Paraphrasing Attack Resilience of Various Machine-Generated Text Detection Methods
