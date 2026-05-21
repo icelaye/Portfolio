@@ -953,3 +953,5 @@ HR-GCN: 2-D-3-D Whole-Body Pose Estimation With High-Resolution Graph Convolutio
 Paraphrasing Attack Resilience of Various Machine-Generated Text Detection Methods
 Food Neophobia
 The Drivers and Implications of Retail Margin Trading
+RBF-KAN: Radial Basis Function–Kolmogorov–Arnold Network
+IoT and Massive Connectivity: Massive MIMO Optimization for IoT Connectivity in 5G and Beyond Networks
