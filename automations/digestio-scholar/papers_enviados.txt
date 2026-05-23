@@ -955,3 +955,5 @@ Food Neophobia
 The Drivers and Implications of Retail Margin Trading
 RBF-KAN: Radial Basis Function–Kolmogorov–Arnold Network
 IoT and Massive Connectivity: Massive MIMO Optimization for IoT Connectivity in 5G and Beyond Networks
+Real-Time Object Detection Using YOLO
+Impact of inflow conditions and turbine placement on the performance of offshore wind turbines exceeding 7 MW
