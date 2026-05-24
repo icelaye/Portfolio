@@ -957,3 +957,8 @@ RBF-KAN: Radial Basis Function–Kolmogorov–Arnold Network
 IoT and Massive Connectivity: Massive MIMO Optimization for IoT Connectivity in 5G and Beyond Networks
 Real-Time Object Detection Using YOLO
 Impact of inflow conditions and turbine placement on the performance of offshore wind turbines exceeding 7 MW
+Heart Stroke Prediction Using Machine Learning
+Monopsony Makes Firms Not Only Small But Also Unproductive: Why East Germany Has Not Converged
+The Liquidity of the Government Bond Market—What Impact Does Quantitative Easing Have? Evidence from Sweden
+Scenario set-up and the new CMIP6-based climate-related forcings provided within the third round of the Inter-Sectoral Model Intercomparison Project (ISIMIP3b, group I and II)
+Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data
