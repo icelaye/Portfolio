@@ -962,3 +962,7 @@ Monopsony Makes Firms Not Only Small But Also Unproductive: Why East Germany Has
 The Liquidity of the Government Bond Market—What Impact Does Quantitative Easing Have? Evidence from Sweden
 Scenario set-up and the new CMIP6-based climate-related forcings provided within the third round of the Inter-Sectoral Model Intercomparison Project (ISIMIP3b, group I and II)
 Early Labor Market Outcomes of Young Adults From Same‐Sex Families: Evidence From Population Data
+Score-Based Causal Discovery of Latent Variable Causal Models
+Relevant Walk Search for Explaining Graph Neural Networks
+An Endogenous ‘Refugee Crisis’: Exploring Frame Drain and Emerging Conflicts in Migration Politics
+Enhancing Scientific Discourse: Machine Translation for the Scientific Domain
