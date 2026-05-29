@@ -971,3 +971,6 @@ Rapid Adaptive Matched Filter for Detecting Radar Targets With Unknown Velocity
 Contemporary Perioperative Outcomes of Robotic Retroperitoneal Lymph Node Dissection for Testicular Cancer
 Emerging memory technologies at room/cryogenic temperature
 Rethinking Weakly-Supervised Video Temporal Grounding From a Game Perspective
+Evaluation of Conversational Agents: Understanding Culture, Context and Environment in Emotion Detection
+An Approach for Thyroid Nodule Analysis Using Thermographic Images
+Ensemble reliability and the signal‐to‐noise paradox in ECMWF subseasonal forecasts
