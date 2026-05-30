@@ -974,3 +974,8 @@ Rethinking Weakly-Supervised Video Temporal Grounding From a Game Perspective
 Evaluation of Conversational Agents: Understanding Culture, Context and Environment in Emotion Detection
 An Approach for Thyroid Nodule Analysis Using Thermographic Images
 Ensemble reliability and the signal‐to‐noise paradox in ECMWF subseasonal forecasts
+Relative energy deficiency in sport (REDs)
+Strong Approximations and Irrationality in Financial Networks with Derivatives
+Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval
+Beyond the Oligopoly: Scholarly Journal Publishing Landscapes in Latin America and Europe
+CAR Practice Guidelines on Breast Imaging and Interventions: Breast Magnetic Resonance Imaging
