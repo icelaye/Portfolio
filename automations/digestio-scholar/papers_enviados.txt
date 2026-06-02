@@ -994,3 +994,11 @@ Utilization of Assessment Features in
 Platform Merdeka Mengajar (PMM) in the Assessment of Indonesian Language Learning
 Legal Case-Based Reading to Promote Critical Thinking for Law Students
 Updated global and regional trends of stratospheric ozone profiles
+Cashless Payment and Financial Inclusion
+Efficient Medical Image Segmentation via Reinforcement Learning-Driven K-Space Sampling
+Survey on Federated Unlearning: Challenges and Opportunities
+Jointly Optimizing Task Offloading and Resource Allocation in MEC With Secure Data Transmission: A Multi-DNNs Approach
+Utilization of Assessment Features in
+Platform Merdeka Mengajar (PMM) in the Assessment of Indonesian Language Learning
+Survey of Spectral Amplitude Coding Optical Code Division Multiple Access Families
+An Incentive Assignment Scheme of UAV Clients for Federated Intelligent Inspection Based on Communication-Sensing-Computing Integration
