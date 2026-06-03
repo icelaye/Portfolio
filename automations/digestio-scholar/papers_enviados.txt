@@ -1002,3 +1002,15 @@ Utilization of Assessment Features in
 Platform Merdeka Mengajar (PMM) in the Assessment of Indonesian Language Learning
 Survey of Spectral Amplitude Coding Optical Code Division Multiple Access Families
 An Incentive Assignment Scheme of UAV Clients for Federated Intelligent Inspection Based on Communication-Sensing-Computing Integration
+Breaking Bad News
+Performance Analysis of Hybrid FSO/RF-THz Relay Communication System
+Generative AI-Aided QoE-Aware Resource Allocations for RlS-Assisted Digital Twin Interaction With Uncertain Evolution
+Multi-modal Graph Neural Network with Transformer-Guided Adaptive Diffusion for Preclinical Alzheimer Classification
+Advancing Privacy and Accuracy With Federated Learning and Homomorphic Encryption
+Dynamic Event-Triggered Control for Human–Machine Cooperative Systems Based on Dynamic Authority Allocation
+RAMS: Runtime Adaptive Memory Scaling for Tiny Deep Learning on IoT Devices
+Utilization of Assessment Features in
+Platform Merdeka Mengajar (PMM) in the Assessment of Indonesian Language Learning
+Neural Surrogate Solver for Efficient Edge Inference of Power Electronic Hybrid Dynamics
+A Self-Adaptive Primary-Band Priority Algorithm Considering Nonlinear Interference in C+L+S-Band Optical Networks
+Securing Low-Altitude Intelligent Networks: Challenges and Solutions
