@@ -1014,3 +1014,8 @@ Platform Merdeka Mengajar (PMM) in the Assessment of Indonesian Language Learnin
 Neural Surrogate Solver for Efficient Edge Inference of Power Electronic Hybrid Dynamics
 A Self-Adaptive Primary-Band Priority Algorithm Considering Nonlinear Interference in C+L+S-Band Optical Networks
 Securing Low-Altitude Intelligent Networks: Challenges and Solutions
+CIME: Contextual Interaction-Based Multimodal Emotion Analysis With Enhanced Semantic Information
+Efficient Defense Against Adversarial Attacks on Multimodal Emotion AI Models
+Data-Driven and Decomposition-Based Multiobjective Multitask Optimization for Automotive Shape Design Problem
+Learning-Based Temporal Sequence of Constrained Handling Selection for Constrained Multi-Objective Evolutionary Optimization
+Emotion-Aware Conversational Music Recommendation With Multiagent System
