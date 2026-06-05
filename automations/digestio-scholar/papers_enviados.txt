@@ -1019,3 +1019,9 @@ Efficient Defense Against Adversarial Attacks on Multimodal Emotion AI Models
 Data-Driven and Decomposition-Based Multiobjective Multitask Optimization for Automotive Shape Design Problem
 Learning-Based Temporal Sequence of Constrained Handling Selection for Constrained Multi-Objective Evolutionary Optimization
 Emotion-Aware Conversational Music Recommendation With Multiagent System
+Machine Learning in Education
+Mis(sed) Diagnosis: Physician Decision Making and ADHD
+Collaborative Ontology Matching With Dual Population Genetic Programming and Active Meta-Learning
+Omics-Based Cancer Prognosis Across Ethnic Groups: From Feature Engineering to Disparity Detection and Mitigation
+A Study on the Dynamics and Effectiveness of the Deflate Geometric Semantic Mutation
+Morphology Evolution for Embodied Robot Design With a Classifier-Guided Diffusion Model
