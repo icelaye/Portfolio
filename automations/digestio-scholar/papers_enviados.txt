@@ -1030,3 +1030,11 @@ LEGO: Optimal Online Learning Under Sequential Price Competition
 Enhancing Adaptability in Embodied Agents: A Multi-Quality-Diversity Approach
 Analisis Kemampuan Komunikasi Matematis Siswa Ditinjau dari Self Confidence
 Pengaruh Pelatihan Antropometri Terhadap Pengetahuan Kader Posyandu di Wilayah Puskesmas Perawatan Kembang Seri
+A Preference-Driven Methodology for Efficient Code Generation
+A Lightweight Deep and Wide Network for Image-Based Detection of Industrial Waste Gas
+Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM
+A Novel Fusion Attention-Based Lightweight Model for Pipeline Weld Multiscale Defect Detection
+Quantum Machine Learning for Earth Observation: A review and future prospects
+High Dynamic Range Imaging via Spatial-Frequency Interaction
+Monotonic Rank Knowledge Distillation via Kendall Correlation
+Localized Background-Aware Generative Distillation for Enhanced Remote Sensing Object Detection
