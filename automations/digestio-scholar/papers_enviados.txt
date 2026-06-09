@@ -1038,3 +1038,8 @@ Quantum Machine Learning for Earth Observation: A review and future prospects
 High Dynamic Range Imaging via Spatial-Frequency Interaction
 Monotonic Rank Knowledge Distillation via Kendall Correlation
 Localized Background-Aware Generative Distillation for Enhanced Remote Sensing Object Detection
+Focus on Learning: The Core Mission of Higher Education
+Studi Kepustakaan tentang Model Pembelajaran Think Pair Share (TPS) dalam Meningkatkan Hasil Belajar Matematika
+Generative AI in Business Analytics: Opportunities and Risks for National Economic Growth
+Knowledge Graphs and Data Services for Studying Historical Epistolary Data in Network Science on the Semantic Web
+Chaotic and Stochastic Components in an Influenza Surveillance Series: Nonlinear Dynamics and Predictive Modeling Study
