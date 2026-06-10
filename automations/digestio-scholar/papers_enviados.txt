@@ -1043,3 +1043,8 @@ Studi Kepustakaan tentang Model Pembelajaran Think Pair Share (TPS) dalam Mening
 Generative AI in Business Analytics: Opportunities and Risks for National Economic Growth
 Knowledge Graphs and Data Services for Studying Historical Epistolary Data in Network Science on the Semantic Web
 Chaotic and Stochastic Components in an Influenza Surveillance Series: Nonlinear Dynamics and Predictive Modeling Study
+AI Assistant
+Unpacking Aggregate Welfare in a Spatial Economy
+Global, regional, and national levels and trends in under 5, infant, and neonatal mortality during 1990-2024 with scenario based projections to 2030: modelling study
+PriSrv: Privacy-Enhanced and Highly Usable Service Discovery in Wireless Communications
+COMBINER: Composed Image Retrieval Guided by Attribute-Based Neighbor Relations
