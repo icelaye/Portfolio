@@ -1048,3 +1048,5 @@ Unpacking Aggregate Welfare in a Spatial Economy
 Global, regional, and national levels and trends in under 5, infant, and neonatal mortality during 1990-2024 with scenario based projections to 2030: modelling study
 PriSrv: Privacy-Enhanced and Highly Usable Service Discovery in Wireless Communications
 COMBINER: Composed Image Retrieval Guided by Attribute-Based Neighbor Relations
+PolyBuild: An End-to-End Method for Polygonal Building Contour Extraction From High-Resolution Remote Sensing Images
+ATT-CR: Adaptive Triangular Transformer for Cloud Removal
