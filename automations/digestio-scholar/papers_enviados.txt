@@ -1050,3 +1050,12 @@ PriSrv: Privacy-Enhanced and Highly Usable Service Discovery in Wireless Communi
 COMBINER: Composed Image Retrieval Guided by Attribute-Based Neighbor Relations
 PolyBuild: An End-to-End Method for Polygonal Building Contour Extraction From High-Resolution Remote Sensing Images
 ATT-CR: Adaptive Triangular Transformer for Cloud Removal
+Artificial Collusion: Examining Supracompetitive Pricing by Q-Learning Algorithms
+Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes
+Battery detection of XRay images using transfer learning
+Authorship inequality and elite dominance in management and organizational research: A review of six decades
+Parental Knowledge, Attitudes and Beliefs Regarding Fever in Children
+RCAP: Robust, Class-Aware, Probabilistic Dynamic Dataset Pruning
+Reconfigurable Antennas for Next-Generation Mobile Communication Networks: A Comprehensive Survey and Tutorial
+Patient-centred care.
+A Criterion for Andrásfai–Erdős–Sos Type Theorems and Applications
