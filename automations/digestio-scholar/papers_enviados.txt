@@ -1060,3 +1060,7 @@ Reconfigurable Antennas for Next-Generation Mobile Communication Networks: A Com
 Patient-centred care.
 A Criterion for Andrásfai–Erdős–Sos Type Theorems and Applications
 Euclidean vs. Graph Metric
+Unveiling Privacy Risks in Multi-modal Large Language Models: Task-specific Vulnerabilities and Mitigation Challenges
+Adaptive Riemannian optimization for multi-scale diffeomorphic matching
+Spurious effects in random-intercept cross-lagged panel models: Results from simulations and reanalyses of data on self-esteem and problematic eating behaviors used by Beckers et al. (2023)
+Vision Language Model Helps Private Information De-Identification in Vision Data
