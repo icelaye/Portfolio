@@ -1068,3 +1068,5 @@ Towards robust foundation models for digital pathology
 CY-Bench: a comprehensive benchmark dataset for sub-national crop yield forecasting
 Comprehensive framework for evaluation of deep neural networks in detection and quantification of lymphoma from PET/CT images: Clinical insights, pitfalls, and observer agreement analyses.
 TinyML-Enabled IoT Edge Framework With Knowledge Distillation for Weed Classification
+Using Neural Networks to Guide Data-Driven Operational Decisions
+Sparse Graphic Degree Sequences Have Planar Realizations
