@@ -1078,3 +1078,4 @@ Customer Acquisition, Business Dynamism and Aggregate Growth
 The Economic Impact of Russia's Invasion of Ukraine on European Countries – a SVAR Approach
 External Knowledge Integration in Large Language Models: A Survey on Methods, Challenges, and Future Directions
 Condition monitoring of wind turbine drivetrains: state-of-the-art technologies, recent trends, and future outlook
+Combining Psychology With Artificial Intelligence: What Could Possibly Go Wrong?
