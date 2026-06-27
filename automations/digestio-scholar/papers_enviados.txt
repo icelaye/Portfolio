@@ -1085,3 +1085,8 @@ JUICE-MAJIS Earth observations during the 2024 gravity assist: first analysis an
 Measurement of General Attitude Toward AI and its Relationship with AI Anxiety, Attitude Toward Robots and Belief in Human Nature Uniqueness: Polish Adaptation of the ATTARI-12 Questionnaire
 Graph neural operator for wind farm wake flow
 Analysis of the Planetary Pressures-adjusted Human Development Index (PHDI)
+The Nineteenth Data Release of the Sloan Digital Sky Survey
+RESEARCH AND STATISTICAL DATA ANALYSIS WITH SPSS AND AMOS
+Implementasi Pengelolaan Kelas Oleh Guru Terhadap Motivasi Belajar Anak Usia Dini
+The JUICE 2024 close flyby of the Moon: thermal assessment from MAJIS
+Enhancing Enzyme Activity With Mutation Combinations Guided by Few-Shot Learning and Causal Inference.
