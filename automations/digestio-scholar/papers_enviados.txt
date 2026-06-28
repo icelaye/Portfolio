@@ -1090,3 +1090,7 @@ RESEARCH AND STATISTICAL DATA ANALYSIS WITH SPSS AND AMOS
 Implementasi Pengelolaan Kelas Oleh Guru Terhadap Motivasi Belajar Anak Usia Dini
 The JUICE 2024 close flyby of the Moon: thermal assessment from MAJIS
 Enhancing Enzyme Activity With Mutation Combinations Guided by Few-Shot Learning and Causal Inference.
+Automated Graph Machine Learning: Approaches, Libraries and Directions
+A STUDY ON CUSTOMER SATISFACTION
+Assessing early effects of Australia's Social Media Minimum Age Act on adolescents' social media use: observational study.
+Planetary-scale heterotrophic microbial community modeling assesses metabolic synergy and viral impacts
