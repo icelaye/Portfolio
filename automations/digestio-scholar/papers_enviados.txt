@@ -1094,3 +1094,6 @@ Automated Graph Machine Learning: Approaches, Libraries and Directions
 A STUDY ON CUSTOMER SATISFACTION
 Assessing early effects of Australia's Social Media Minimum Age Act on adolescents' social media use: observational study.
 Planetary-scale heterotrophic microbial community modeling assesses metabolic synergy and viral impacts
+Predicting the Classification of Heart Failure Patients Using Optimized Machine Learning Algorithms
+Monetary policy and financial markets: evidence from Twitter traffic
+Improved Fruit Fly Algorithm for Multi-Objective Disassembly Line Balancing Problem Considering Learning Effect
