@@ -1097,3 +1097,7 @@ Planetary-scale heterotrophic microbial community modeling assesses metabolic sy
 Predicting the Classification of Heart Failure Patients Using Optimized Machine Learning Algorithms
 Monetary policy and financial markets: evidence from Twitter traffic
 Improved Fruit Fly Algorithm for Multi-Objective Disassembly Line Balancing Problem Considering Learning Effect
+Blockchain-Based Academic Certificate Verification System
+Is the Rent Too High? Land Ownership and Monopoly Power
+BEACH: Barbados and Eastern Atlantic Combined High-altitude dropsonde datasets
+The lived experiences of farming under profound landscape transformation – The case of the Sand Ridge, Hungary
