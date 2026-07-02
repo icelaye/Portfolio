@@ -1101,3 +1101,30 @@ Blockchain-Based Academic Certificate Verification System
 Is the Rent Too High? Land Ownership and Monopoly Power
 BEACH: Barbados and Eastern Atlantic Combined High-altitude dropsonde datasets
 The lived experiences of farming under profound landscape transformation – The case of the Sand Ridge, Hungary
+Sibson α-Mutual Information and Its Variational Representations
+Cooperative Content Caching in Vehicular Edge Computing Networks: A Two-Stage Deep Reinforcement Learning Approach
+CEC-FedISDG: A Cloud-Edge Collaboration Federated Invariance and Specificity Domain Generalization Method for Machine Remaining Useful Life Prediction
+Dissipativity-Based Multiport Stability Root-Cause Identification and Mitigation for Solid-State Transformers
+A systematic review of the impact of artificial intelligence in the hospitality industry
+IoT-Enabled Real-Time UAV Path Planning for Dynamic Disaster Response
+Adaptive PID-Incorporated Nonnegative Latent Factor Analysis
+Scheduling Stochastic Traffic With End-to-End Deadlines in Multi-Hop Wireless Networks
+Large Language Model-Based Gray Wolf Optimization for Near-Field ISAC Networks
+Multi-Objective Optimization of Multi-Factory Remanufacturing Process Considering Worker Fatigue
+Human-Robot Collaborative Disassembly Profit Maximization via Improved Grey Wolf Optimizer
+Intertwine: Nonlinear Quantum Feature Selection With Multikernel Circuits
+Multiknowledge Adaptive Transfer Framework and Auxiliary Value Assessment Strategy for Constrained Multiobjective Optimization
+Column Generation Algorithms forTwo-dimensional Cutting Problem With SurfaceDefects
+Excellent agreement between automated deep learning-based and manual diffusion-weighted imaging infarct volume measurements in hyperacute stroke.
+Hybrid Orchestration of AI Services and Microservices in Cloud-Edge Collaboration
+Disinformation elicits learning biases.
+Toward AI-Native 6G: Unveiling Online Optimization and Deep Reinforcement Learning for Autonomous Network Slicing
+Quantum Policy Learning for Energy Storage Arbitrage
+Thrust Generation Mechanism of a Hybrid Excitation Field Modulated Transverse Flux Linear Generator by Magnetic Field Modulation Theory
+Joint UAV 3D Deployment and Ground Device Association Optimizing for Multi-UAV-Aided MEC Heterogeneous Network
+An Efficient Edge-Cloud Collaboration System With Foundational Models for Open-Set IoT Applications
+Artificial intelligence in scholarly peer review: a scoping review of applications, risks, and governance challenges.
+UpDown: A Supercomputer Co-Designed for Scalable Graph Processing
+Toward Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models
+Multiobjective Optimization of LLC Resonant Converters for Efficiency and Power Density Based on Time Domain Analysis and Genetic Algorithm
+Model Model Pembelajaran Kooperatif
