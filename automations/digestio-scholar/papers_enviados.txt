@@ -1128,3 +1128,9 @@ UpDown: A Supercomputer Co-Designed for Scalable Graph Processing
 Toward Privacy-Preserving and Personalized Smart Homes via Tailored Small Language Models
 Multiobjective Optimization of LLC Resonant Converters for Efficiency and Power Density Based on Time Domain Analysis and Genetic Algorithm
 Model Model Pembelajaran Kooperatif
+Understanding Large Language Models
+Multi-Label Node Classification with Label Influence Propagation
+Deployment-Aware Compression of Large Language Models for Edge Intelligence: A System-Level Survey
+Deep Learning for Marine Animal Recognition: A Comparative Study of CNN Architectures and Triplet Loss Optimization
+Morphometric-based flood hazard mapping of Al-Ghamqa River Basin using AHP and GIS
+GATE: Adaptive learning with working memory by information gating in multi-lamellar hippocampal formation.
