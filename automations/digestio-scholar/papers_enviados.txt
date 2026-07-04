@@ -1134,3 +1134,7 @@ Deployment-Aware Compression of Large Language Models for Edge Intelligence: A S
 Deep Learning for Marine Animal Recognition: A Comparative Study of CNN Architectures and Triplet Loss Optimization
 Morphometric-based flood hazard mapping of Al-Ghamqa River Basin using AHP and GIS
 GATE: Adaptive learning with working memory by information gating in multi-lamellar hippocampal formation.
+Design and Analysis of a Compact CMOS SOI Power Amplifier With 29.2-dBm PSAT and 44.4% PAE for FR3 5G-Advanced/6G Beamforming Systems
+Generative psychometrics via AI-GENIE: Automatic item generation and validation with network-integrated evaluation
+A deep learning framework for efficient pathology image analysis
+A Hybrid KAN-ANN Based Model for Interpretable and Enhanced Short-Term Load Forecasting
