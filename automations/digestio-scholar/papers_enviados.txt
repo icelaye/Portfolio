@@ -1138,3 +1138,23 @@ Design and Analysis of a Compact CMOS SOI Power Amplifier With 29.2-dBm PSAT and
 Generative psychometrics via AI-GENIE: Automatic item generation and validation with network-integrated evaluation
 A deep learning framework for efficient pathology image analysis
 A Hybrid KAN-ANN Based Model for Interpretable and Enhanced Short-Term Load Forecasting
+Research Design: Qualitative, Quantitative, and Mixed Methods Approaches
+Spatio-Temporal Power Outage Risk Prediction for Interdependent Urban Electricity and Drainage Networks Under Rainstorm Disasters
+Power Source Allocation for RIS-Aided Integrating Sensing, Communication, and Power Transfer Communication Systems Based on NOMA
+The Political Geography of Cities
+VLA-Touch: Enhancing Vision-Language-Action Model With Dual-Level Tactile Feedback
+Hubungan Dukungan Keluarga Dan Kepatuhan Minum Obat Pasien Hipertensi
+Connectomic Analysis of Mitochondria in the Central Brain of Drosophila
+Robust Event-Triggered Path Following Control for a Rotor-Assisted Vehicle With Output Constraints: Theory and Experiment
+Can AI help reduce prejudice? Evaluating the effectiveness of AI-powered personalized persuasion on support for transgender rights
+Enabling Forecasting-Aided State Estimation in Active Distribution Networks via GLKAN-GRformer-D Pseudo-Measurement Modeling
+Tensorized Fine-Grained Incomplete Multiview Clustering via Intrinsic Structure Recovery
+Controlling PV Panels Tilt Orientation for Optimal Crop Shading and Power Generation in Agrivoltaics
+Hierarchical Transformer-Based Red-Light Running Prediction Model for Two-Wheelers With Multitask Learning
+Harmonic Current Suppression in Modular Multisector PM Machines via Virtual Current Reconstruction
+A Second-Order Memristor Method to Construct Memristive Neural Networks With Multi-Butterfly and Multi-Scroll Dynamics
+Toward System-Wide Satisfaction of Emission and Security Constraints for Decentralized Coordination of Carbon-Aware Virtual Power Plants in Distribution Network
+A Waterlogging Defense Strategy With Cross-Domain Data-Driven Risk Prediction for Coupled Power and Drainage Systems
+Jamming-Resilient Mirror Element Allocation Scheme for OIRS-Aided UAV-Based FSO Networks
+Cooperative HAP-UAV Optimization for IoRT Data Collection: A Green Transmission Strategy for Maximizing Energy Efficiency
+RIS-Empowered Satellite IoT: Bridging the Coverage-Efficiency Gap of Last-Mile Access and Sensing
