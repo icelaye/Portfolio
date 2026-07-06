@@ -1158,3 +1158,4 @@ A Waterlogging Defense Strategy With Cross-Domain Data-Driven Risk Prediction fo
 Jamming-Resilient Mirror Element Allocation Scheme for OIRS-Aided UAV-Based FSO Networks
 Cooperative HAP-UAV Optimization for IoRT Data Collection: A Green Transmission Strategy for Maximizing Energy Efficiency
 RIS-Empowered Satellite IoT: Bridging the Coverage-Efficiency Gap of Last-Mile Access and Sensing
+Resilient Neural-Sliding-Mode Distance Regulation in Merging Control of Heterogeneous Connected Automated Vehicles Subject to Deception Attacks
