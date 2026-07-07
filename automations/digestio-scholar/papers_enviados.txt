@@ -1159,3 +1159,8 @@ Jamming-Resilient Mirror Element Allocation Scheme for OIRS-Aided UAV-Based FSO 
 Cooperative HAP-UAV Optimization for IoRT Data Collection: A Green Transmission Strategy for Maximizing Energy Efficiency
 RIS-Empowered Satellite IoT: Bridging the Coverage-Efficiency Gap of Last-Mile Access and Sensing
 Resilient Neural-Sliding-Mode Distance Regulation in Merging Control of Heterogeneous Connected Automated Vehicles Subject to Deception Attacks
+Toward Secure Semantic Transmission in the Era of GenAI: A Diffusion-Based Framework
+Underwater Dynamic Tracking Control of AUV Based on Complex Environment Simulation and ACL-SAC Deep Reinforcement Learning
+Turbo Product Code-Aided Spatiotemporal 2-D Coded MIMO for URLLC
+International cannabis policies and their association with cannabis use, cannabis use disorder, and other psychiatric disorders.
+Verifying Structural Robustness of Deep Neural Network
