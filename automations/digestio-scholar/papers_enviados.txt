@@ -1168,3 +1168,8 @@ A systematic review of toxicity in large language models: definitions, datasets,
 Ad Headline Generation using Self-Critical Masked Language Model
 Few-Shot Class-Incremental Audio Classification Using Pseudo-Incrementally Trained Embedding Learner and Continually Updated Stochastic Classifier
 Aprendizaje Profundo
+A Model of the Data Economy
+Shariah governance standard on generative AI for Islamic financial institutions
+Inferring variant-specific effective reproduction numbers from combined case and sequencing data
+Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning
+STRUKTUR DAN ANATOMI ORGANISASI
