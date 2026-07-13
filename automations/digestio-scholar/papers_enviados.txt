@@ -1173,3 +1173,11 @@ Shariah governance standard on generative AI for Islamic financial institutions
 Inferring variant-specific effective reproduction numbers from combined case and sequencing data
 Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning
 STRUKTUR DAN ANATOMI ORGANISASI
+Algorithmic Pricing, Price Wars, and Tacit Collusion: Evidence from E-Commerce
+Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? - A Theoretical and Empirical Study
+Pemahaman Anak Terhadap Isu Child Grooming Sebagai Upaya Preventif Tindak Kejahatan Seksual
+A Whole-Body PSMA-PET/CT dataset with manually annotated tumor lesions
+Cleo: the numerical methods of a new superdroplet model including a droplet breakup algorithm (v0.52.0)
+CMIP7 data request: ocean and sea ice priorities and opportunities
+Navigating Languages in a Time of War: First-Generation Immigrants from Ukraine in Canada
+Pajak Penghasilan di Indonesia : Peraturan dan Perhitungan
