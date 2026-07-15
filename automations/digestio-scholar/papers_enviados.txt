@@ -1186,3 +1186,6 @@ Maintenance strategy, structural design, and site layout of the ST-E1 fusion pow
 Aberrant recovery of timescale-aligned amplitude balance links to symptoms and cognition in schizophrenia.
 Performance and Biases of the LENA and ACLEW Algorithms in Analyzing Language Environments in Down, Fragile X, Angelman Syndromes, and Populations at Elevated Likelihood for Autism
 Positive psychology 4.0: a science of consequence for a world that can no longer wait
+Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization
+Reference-Based Face Super-Resolution Using the Spatial Transformer
+DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks
