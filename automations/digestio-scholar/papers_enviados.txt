@@ -1189,3 +1189,6 @@ Positive psychology 4.0: a science of consequence for a world that can no longer
 Towards Efficient Large Language Model Serving: A Survey on System-Aware KV Cache Optimization
 Reference-Based Face Super-Resolution Using the Spatial Transformer
 DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks
+Ultra-High Capacity Transmission in Anti-Resonant Hollow Core Fiber
+Epidemic Forecasting on Networks: Bridging Local Samples with Global Outcomes
+Decentralized Traffic Right-of-Way Negotiation: A Blockchain-Sequenced Consensus Framework for Internet of Vehicles
