@@ -1205,3 +1205,10 @@ Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement L
 JCM v1.1: a differentiable, intermediate-complexity atmospheric model
 Auto-Judge: A Cross-Task Benchmark for Comparing LLM Judges for Citation-Grounded RAG Systems
 Too Many Questions: Deriving Concise and Effective Nugget Banks
+Natural Backdoor Attacks on Speech Recognition Models
+HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation
+Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation
+The Dark Side of Liquid Bonds in Fire Sales
+The expanding role of biomarkers in the management of IgA nephropathy.
+The Impact of Classroom Technology on Student Behavior: A Case of Undergraduate Business Students of Pokhara University in Kathmandu
+How Do Monetary And Fiscal Determinants Affect Inflation? Evidence From Panel Data Analysis
