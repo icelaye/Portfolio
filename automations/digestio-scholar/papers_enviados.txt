@@ -1216,3 +1216,4 @@ New Complexity-Theoretic Frontiers of Tractability for Neural Network Training
 Cervical cancer screening coverage and associated factors among women aged 25–59 in Eswatini: Insights from the 2021 Population-Based HIV Impact Assessment (PHIA)
 The expanding role of biomarkers in the management of IgA nephropathy
 Automatic methane plume masking based on wavelet transform image processing: application to MethaneAIR and MethaneSAT data
+Digital field representations as a holistic approach to experiential learning in High Arctic geoscience field education
