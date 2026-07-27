@@ -1217,3 +1217,6 @@ Cervical cancer screening coverage and associated factors among women aged 25–
 The expanding role of biomarkers in the management of IgA nephropathy
 Automatic methane plume masking based on wavelet transform image processing: application to MethaneAIR and MethaneSAT data
 Digital field representations as a holistic approach to experiential learning in High Arctic geoscience field education
+Correcting measurement error bias in conjoint survey experiments
+The UWO dataset – long-term observations from a full-scale field laboratory to better understand urban hydrology at small spatio-temporal scales
+HiC2Self: Self-supervised denoising for bulk and single-cell Hi-C contact maps
