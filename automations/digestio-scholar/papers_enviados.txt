@@ -1220,3 +1220,8 @@ Digital field representations as a holistic approach to experiential learning in
 Correcting measurement error bias in conjoint survey experiments
 The UWO dataset – long-term observations from a full-scale field laboratory to better understand urban hydrology at small spatio-temporal scales
 HiC2Self: Self-supervised denoising for bulk and single-cell Hi-C contact maps
+Integrating Established APA Resources With AI Proficiency Will Empower the Psychology Major
+Unraveling the Impact: An Empirical Investigation of ChatGPT’s Exclusion from Stack Overflow
+Universal Model and Control Framework for Bearingless Motors with Combined Windings
+Preparing the maritime workforce for the twin transition: skill priorities and educational needs
+RALS: Resources and Baselines for Romanian Automatic Lexical Simplification
