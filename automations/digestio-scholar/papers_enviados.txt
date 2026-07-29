@@ -1225,3 +1225,5 @@ Unraveling the Impact: An Empirical Investigation of ChatGPT’s Exclusion from 
 Universal Model and Control Framework for Bearingless Motors with Combined Windings
 Preparing the maritime workforce for the twin transition: skill priorities and educational needs
 RALS: Resources and Baselines for Romanian Automatic Lexical Simplification
+Efficient Automatic Modulation Classification for Next-Generation Wireless Networks
+HAPS-Enabled Downlink Coverage Enhancement in Islands and Maritime Areas
