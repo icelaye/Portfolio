@@ -1228,3 +1228,4 @@ RALS: Resources and Baselines for Romanian Automatic Lexical Simplification
 Efficient Automatic Modulation Classification for Next-Generation Wireless Networks
 HAPS-Enabled Downlink Coverage Enhancement in Islands and Maritime Areas
 If Edge Coloring is Hard under SETH, then SETH is False
+Capital Services in Global Value Chains
