@@ -1233,3 +1233,17 @@ Graph Neural Networks for Financial Fraud Detection
 More than a second chance: Realist, qualitative insights on the outcomes of police drug diversion in England
 EARLS: a runoff reconstruction dataset for Europe
 Doubly Adaptive Cascading Bandits with User Abandonment
+The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters and Loan Pricing
+LLM-Assisted Automatic Memetic Algorithm for Lot-Streaming Hybrid Job Shop Scheduling With Variable Sublots
+GaN Bidirectional Switches: Device Technology, Applications, and Future Prospects
+A Novel Transformer-Less Dynamic Voltage Restorer Based on Modified ANPC for Low-Voltage Distribution Network
+A Survey of Large Language Models for Traffic Forecasting: Methods and Applications
+A Learning Algorithm Based on Similarity Identification and Knowledge Transfer for Dynamic Multiobjective Optimization
+Causal Discovery with Inverted Self-attention for Multivariate Time Series
+MATA: A Memory-Efficient Attention Accelerator for LLMs Exploiting Look-Back KV Cache Pruning
+Quantifying and Certifying Unlearning for Large Language Models Without Full Retraining
+Attribute Reduction for Heterogeneous Data by Hybrid Neighborhood Graph Structure and Neighbor Inconsistent Pair Selection
+The Network of Dysfunctional Beliefs About Sleep: A Structural Re-Analysis of the DBAS-16.
+Effect of the silvicultural treatment on canopy properties, litter and seed production in beech coppices under conversion to high forest.
+Understanding contemporary digital childhoods in Australia: A bounded scoping review of transdisciplinary research of the ARC Centre of Excellence for the Digital Child
+Dynamic Exploration Graph: A Novel Approach for Efficient Nearest Neighbor Search in Evolving Multimedia Datasets
