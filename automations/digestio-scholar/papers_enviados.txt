@@ -1247,3 +1247,22 @@ The Network of Dysfunctional Beliefs About Sleep: A Structural Re-Analysis of th
 Effect of the silvicultural treatment on canopy properties, litter and seed production in beech coppices under conversion to high forest.
 Understanding contemporary digital childhoods in Australia: A bounded scoping review of transdisciplinary research of the ARC Centre of Excellence for the Digital Child
 Dynamic Exploration Graph: A Novel Approach for Efficient Nearest Neighbor Search in Evolving Multimedia Datasets
+Optimization and Evaluation of Container-Based EtherCAT Communication in Virtual PLCs
+State of Health Estimation and Degradation Quantification of PEMFCs Using a Dynamic Coupling Method of Data-Driven and Electrochemical Impedance
+The Welfare Effects of Eligibility Expansions: Theory and Evidence from SNAP
+MultiX: Advancing 6G-RAN Through Multi-Technology, Multi-Sensor Fusion, Multi-Band and Multi-Static Perception
+Basic mycology
+A 4.21-kW Ultrathin 1.2-mm Stackable Capacitive Coupler for High-Efficiency MHz Capacitive Power Transfer
+Bridging the Question–Answer Gap in Retrieval-Augmented Generation: Hypothetical Prompt Embeddings
+Domain-Division Based Progressive Learning for Source-Free Domain Adaptation
+Do Employees Have Useful Information About Firms’ ESG Practices?
+Spatiotemporal diagnosis towards mismatch between traffic crash risks and safety governance in rapidly urbanizing cities.
+Energy-Aware Service Mesh Deployment and Online Request Routing in Edge: A Hierarchical Deep Reinforcement Learning Approach
+Inverse Reinforcement Learning via a Modified Kleinman Iteration Approach
+From prediction to prevention: safety modeling of driver takeover time with mental workload, risk perception, and driving style in ramp scenarios.
+The Candida Genome Database
+A SOH Estimation Method for Lithium-Ion Battery Based on Partial Charging Data Reconstruction With Physical Information Constraints
+Collusion by Exclusion in Public Procurement
+Altered Carbon
+Status and changes in key meteorological variables at the CONECOFOR plots, 1996 - 2005
+Natural Disasters and Acceptance of Intimate Partner Violence: The Global Evidence
