@@ -1266,3 +1266,16 @@ Collusion by Exclusion in Public Procurement
 Altered Carbon
 Status and changes in key meteorological variables at the CONECOFOR plots, 1996 - 2005
 Natural Disasters and Acceptance of Intimate Partner Violence: The Global Evidence
+Stacked Intelligent Metasurface for Satellite Communication Networks: Architectures, Key Technologies, and Challenges
+Spike-Driven Lightweight Large Language Model With Evolutionary Computation
+Multiport Arm Shared DC–DC Converter With Decoupling Control for Multivoltage DC Grid
+Cross-Domain Collaborative Stacked Intelligent Metasurface for 6G Wireless Communications
+A 350-pW Implantable Ventricular Arrhythmia Detection Engine With Bayesian Uncertainty Quantification in 65-nm CMOS
+Adaptive Cooperative Intra–Inter Domain Adversarial Network With Stage Division for RUL Prediction of Ship Electric Propulsion System
+ES-GP: An Ensemble Surrogate-Assisted Genetic Programming Approach to Image Classification
+DWSen: Dual–Path Wavelet–Attention KAN for Joint Activity and Indoor Location Sensing
+SIM-Empowered LAINs: A Unified Channel Model-Driven Optimization Framework
+Adaptive Global Secure Control for Nonlinear Cyber–Physical Systems Under Deception Attacks
+BISen: A Robust Framework for Efficient CNN Inference on Battery-Free Intelligent Sensory Nodes
+Event-Triggered Sliding-Mode Control for Switched Systems With Reachability-Guaranteed
+Lightweight Neural Networks for Affordance Segmentation: Enhancement of the Decoder Module
