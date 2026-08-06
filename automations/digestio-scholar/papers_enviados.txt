@@ -1279,3 +1279,9 @@ Adaptive Global Secure Control for Nonlinear Cyber–Physical Systems Under Dece
 BISen: A Robust Framework for Efficient CNN Inference on Battery-Free Intelligent Sensory Nodes
 Event-Triggered Sliding-Mode Control for Switched Systems With Reachability-Guaranteed
 Lightweight Neural Networks for Affordance Segmentation: Enhancement of the Decoder Module
+Hipotesis dan Variabel Penelitian
+Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction
+Pengaruh Fitur Live Streaming dan Content Marketing terhadap Keputusan Pembelian Konsumen pada Tiktok Shop
+EEG-AI: An agentic system for AI-assisted semi-automated EEG preprocessing and artifact removal.
+The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery
+Were there significant changes in the overall condition of the CONECOFOR plots over the 1995 -2005 period?
