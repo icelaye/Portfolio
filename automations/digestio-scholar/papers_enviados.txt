@@ -1285,3 +1285,10 @@ Pengaruh Fitur Live Streaming dan Content Marketing terhadap Keputusan Pembelian
 EEG-AI: An agentic system for AI-assisted semi-automated EEG preprocessing and artifact removal.
 The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery
 Were there significant changes in the overall condition of the CONECOFOR plots over the 1995 -2005 period?
+IMMENSE: Inductive Multi-perspective User Classification in Social Networks
+Dynamic Multi-Objective Optimization Based on Integrated Incremental Long Short-Term Memory and Inverse Model Prediction Strategy
+A Survey on Interaction-Aware Decision-Making for Autonomous Driving: Challenges, Solutions, and Perspectives
+Prompt-Based Jailbreaking of Leading LLM Chatbots: A Survey of Attacks and Defenses
+Human-Centered Explainable Multimodal AI for Personalized Healthcare Diagnosis in Aging Populations
+VLLM-LAD: Visual Large Language Model for Zero-Shot Logical Anomaly Detection
+Securing Intelligent Transportation Systems: A Dual-Framework Approach for Privacy Protection and Cybersecurity Using Generative AI
