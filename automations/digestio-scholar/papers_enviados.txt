@@ -1292,3 +1292,12 @@ Prompt-Based Jailbreaking of Leading LLM Chatbots: A Survey of Attacks and Defen
 Human-Centered Explainable Multimodal AI for Personalized Healthcare Diagnosis in Aging Populations
 VLLM-LAD: Visual Large Language Model for Zero-Shot Logical Anomaly Detection
 Securing Intelligent Transportation Systems: A Dual-Framework Approach for Privacy Protection and Cybersecurity Using Generative AI
+The limits of reputation in platform markets: An empirical analysis and field experiment
+GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation
+Advancing PET through direct imaging of three-photon decay using pure positron emitters
+A Comprehensive Review Tracing the Evolution of Volumetric Medical Imaging Analysis from Classic CNNs to Emerging AI-Agents
+Promoting learner autonomy on a university course of English for academic purposes
+Robots in mine search and rescue operations: a review of platforms and design requirements
+EBTAG: explainable brain tumor segmentation with EfficientNetV2, attention mechanism, and Grad-CAM in clinical and public datasets
+An expanded codebook of human transcription factor DNA-binding specificity.
+Messenger-based chat counseling for young people in times of personal and global crises: evaluating the long-term feasibility of “krisenchat”
