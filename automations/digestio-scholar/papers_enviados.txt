@@ -1301,3 +1301,9 @@ Robots in mine search and rescue operations: a review of platforms and design re
 EBTAG: explainable brain tumor segmentation with EfficientNetV2, attention mechanism, and Grad-CAM in clinical and public datasets
 An expanded codebook of human transcription factor DNA-binding specificity.
 Messenger-based chat counseling for young people in times of personal and global crises: evaluating the long-term feasibility of “krisenchat”
+TOP 2025: An update to the Transparency and Openness Promotion Guidelines
+The Hitchhiker's Guide to Autonomous Research: A Survey of Scientific Agents.
+Challenges in triple negative breast cancer treatment and therapeutic potential of the mitogen activated protein kinase pathway.
+SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks
+Dossiê Temático
+Application of SHAP-based explainable machine learning in remaining useful life prediction for aircraft engine systems
