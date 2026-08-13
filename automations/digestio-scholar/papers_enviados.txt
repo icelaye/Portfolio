@@ -1307,3 +1307,5 @@ Challenges in triple negative breast cancer treatment and therapeutic potential 
 SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks
 Dossiê Temático
 Application of SHAP-based explainable machine learning in remaining useful life prediction for aircraft engine systems
+Recipes for Agents: Understanding Skills and Their Open Questions
+Teaming up with Large R&D Investors: Good or Bad for Knowledge Production and Diffusion?
