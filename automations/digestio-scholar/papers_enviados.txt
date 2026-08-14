@@ -1309,3 +1309,11 @@ Dossiê Temático
 Application of SHAP-based explainable machine learning in remaining useful life prediction for aircraft engine systems
 Recipes for Agents: Understanding Skills and Their Open Questions
 Teaming up with Large R&D Investors: Good or Bad for Knowledge Production and Diffusion?
+Enhancing Visual Domain Robustness in Behaviour Cloning via Saliency-Guided Augmentation
+Spatial intelligence in vision-language models: a comprehensive survey
+Learning to Simulate from Heavy-Tailed Distribution via Diffusion Model
+Pemanfaatan Media Sosial sebagai Media Pembelajaran Pendidikan Agama Islam Berbasis Literasi Digital
+Distractor-Aware Video Object Segmentation
+Advances and limits of species-level canopy mapping in a hyperdiverse tropical forest: multi-temporal crown segmentation and airborne imaging spectroscopy
+Variational quantum Kolmogorov–Arnold network
+STRATEGI KOMUNIKASI PEMASARAN DALAM MENINGKATKAN BRAND AWARENESS PADA FORTHIS HOUSE
