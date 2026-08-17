@@ -1319,3 +1319,9 @@ Variational quantum Kolmogorov–Arnold network
 STRATEGI KOMUNIKASI PEMASARAN DALAM MENINGKATKAN BRAND AWARENESS PADA FORTHIS HOUSE
 OpenMesh: wireless signal dataset for opportunistic urban weather sensing in New York City
 Online Rack Placement in Large-Scale Data Centers: Online Sampling Optimization and Deployment
+Online Learning of Correspondences between Images
+Catalogue of strong nonlinear surprises in ocean, sea-ice, and atmospheric variables in CMIP6
+Unveiling the Secret of AdaLN-Zero in Diffusion Transformer.
+BGA: A noise-immune neural distillation framework for malicious signature extraction in high-entropy encrypted flows
+The Impact of Technology Policies on Education and Workforce Development in Nigeria
+Simulation-based inference of epidemiological and phylodynamic models via Neural Posterior Estimation
