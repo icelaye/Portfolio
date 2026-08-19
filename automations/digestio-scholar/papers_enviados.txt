@@ -1325,3 +1325,10 @@ Unveiling the Secret of AdaLN-Zero in Diffusion Transformer.
 BGA: A noise-immune neural distillation framework for malicious signature extraction in high-entropy encrypted flows
 The Impact of Technology Policies on Education and Workforce Development in Nigeria
 Simulation-based inference of epidemiological and phylodynamic models via Neural Posterior Estimation
+Rapid Evaluation Framework for the CMIP7 Assessment Fast Track
+The Roman Coronagraph Community Participation Program: trials and triumphs of designing an observing program for a technology demonstration instrument
+Attribution of the record breaking 2025 European fire season to climate change
+A Survey of Distributed Asynchronous Many-Task Models and Their Applications
+Predictive Processing in Sport and Exercise Science: A Scoping Review and Theoretical Overview
+High-Speed, Reliable, Self-Adaptive Calibration for Dual MZI-Based Silicon Photonics Switch Applications
+The Psychology of Persuasion: Effect of Influencer Marketing on Consumer Purchase Behaviour for Beverage Products in Anambra State of Nigeria
