@@ -1333,3 +1333,5 @@ Predictive Processing in Sport and Exercise Science: A Scoping Review and Theore
 High-Speed, Reliable, Self-Adaptive Calibration for Dual MZI-Based Silicon Photonics Switch Applications
 The Psychology of Persuasion: Effect of Influencer Marketing on Consumer Purchase Behaviour for Beverage Products in Anambra State of Nigeria
 Ediacaran coupling of climate and biosphere dynamics
+Towards General Embodied Intelligence: Integrating Large Language Models, Knowledge Bases, and Reasoning Capabilities to Build the Next Generation of AI Agents
+The Hybrid Artisan: Integrating AI-Powered Design Tools with Traditional Craftsmanship for Sustainable Creative Entrepreneurship
