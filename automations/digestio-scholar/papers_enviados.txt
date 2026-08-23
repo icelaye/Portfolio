@@ -1335,3 +1335,7 @@ The Psychology of Persuasion: Effect of Influencer Marketing on Consumer Purchas
 Ediacaran coupling of climate and biosphere dynamics
 Towards General Embodied Intelligence: Integrating Large Language Models, Knowledge Bases, and Reasoning Capabilities to Build the Next Generation of AI Agents
 The Hybrid Artisan: Integrating AI-Powered Design Tools with Traditional Craftsmanship for Sustainable Creative Entrepreneurship
+Public Expenditure and Economic Growth in Nigeria
+Carbon Emissions and the Bank-Lending Channel
+The problem with normalizing preferences that change in a cost-of-living index
+Explaining forgetting at different timescales requires a time-variant forgetting function
