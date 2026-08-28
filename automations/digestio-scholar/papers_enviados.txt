@@ -1342,3 +1342,5 @@ Explaining forgetting at different timescales requires a time-variant forgetting
 Evolution of humanoid locomotion control.
 Learning in the age of AI
 An Improved Whale Optimization Algorithm
+Cavity solitons
+Systematic Literature Review of Machine Learning Models and Applications for Text Recognition
