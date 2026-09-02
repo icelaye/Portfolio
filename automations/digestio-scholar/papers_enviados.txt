@@ -1351,3 +1351,26 @@ Post launch spectral and radiometric performances of MAJIS, the VIS-NIR imaging 
 Towards an active inference account of deep meditative deconstruction
 Organisational Gender Pay Gaps in the UK: What Happened Post-Transparency?
 ANTI-CORRUPTION POLICIES AND DEMOCRATIC GOVERNANCE IN NIGERIA: AN EVALUATION OF THE INDEPENDENT CORRUPT PRACTICES AND OTHER RELATED OFFENCES COMMISSION (ICPC)
+Machine learning-empowered smartphone platforms for sustainable point-of-care bacterial detection.
+Open-Circuit Fault Diagnosis for Power Converters Under Variable Operational Conditions: From a Source-Free Domain Adaptation Perspective
+Angels, entrepreneurship, and employment dynamics: Evidence from investor accreditation rules
+Sharding-Based Asynchronous Coordination for Secure and Scalable Peer-to-Peer Energy Trading Under Delays and Attacks
+Quantum Multiview Feature Selection With Configurable Kernel Circuits and Adaptive Fusion
+Power Management and Control for Flexible Traction Substation in Railway Hub Integrated With ESS, PV, and EV
+Zero-Shot Open Circuit Fault Diagnosis of Converter Based on Prior-Knowledge Injected Dual Bayesian Network With Attention Mechanism
+Capital Reallocation Under Climate Policy Uncertainty
+Cross-Domain Standardization and Secure Edge Intelligence for Real-Time Digital Twin Deployments in Next-Generation Communication Systems
+Data-Driven Cooperative Output Regulation via Output Feedback Control
+Unified Namespace: A New Paradigm for Industrial IoT Data Integration
+Rationing by Race
+LLM-Enhanced Offline Meta-Reinforcement Learning for Multi-Task V2G Regulation: A Human-AI Collaborative Framework
+An Online Convolutional Neural Network Based Method for Open-Circuit Fault Diagnosis in Three-Phase Inverters Under Extremely Unbalanced Loading Condition
+Hussain: Trust-Driven Blockchain-Enabled Deep Learning Architecture for Secure and Scalable IIoT Networks: Implications for Industrial Adoption and Market Differentiation
+TransMap: Transformer-Enhanced Divide-and-Conquer Reinforcement Learning Framework for Efficient CGRA Compilation
+Physically Informed Driving Style Recognition for Intelligent Vehicle Assistance
+From Radio Waves to Wellness: Radar and Machine Learning for Noncontact Dehydration Assessment
+An Arbitrary Register Grouping Scheme for RISC-V Vector Extension: Compilation Support and Hardware Implementation
+"Marine Rule": discovery of marine natural small molecule drug leads in China in the past decade.
+HIP-DFPT: Scalable Optimization of Irregular Workloads in Quantum Perturbation on GPU Clusters
+Energy Efficiency Improvement Methods for Edge AI IIoT Networks: An Overview
+Pre-stimulus pupil-linked arousal enhances initial stimulus availability and accelerates decay in iconic memory
