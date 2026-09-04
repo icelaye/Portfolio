@@ -1374,3 +1374,22 @@ An Arbitrary Register Grouping Scheme for RISC-V Vector Extension: Compilation S
 HIP-DFPT: Scalable Optimization of Irregular Workloads in Quantum Perturbation on GPU Clusters
 Energy Efficiency Improvement Methods for Edge AI IIoT Networks: An Overview
 Pre-stimulus pupil-linked arousal enhances initial stimulus availability and accelerates decay in iconic memory
+A Call for Action: The “Leiden Declaration on Artificial Intelligence and Mathematics”
+Toward Smart 5G and 6G: Standardization of AI-Native Network Architectures and Semantic Communication Protocols
+Toward Standardized Energy-Aware Adaptive Routing Protocols for Ultra-Dense 6G Networks With Integrated Satellite-Terrestrial Architectures
+AoI Minimization in Heterogeneous MEC Networks: A Federated Learning-Assisted Hybrid DRL and Convex Approach
+Signal Compression for Wireless Communication and Sensing: A General Approach Utilizing Pretrained Wireless Foundation Models
+sRGB Real Noise Modeling via Noise-Aware Sampling with Normalizing Flows
+Quantum-Resilient Federated Learning for Real-Time Digital Twin Synchronization in Smart City 6G Networks
+Toward 6G Edge Intelligence: Lightweight LLMs for Intent-Driven Network Automation
+Artificial human stem cell niche created in cartilage-inspired hydrogel for enhanced articular cartilage regeneration.
+DQN-Enabled Joint Pinching Antenna Array Partitioning and Beamforming for Secure ISAC Systems
+High-performance lignin-based hydrogel strain sensors for human motion monitoring.
+Dynamically reconfigurable conductive hydrogels based on the spatial confinement and backbone reinforcement of bacterial cellulose: Signal recognition and human-computer interaction.
+Digital Twin-Enhanced Reinforcement Learning for Intelligent xApps Management in O-RAN Systems
+Machine learning-guided design of cellulose-based hydrogels for predictive swelling and impact resistance.
+Assessment of Survivability and Importance Analysis for Networks Managing Intricate Traffic Flows
+Nodal Frequency Nadir Chance-Constrained Economic Dispatch Considering Contingency Frequency Service From Hydrogen Electrolysis
+Evaluation of Pandora HCHO and NO
+ 2
+ with airborne in situ observations
