@@ -1399,3 +1399,5 @@ Uniformly perfect measures on strictly convex planar graphs are L2-flattening
 PSense: Paper Material Sensing With MIMO mmWave Radar via Dual-Model Transfer Learning
 Strategic Framework for Driving Business Growth and Revenue Optimization in Multinational Aviation Corporations
 An Active-Soft-Switching DC Transformer With Auxiliary Converter for DC Offshore Wind Turbine
+Ensemble clustering: A practical tutorial
+Modelling wind farm effects in HARMONIE-AROME (cycle 43.2.2) – Part 2: wind turbine database and application to Europe
