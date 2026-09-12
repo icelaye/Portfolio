@@ -1401,3 +1401,6 @@ Strategic Framework for Driving Business Growth and Revenue Optimization in Mult
 An Active-Soft-Switching DC Transformer With Auxiliary Converter for DC Offshore Wind Turbine
 Ensemble clustering: A practical tutorial
 Modelling wind farm effects in HARMONIE-AROME (cycle 43.2.2) – Part 2: wind turbine database and application to Europe
+Leading the learning organization
+Continuous and Monotone Bayesian Nash Equilibrium with Incomplete Information about Player’s Risk Preferences
+Awareness of being: a computational neurophenomenological model of mindfulness, mind-wandering, and meta-attentional control
