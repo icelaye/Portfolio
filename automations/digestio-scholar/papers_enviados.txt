@@ -1457,3 +1457,10 @@ Robust Semi-Supervised Regression for Vehicle Interior Noise Prediction
 Mechanisms and Dynamics of Parent–School Collaboration in Cultivating Qur'anic Morals: A Case Study at TAUD SaQu Zidna Ilma
 Detecting irrigation signals from SMAP L3 and L4 soil moisture: A case study in California’s Central Valley
 Digital Ethics Based on Islamic Education and Thought: An Approach to Technological Innovation in the Development of Digital Society
+Advancing Occupational Safety with AI-Powered Monitoring Systems: A Conceptual Framework for Hazard Detection and Exposure Control
+Developing an AI-Powered Occupational Health Surveillance System for Real-Time Detection and Management of Workplace Health Hazards
+Analyzing How Rigorous Financial Analysis Informs Strategic Decisions and Contributes to Corporate Growth: A Comparative Ratio Analysis of Four Indian IT Services Companies (TCS, Infosys, Wipro and HCLTech), FY2023–FY2026
+The Governance of AI in Education: Developing Ethical Policy Frameworks for Adaptive Learning Technologies
+Dampak fenomena fear of missing out (FOMO) terhadap perilaku konsumtif mahasiswa UIN Syarif Hidayatullah Jakarta
+Challenges of ICT Usage among Academic Staff in University of Uyo, Nigeria
+Time Series Modelling and Forecasting of Temperature and Rainfall in Nigeria Using ARIMA Models
