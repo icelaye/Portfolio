@@ -1464,3 +1464,30 @@ The Governance of AI in Education: Developing Ethical Policy Frameworks for Adap
 Dampak fenomena fear of missing out (FOMO) terhadap perilaku konsumtif mahasiswa UIN Syarif Hidayatullah Jakarta
 Challenges of ICT Usage among Academic Staff in University of Uyo, Nigeria
 Time Series Modelling and Forecasting of Temperature and Rainfall in Nigeria Using ARIMA Models
+Leading indicators
+THE IMPACT OF SOCIAL MEDIA ON STUDENTS' ACADEMIC PERFORMANCE
+The Long-Term Effects of Cash Assistance
+Price Setting and Volatility: Evidence from Oil Price Volatility Shocks
+The Real Channel for Nominal Bond‐Stock Puzzles
+Book Value Risk Management of Banks: Limited Hedging, HTM Accounting, and Rising Interest Rates
+Modifiable determinants of adolescents’ physical activity and sedentary behaviour in school, home and mixed settings: A DE-PASS systematic review and meta-analysis of self-reported data with a holistic analysis
+A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs
+A Self-Adaptive Physics-Informed Gated Recurrent Unit Neural Networks Model for Estimating the Lifetime of Li-Ion Batteries
+A Survey on End-to-End Autonomous Driving Training From the Perspectives of Data, Strategy, and Platform
+FedRA: A Fully Decentralized Federated Learning Framework for Robust Intelligence Sharing across O-RAN dApps
+A 28nm Spiking Vision Transformer Accelerator With Dual-Path Sparse Compute Core and EMA-Free Self-Attention Engine for Embodied Intelligence
+UAV-Aided 3D Spectrum Mapping Framework: Architecture, Technique, and Opportunity
+The Impact of Social Media Algorithms on Religious Belief Formation and Community Engagement
+A Comprehensive Study of Graph Neural Networks: Types and Application
+Scheduling for Hybrid Microgrids With Renewable Energy Sources and Hydrogen Storage: Data-Correlated Uncertainty Modeling and Semi-Convex Relaxation
+Routing and Scheduling of Mobile Energy Storage Systems for Distribution Network Resilience Enhancement Based on a Hybrid Data-Model Driven Approach
+All Roads Lead to Rome: Global Air Connectivity and Bilateral Trade
+Meta-Learning-Enhanced Task Assignment and Resource Scheduling for UAV-Assisted WSNs in 6G-Enabled ITS
+Low-Carbon Scheduling for Power-Hydrogen Integrated Energy System Using Large Language Model Enhanced Deep Reinforcement Learning
+DAIMON: Designing AI-Augmented Research Dashboards to Enable Novel Human-AI Collaborative Workflows in Longitudinal Sensing Studies
+Reviewing the Role of Artificial Intelligence in Personalized Learning and Education
+Unlocking the Power of Modern Technology: Influence of Disruptive Innovation on Sustainability of GSM Communications Industry in Nigeria
+Overview
+of the Monitoring Program in the Alaska North
+Slope Extended-Duration Gas Production Test from Gas Hydrate
+AI in Supply Chain Analytics: Adaptive Decisioning via Fuzzy Behavioral Models
