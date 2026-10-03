@@ -1491,3 +1491,17 @@ Overview
 of the Monitoring Program in the Alaska North
 Slope Extended-Duration Gas Production Test from Gas Hydrate
 AI in Supply Chain Analytics: Adaptive Decisioning via Fuzzy Behavioral Models
+Not all solutions are created equal: An analytical dissociation of functional and representational similarity in deep linear neural networks
+Evolutionary Hypergraph Learning: A Multiobjective Influence Maximization Approach Considering Seed Selection Costs
+Scalable distributed agreement from LWE: Byzantine agreement, broadcast, and leader election
+Toward the Internet of Agentic AI: Protocols, Architecture, and Challenges
+Emergence of Cooperation in Spatial Public Goods Games via Grey Wolf Optimization and a Reputation Mechanism
+Parametric Pareto Set Learning: Amortizing Multiobjective Optimization With Parameters
+Integrated Energy-Efficient Scheduling of Distributed Flow Shop and Distribution Using a Q-Learning-Based Multi-Objective Cooperation Evolutionary Algorithm
+A Deep Reinforcement Learning Framework Assisted by Genetic Programming for Dynamic Flexible Job Shop Scheduling
+A CVaR-Constrained Safe Reinforcement Learning Framework With Action Repair for Practical Portfolio Optimization
+Transfer Learning for Cross-Domain Sentiment Classification via Domain Adaptation
+A Distributed Two-Stage Framework for the Co-Scheduling of Power, Heat and Hydrogen Networks With Heterogeneous Frequency Supports
+CORE-HPE Reporting Guidelines: Standardizing Reporting for Competency-Based Health Professions Education Outcomes Research.
+Limited evidence for reduced learning rate adaptation in anxious-depression, before or after treatment
+Managing Education in Nigeria and The Emerging Technologies in the 21st Century Classroom
