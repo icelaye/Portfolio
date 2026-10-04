@@ -1505,3 +1505,21 @@ A Distributed Two-Stage Framework for the Co-Scheduling of Power, Heat and Hydro
 CORE-HPE Reporting Guidelines: Standardizing Reporting for Competency-Based Health Professions Education Outcomes Research.
 Limited evidence for reduced learning rate adaptation in anxious-depression, before or after treatment
 Managing Education in Nigeria and The Emerging Technologies in the 21st Century Classroom
+Enhanced Evolution of Parallel Algorithm Portfolio for Vehicle Routing Problem via Transfer Optimization
+AI governance in African higher education: Status, challenges, and a future-proof policy framework
+GEMS: GAT-Embedded Mobility for Dual Connectivity in Integrated Terrestrial and Non-Terrestrial Networks
+A Generative Adversarial Network Based Prediction Strategy for Evolutionary Dynamic Multiobjective Optimization
+Toward Sustainable 6G: A Holistic View of Trade-Offs and Enablers
+Multiphysical
+Responses of a Gas Hydrate Reservoir
+to Extended-Duration Gas Production on the Alaska North Slope
+A Size-Imbalanced Dual Population With Complementary Search for Sparse Large-Scale Multimodal Multiobjective Optimization
+Efficient Evolutionary Neural Architecture Search With Hierarchical Parameter Mapping for Monocular Depth Estimation
+A New High-Ratio-Transformer-Based Soft Open Point With Mixed-Frequency Modulation Method
+Overview of BioASQ 2026: The fourteenth BioASQ Challenge on Large-Scale Biomedical Semantic Indexing and Question Answering
+Production of Secondary Microbial Methane from a Gas
+Hydrate-Bearing Reservoir at the HYDRATE P1 Production Test Well (PTW-1)
+on the Alaskan North Slope
+Working memory and vocabulary knowledge sustain activation of the literal meaning of metaphors during sentence comprehension.
+Systems Thinking: Identifying Leverage Points for Achieving a Continuum of Competency-Based Health Professions Education
+Validity in the Era of Competency-Based Health Professions Education: Tensions and Potential Solutions
