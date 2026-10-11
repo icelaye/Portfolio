@@ -1547,3 +1547,4 @@ The ECOSENSE forest: a distributed sensor and data management system for real-ti
 Dietary patterns, nutritional profile, and body mass index in Mexican schoolchildren: A cross-sectional study
 PENGARUH PERMAINAN KECIL TERHADAP MOTIVASI BELAJAR SISWA DALAM PEMBELAJARAN PENDIDIKAN JASMANI OLAHRAGA DAN KESEHATAN
 Realizing a Model Context Protocol (MCP) Server for the Graphical Language Server Platform (GLSP)
+Validation and analysis of 12,000 AI-driven CAR-T designs in the Bits to Binders competition.
