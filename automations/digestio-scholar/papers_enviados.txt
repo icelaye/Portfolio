@@ -1548,3 +1548,8 @@ Dietary patterns, nutritional profile, and body mass index in Mexican schoolchil
 PENGARUH PERMAINAN KECIL TERHADAP MOTIVASI BELAJAR SISWA DALAM PEMBELAJARAN PENDIDIKAN JASMANI OLAHRAGA DAN KESEHATAN
 Realizing a Model Context Protocol (MCP) Server for the Graphical Language Server Platform (GLSP)
 Validation and analysis of 12,000 AI-driven CAR-T designs in the Bits to Binders competition.
+Stable Transfer Geometry of the Substituted Chrysene Network: H-Infinity Transformation Metrics, Dissipative Well-Posedness, and Survival Under Persistent Disturbance
+Role of Technology Integration in Educational Settings for Students with Hearing Impairment
+Conformity Between Values and EU Legal Requirements Regarding an AI Clinical Decision Support System (AI-CDSS) for Improved Cardiovascular Risk Management (DECIDE).
+LLM
+ Hallucination of Citations in Economics Persists With Web‐Enabled Models
