@@ -1553,3 +1553,13 @@ Role of Technology Integration in Educational Settings for Students with Hearing
 Conformity Between Values and EU Legal Requirements Regarding an AI Clinical Decision Support System (AI-CDSS) for Improved Cardiovascular Risk Management (DECIDE).
 LLM
  Hallucination of Citations in Economics Persists With Web‐Enabled Models
+Impact of Government Expenditure on Economic Growth in Nigeria
+Applying Lifestyle Medicine to Improve Health Outcomes in People With Intellectual and Developmental Disabilities
+Why Three and Why Twenty: The Capacity of a Chrysene Cluster, the Base-Four Intermediary, and the Production Operator Δ
+Biosecurity for the Age of AI
+Collaborative Neural Networks Significantly Improve Global Aerosol Retrievals From Multiangle Polarimeters
+ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On
+RCTs & Human Uplift Studies: Methodological Challenges and Practical Solutions for Frontier AI Evaluation
+Early career researchers on the value and use of pre-prints
+LLM
+ Hallucination of Citations in Economics Persists With Web‐Enabled Models
