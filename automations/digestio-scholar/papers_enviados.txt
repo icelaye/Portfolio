@@ -1563,3 +1563,9 @@ RCTs & Human Uplift Studies: Methodological Challenges and Practical Solutions f
 Early career researchers on the value and use of pre-prints
 LLM
  Hallucination of Citations in Economics Persists With Web‐Enabled Models
+Progress Reward Model for Reinforcement Learning via Large Language Models
+Towards an Indigenous Geographies Agenda in Abya Yala? Epistemic‐Political Debates From Argentina
+XS-FedPRS: Explainable and Secure Federated Learning for Privacy-Preserving Genomic Analytics in Federated Healthcare Networks
+Spectroscopic and computational characterization of the nucleopeptide WWT reveals supramolecular organization, selective biomolecular interactions, and potential regenerative relevance.
+Cage-Constrained Chemical Reachability in π-Stacked Chrysene-Adenosine Systems: Existence, Stereochemical Selection, and Local Transformation Invariance
+Biology and conservation of the European mudminnow (Umbra krameri Walbaum, 1792): an update of the monograph 30 years after the first international workshop
