@@ -1585,3 +1585,10 @@ Standardization in Cloud Services: Ensuring Compliance and Supportability throug
 New wine, old bottles? Effective strategies of new
  GenAI
  firms
+The LSST Science Pipelines Software: Optical Survey Pipeline Reduction and Analysis Environment
+Impact of digital twin adoption on food supply chain performance: a system dynamics approach
+Productivity Gains from Labor Outsourcing: The Role of Trade Secrets
+Estimating the threat of AI-agent responding across online survey platforms.
+New wine, old bottles? Effective strategies of new
+ GenAI
+ firms
