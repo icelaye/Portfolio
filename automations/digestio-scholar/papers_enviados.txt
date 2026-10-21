@@ -1592,3 +1592,5 @@ Estimating the threat of AI-agent responding across online survey platforms.
 New wine, old bottles? Effective strategies of new
  GenAI
  firms
+Optimization of Renewable Energy Systems Using Artificial Intelligence in Nigeria: A Focus on Generation and Distribution
+Data Optimization for LLMs: A Survey
