@@ -1599,3 +1599,4 @@ Antimicrobial Resistance and One Health: Lessons on One Health Governance and Im
 Fleming Fund Implementation in Kenya: What Have We Learned About Strengthening One Health Antimicrobial Resistance Surveillance for Decision-making?
 ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical Use Cases
 Intellectual Property Law and Microbiology: Patenting Microorganisms and Genetic Material
+Patch Management or Public Law? A Critical Comment on the Five Eyes Guidance for the Careful Adoption of Agentic AI Services
