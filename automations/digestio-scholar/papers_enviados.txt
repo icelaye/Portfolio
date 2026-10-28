@@ -1601,3 +1601,5 @@ ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical U
 Intellectual Property Law and Microbiology: Patenting Microorganisms and Genetic Material
 Patch Management or Public Law? A Critical Comment on the Five Eyes Guidance for the Careful Adoption of Agentic AI Services
 Refined Assessment for Translation Evaluation: Rethinking Machine Translation Evaluation in the Era of Human-Level Systems
+Exploring perceptual straightness in learned visual representations
+Hybrid quantum-classical machine learning potential with variational quantum circuits
