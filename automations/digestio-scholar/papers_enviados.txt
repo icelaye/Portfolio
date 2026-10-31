@@ -1613,3 +1613,10 @@ Pembelajaran Pendidikan Agama Islam (PAI) di Sekolah
 Lattice free energies of molecular crystals using normalizing flow
 Scaling Laws of Data-Driven Machine Learning Models: A Survey and Taxonomy
 Algorithmic Bias from the Perspectives of Healthcare Professionals
+Assessing feature scorer results on high-dimensional datasets with t-SNE
+Off‐The‐Shelf Large Language Models Are Unreliable Judges
+Can FrodoKEM Run in a Millisecond? FPGA Says Yes!
+C-SafeGen: Certified Safe LLM Generation with Claim-Based Streaming Guardrails
+Genetic variants shape single-cell chromatin accessibility and disease risk.
+Rare and common genetic variants shape single-cell immune gene expression.
+Rate-induced tipping of ice sheets due to visco-elastic Earth response under idealized conditions
