@@ -1621,3 +1621,5 @@ Genetic variants shape single-cell chromatin accessibility and disease risk.
 Rare and common genetic variants shape single-cell immune gene expression.
 Rate-induced tipping of ice sheets due to visco-elastic Earth response under idealized conditions
 Comparing Human Roleplayers and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns
+Robust Detection of Dummy Data Attacks in Smart Grids via Transformer-Based Reinforcement Learning Under Partial Observability
+Trusting Machine Learning With Physics: A Fidelity Verification Framework for Complex Systems
